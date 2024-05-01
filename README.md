@@ -8,4 +8,7 @@ Current results:
 * PubMed:
   * n = 1191
   * search = (confounding) AND ((model selection) AND (variable selection)) AND ((epidemiology) OR (causal health))
+* Existing Zoterro Collection:
+  * n = 179
+  * Overlap unknown
 
