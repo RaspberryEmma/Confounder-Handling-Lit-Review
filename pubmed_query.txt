@@ -1,2 +1,5 @@
-confounder handling statistical modelling epidemiology
-(All Fields)
+(confounding)
+AND
+((model selection) AND (variable selection))
+AND
+((epidemiology) OR (causal health))
