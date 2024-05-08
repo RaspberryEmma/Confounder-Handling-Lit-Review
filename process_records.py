@@ -32,6 +32,11 @@ pubmed_df = pubmed_df.replace('NaN', np.nan)
 pubmed_df = pubmed_df.dropna()
 print(pubmed_df)
 
+print("\n\n*** Union ***")
+union = pd.merge(web_of_science_df, pubmed_df, how = "outer", on='DOI')
+print(union)
+union.to_csv('results/all_sources.csv', index=False)
+
 print("\n\n*** Zoterro ***")
 zoterro_df = pd.read_csv(zoterro_filename)
 zoterro_df.loc[:, "DOI"] = (zoterro_df.loc[:, "DOI"].str.split('.org/').str[1])
@@ -40,13 +45,13 @@ zoterro_df = zoterro_df.replace('NaN', np.nan)
 zoterro_df = zoterro_df.dropna() # NA or NaN indicates not an academic article here
 print(zoterro_df)
 
-print("\n\n*** Summary ***")
-union = pd.merge(web_of_science_df, pubmed_df, how = "outer", on='DOI')
-print(union)
-union.to_csv('results/all_sources.csv', index=False)
-
 # check whether nrow(intersection(union, zoterro) == nrow(zoterro)
-intersection = pd.merge(union, zoterro_df, how ='inner', on = 'DOI')
-print(intersection)
+# intersection = pd.merge(union, zoterro_df, how ='inner', on = 'DOI')
+# print(intersection)
 
+print("\n\n *** Summary ***")
+print("Web of Science, n =", len(web_of_science_df.index))
+print("PubMed, n =", len(pubmed_df.index))
+print("Union, n =", len(union.index))
+print("Zoterro, n =", len(zoterro_df.index))
 

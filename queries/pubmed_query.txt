@@ -1,5 +1,5 @@
-(confounding)
+(confounding[Title/Abstract])
 AND
-((model selection) AND (variable selection))
+((model selection[Title/Abstract]) AND (variable selection[Title/Abstract]))
 AND
-((epidemiology) OR (causal health))
+((epidemiology[Title/Abstract]))

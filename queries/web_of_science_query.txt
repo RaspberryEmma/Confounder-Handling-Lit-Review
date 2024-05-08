@@ -1,4 +1,4 @@
-(ALL=(confounder handling) OR ALL=(confounding))
+(TI=(confounder handling) OR TI=(confounding))
 AND
 (ALL=(statistical model) OR ALL=(model selection) OR ALL=(variable selection) OR ALL=(covariate selection))
 AND
