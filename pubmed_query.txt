@@ -1,5 +1,0 @@
-(confounding)
-AND
-((model selection) AND (variable selection))
-AND
-((epidemiology) OR (causal health))
