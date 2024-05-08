@@ -3,8 +3,8 @@ Literature review for my thesis on confounder handling within the broader topic 
 
 Current results:
 * Web of Science:
- * n = 1681
- * search = (ALL=(confounder handling) OR ALL=(confounding)) AND (ALL=(statistical model) OR ALL=(model selection) OR ALL=(variable selection) OR ALL=(covariate selection)) AND (ALL=(epidemiology) OR ALL=(causal health))
+  * n = 1681
+  * search = (ALL=(confounder handling) OR ALL=(confounding)) AND (ALL=(statistical model) OR ALL=(model selection) OR ALL=(variable selection) OR ALL=(covariate selection)) AND (ALL=(epidemiology) OR ALL=(causal health))
   * n = 1681
   * search = (ALL=(confounder handling) OR ALL=(confounding)) AND (ALL=(statistical model) OR ALL=(model selection) OR ALL=(variable selection) OR ALL=(covariate selection)) AND (ALL=(epidemiology) OR ALL=(causal health))
 * PubMed:
