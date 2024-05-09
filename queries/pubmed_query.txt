@@ -1,4 +1,3 @@
-(confounding[Title/Abstract])
+("confounding"[Title/Abstract] OR "confounder"[Title/Abstract])
 AND
-((model selection[Title/Abstract]) OR (variable selection[Title/Abstract]))
-
+("model selection"[Title/Abstract] OR "variable selection"[Title/Abstract]) 

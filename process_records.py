@@ -10,8 +10,9 @@
 # ****************************************
 
 
-import pandas as pd
 import numpy as np
+import pandas as pd
+from sys import exit
 
 
 web_of_science_filename = "results/web_of_science.txt" # note: tab delimited, not csv
@@ -55,20 +56,29 @@ print("PubMed, n =", len(pubmed_df.index))
 print("Union, n =", len(union.index))
 
 
-print("\n\n")
-print(union["DOI"])
-print("\n")
-print(key_papers_df["DOI"])
+print("\n\n", "*** Testing ***")
+print(union.loc[84, ])
+print(key_papers_df.loc[0, ])
+print(union.loc[84, "DOI"])
+print(key_papers_df.loc[0, "DOI"])
+print(union.loc[84, "DOI"] == key_papers_df.loc[0, "DOI"])
+
+print(union["DOI"].values)
 
 
+print("\n\n", "*** Checking Key Papers ***")
 found = False
-for i in range(0, len(key_papers_df["DOI"])):
-    found = False
-    paper = (key_papers_df.loc[:, "Title"])[i]
-    doi   = (key_papers_df.loc[:, "DOI"])[i]
+total = 0
+num_papers = len(key_papers_df.index)
 
-    if doi in union["DOI"]:
+for i in range(0, num_papers):
+    found = False
+    paper = key_papers_df.loc[i, "Title"]
+    doi   = key_papers_df.loc[i, "DOI"]
+
+    if doi in union["DOI"].values:
         found = True
+        total += 1
 
     print("  *", paper, ":", found)
-
+print("Total Found: ", total, "/", num_papers)

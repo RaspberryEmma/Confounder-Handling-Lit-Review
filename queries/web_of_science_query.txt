@@ -1,5 +1,5 @@
 (TI=(confounder handling) OR TI=(confounding))
 AND
-(ALL=(statistical model) OR ALL=(model selection) OR ALL=(variable selection) OR ALL=(covariate selection))
+(ALL=(statistical model) OR ALL=(model selection) OR ALL=(variable selection))
 AND
-(ALL=(epidemiology) OR ALL=(causal health))
+(ALL=(epidemiology) OR ALL=(causal))
