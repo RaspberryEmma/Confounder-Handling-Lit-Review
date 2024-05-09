@@ -35,5 +35,5 @@ Current results:
   * The Impact of Residual and Unmeasured Confounding in Epidemiologic Studies: A Simulation Study : False
   * On efficient adjustment in causal graphs : False
   * Covariate selection strategies for causal inference: Classification and comparison : True
-Total Found:  7 / 19
+  * Total Found:  7 / 19
 
