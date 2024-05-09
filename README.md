@@ -16,20 +16,23 @@ Current results:
   * n = 318
 
 * Key Papers Accounted For:
-  * Principles of Confounder Selection: FALSE
-  * Confounder Selection via Iterative Graph Expansion: FALSE
-  * Confounder selection strategies targeting stable causal effect estimates: FALSE
-  * A new criterion for confounder selection: FALSE
-  * OSCAR: FALSE
-  * SLOPE: FALSE
-  * SCAD: FALSE
-  * MCP: FALSE
-  * LASSO alts: FALSE
-  * Step: FALSE
-  * How to check a simulation study: FALSE
-  * USing simulation studies to evaluate statistical methods: FALSE
-  * The change in estimate method for selecting confounders: A simulation study: FALSE
-  * Confounding and Confounders: FALSE
-  * Use of (DAGs): FALSE
-  * Identification of confounders ... measurement error ... : FALSE
+  * Principles of Confounder Selection : False
+  * Confounder Selection via Iterative Graph Expansion : False
+  * Confounder selection strategies targeting stable treatment effect estimators : False
+  * A new criterion for confounder selection : False
+  * Simultaneous Regression Shrinkage, Variable Selection, and Supervised Clustering of Predictors with OSCAR : False
+  * SCAD-Penalised Regression in High-Dimensional Partially Linear Models : False
+  * Regression Shrinkage and Selection via the Lasso : False
+  * Penalized Regression, Standard Errors, and Bayesian Lassos : False
+  * Outcome-Adaptive Lasso: Variable Selection for Causal Inference : False
+  * Forward stagewise regression and the monotone lasso : False
+  * How to check a simulation study : False
+  * Using simulation studies to evaluate statistical methods : False
+  * The change in estimate method for selecting confounders: A simulation study : False
+  * Confounding and Confounders : False
+  * Use of directed acyclic graphs (DAGs) to identify confounders in applied health research: review and recommendations : False
+  * Identification of confounder in epidemiologic data contaminated by measurement error in covariates : False
+  * The Impact of Residual and Unmeasured Confounding in Epidemiologic Studies: A Simulation Study : False
+  * On efficient adjustment in causal graphs : False
+  * Covariate selection strategies for causal inference: Classification and comparison : False
 
