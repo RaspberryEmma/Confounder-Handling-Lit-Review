@@ -56,14 +56,13 @@ print("PubMed, n =", len(pubmed_df.index))
 print("Union, n =", len(union.index))
 
 
-print("\n\n", "*** Testing ***")
-print(union.loc[84, ])
-print(key_papers_df.loc[0, ])
-print(union.loc[84, "DOI"])
-print(key_papers_df.loc[0, "DOI"])
-print(union.loc[84, "DOI"] == key_papers_df.loc[0, "DOI"])
-
-print(union["DOI"].values)
+# print("\n\n", "*** Testing ***")
+# print(union.loc[84, ])
+# print(key_papers_df.loc[0, ])
+# print(union.loc[84, "DOI"])
+# print(key_papers_df.loc[0, "DOI"])
+# print(union.loc[84, "DOI"] == key_papers_df.loc[0, "DOI"])
+# print(union["DOI"].values)
 
 
 print("\n\n", "*** Checking Key Papers ***")
@@ -81,4 +80,4 @@ for i in range(0, num_papers):
         total += 1
 
     print("  *", paper, ":", found)
-print("Total Found: ", total, "/", num_papers)
+print("  * Total Found: ", total, "/", num_papers)
