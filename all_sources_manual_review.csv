@@ -62,44 +62,44 @@ A class of semiparametric tests of treatment effect robust to confounder measure
 Mediation analysis of time-to-event endpoints accounting for repeatedly measured mediators subject to time-varying confounding,10.1002/sim.8336,0,0,0,
 Safety surveillance and the estimation of risk in select populations: Flexible methods to control for confounding while targeting marginal comparisons via standardization,10.1002/sim.8410,0,0,0,
 "Bias testing, bias correction, and confounder selection using an instrumental variable model",10.1002/sim.8730,1,0,0,
-Confounder selection strategies targeting stable treatment effect estimators,10.1002/sim.8792,,,,
-Using generalized linear models to implement g-estimation for survival data with time-varying confounding,10.1002/sim.8997,,,,
-Practical recommendations on double score matching for estimating causal effects,10.1002/sim.9289,,,,
-Identification and robust estimation of swapped direct and indirect effects: Mediation analysis with unmeasured mediator-outcome confounding and intermediate confounding,10.1002/sim.9501,,,,
-Consistent inverse probability of treatment weighted estimation of the average treatment effect with mismeasured time-dependent confounders,10.1002/sim.9629,,,,
-Causal inference in survival analysis under deterministic missingness of confounders in register data,10.1002/sim.9706,,,,
-Variable selection and Bayesian model averaging in case-control studies,10.1002/sim.976,,,,
-A Bayesian multistage spatio-temporally dependent model for spatial clustering and variable selection,10.1002/sim.9889,,,,
-Dealing with time-dependent exposures and confounding when defining and estimating attributable fractions-Revisiting estimands and estimators,10.1002/sim.9988,,,,
-Removal of Confounders via Invariant Risk Minimization for Medical Diagnosis,10.1007/978-3-031-16452-1_55,,,,
-Time-resolved biomarker discovery in 1H-NMR data using generalized fuzzy Hough transform alignment and parallel factor analysis,10.1007/s00216-009-3421-5,,,,
-Polypharmacy and mortality: new insights from a large cohort of older adults by detection of effect modification by multi-morbidity and comprehensive correction of confounding by indication,10.1007/s00228-017-2266-7,,,,
-Learning Causal Graphs with Latent Confounders in Weak Faithfulness Violations,10.1007/s00354-016-0003-x,,,,
-Balance disorders as potential confounders associated with an increased risk of acute cerebrovascular accidents,10.1007/s00405-020-06465-y,,,,
-Different statistical techniques dealing with confounding in observational research: measuring the effect of breast-conserving therapy and mastectomy on survival,10.1007/s00432-019-02919-x,,,,
-"Sensitivity analysis for unobserved confounding in causal mediation analysis allowing for effect modification, censoring and truncation",10.1007/s10260-021-00611-4,,,,
-Variable selection: current practice in epidemiological studies,10.1007/s10654-009-9411-2,,,,
-Selection of confounding variables should not be based on observed associations with exposure,10.1007/s10654-011-9606-1,,,,
-"From bad to worse: collider stratification amplifies confounding bias in the ""obesity paradox""",10.1007/s10654-015-0069-7,,,,
-"Limitations of individual causal models, causal graphs, and ignorability assumptions, as illustrated by random confounding and design unfaithfulness",10.1007/s10654-015-9995-7,,,,
-The meaning of confounding adjustment in the presence of multiple versions of treatment: an application to organ transplantation,10.1007/s10654-019-00484-8,,,,
-Principles of confounder selection,10.1007/s10654-019-00494-6,,,,
-A descriptive review of variable selection methods in four epidemiologic journals: there is still room for improvement,10.1007/s10654-019-00529-y,,,,
-Case-control matching on confounders revisited,10.1007/s10654-023-01046-9,,,,
-"A Simulation-Based Assessment of Alternative Explanations for Apparent Confounding in ""PM Decomposition"" Studies",10.1007/s10666-022-09829-2,,,,
-Causal modelling of heavy-tailed variables and confounders with application to river flow,10.1007/s10687-022-00456-4,,,,
-Addressing missing data in confounders when estimating propensity scores for continuous exposures,10.1007/s10742-018-0191-6,,,,
-The Causal Relationship between Childhood Adversity and Developmental Trajectories of Delinquency: A Consideration of Genetic and Environmental Confounds,10.1007/s10964-018-0960-0,,,,
-Sensitivity analysis for unmeasured confounding in a marginal structural Cox proportional hazards model,10.1007/s10985-008-9109-x,,,,
-Low-dimensional confounder adjustment and high-dimensional penalized estimation for survival analysis,10.1007/s10985-015-9350-z,,,,
-Approximate Bayesian inference in semi-mechanistic models,10.1007/s11222-016-9668-8,,,,
-A Review of the Techniques Used to Control Confounding Bias and How Spatiotemporal Variation Can Be Controlled in Environmental Impact Studies,10.1007/s11270-019-4150-9,,,,
-Estimation of Causal Effect Measures in the Presence of Measurement Error in Confounders,10.1007/s12561-018-9213-8,,,,
-Incorporating Genetic Heterogeneity in Whole-Genome Regressions Using Interactions,10.1007/s13253-015-0222-5,,,,
-High-Dimensional Propensity Score-Adjusted Case-Crossover for Discovering Adverse Drug Reactions from Computerized Administrative Healthcare Databases,10.1007/s40264-022-01148-5,,,,
-Microcomputer-assisted multivariate survival data analysis using Cox's proportional hazards regression model,10.1016/0169-2607(90)90054-d,,,,
-Inappropriate use of bivariable analysis to screen risk factors for use in multivariable analysis,10.1016/0895-4356(96)00025-x,,,,
-Combining ecological and individual variables to reduce confounding by indication: Case study - subarachnoid hemorrhage treatment,10.1016/S0895-4356(00)00251-1,,,,
+Confounder selection strategies targeting stable treatment effect estimators,10.1002/sim.8792,1,1,0,Table 1
+Using generalized linear models to implement g-estimation for survival data with time-varying confounding,10.1002/sim.8997,1,0,0,
+Practical recommendations on double score matching for estimating causal effects,10.1002/sim.9289,1,1,0,
+Identification and robust estimation of swapped direct and indirect effects: Mediation analysis with unmeasured mediator-outcome confounding and intermediate confounding,10.1002/sim.9501,1,1,0,
+Consistent inverse probability of treatment weighted estimation of the average treatment effect with mismeasured time-dependent confounders,10.1002/sim.9629,1,1,0,
+Causal inference in survival analysis under deterministic missingness of confounders in register data,10.1002/sim.9706,0,0,0,MNAR
+Variable selection and Bayesian model averaging in case-control studies,10.1002/sim.976,1,0,0,
+A Bayesian multistage spatio-temporally dependent model for spatial clustering and variable selection,10.1002/sim.9889,0,0,0,Spatio-temporal clustering
+Dealing with time-dependent exposures and confounding when defining and estimating attributable fractions-Revisiting estimands and estimators,10.1002/sim.9988,0,0,0,
+Removal of Confounders via Invariant Risk Minimization for Medical Diagnosis,10.1007/978-3-031-16452-1_55,1,0,0,Ml-based
+Time-resolved biomarker discovery in 1H-NMR data using generalized fuzzy Hough transform alignment and parallel factor analysis,10.1007/s00216-009-3421-5,0,0,0,
+Polypharmacy and mortality: new insights from a large cohort of older adults by detection of effect modification by multi-morbidity and comprehensive correction of confounding by indication,10.1007/s00228-017-2266-7,0,0,0,
+Learning Causal Graphs with Latent Confounders in Weak Faithfulness Violations,10.1007/s00354-016-0003-x,1,0,0,
+Balance disorders as potential confounders associated with an increased risk of acute cerebrovascular accidents,10.1007/s00405-020-06465-y,0,0,0,
+Different statistical techniques dealing with confounding in observational research: measuring the effect of breast-conserving therapy and mastectomy on survival,10.1007/s00432-019-02919-x,0,0,0,
+"Sensitivity analysis for unobserved confounding in causal mediation analysis allowing for effect modification, censoring and truncation",10.1007/s10260-021-00611-4,1,1,0,
+Variable selection: current practice in epidemiological studies,10.1007/s10654-009-9411-2,1,0,1,Possibly outdated review (2009)
+Selection of confounding variables should not be based on observed associations with exposure,10.1007/s10654-011-9606-1,1,0,0,Singular
+"From bad to worse: collider stratification amplifies confounding bias in the ""obesity paradox""",10.1007/s10654-015-0069-7,1,0,0,Interacting biases
+"Limitations of individual causal models, causal graphs, and ignorability assumptions, as illustrated by random confounding and design unfaithfulness",10.1007/s10654-015-9995-7,1,0,0,Causal theory
+The meaning of confounding adjustment in the presence of multiple versions of treatment: an application to organ transplantation,10.1007/s10654-019-00484-8,0,0,0,Application
+Principles of confounder selection,10.1007/s10654-019-00494-6,1,0,1,VanderWeele
+A descriptive review of variable selection methods in four epidemiologic journals: there is still room for improvement,10.1007/s10654-019-00529-y,1,0,1,
+Case-control matching on confounders revisited,10.1007/s10654-023-01046-9,1,0,0,
+"A Simulation-Based Assessment of Alternative Explanations for Apparent Confounding in ""PM Decomposition"" Studies",10.1007/s10666-022-09829-2,0,0,0,Application
+Causal modelling of heavy-tailed variables and confounders with application to river flow,10.1007/s10687-022-00456-4,1,1,0,Specific heavy-tail assumption
+Addressing missing data in confounders when estimating propensity scores for continuous exposures,10.1007/s10742-018-0191-6,1,0,0,Missingness
+The Causal Relationship between Childhood Adversity and Developmental Trajectories of Delinquency: A Consideration of Genetic and Environmental Confounds,10.1007/s10964-018-0960-0,0,0,0,Application
+Sensitivity analysis for unmeasured confounding in a marginal structural Cox proportional hazards model,10.1007/s10985-008-9109-x,1,0,0,
+Low-dimensional confounder adjustment and high-dimensional penalized estimation for survival analysis,10.1007/s10985-015-9350-z,1,0,1,"Table 1, Table 2"
+Approximate Bayesian inference in semi-mechanistic models,10.1007/s11222-016-9668-8,0,0,0,Statistical theory
+A Review of the Techniques Used to Control Confounding Bias and How Spatiotemporal Variation Can Be Controlled in Environmental Impact Studies,10.1007/s11270-019-4150-9,1,0,1,
+Estimation of Causal Effect Measures in the Presence of Measurement Error in Confounders,10.1007/s12561-018-9213-8,1,0,0,Measurement error
+Incorporating Genetic Heterogeneity in Whole-Genome Regressions Using Interactions,10.1007/s13253-015-0222-5,0,0,0,
+High-Dimensional Propensity Score-Adjusted Case-Crossover for Discovering Adverse Drug Reactions from Computerized Administrative Healthcare Databases,10.1007/s40264-022-01148-5,1,1,0,
+Microcomputer-assisted multivariate survival data analysis using Cox's proportional hazards regression model,10.1016/0169-2607(90)90054-d,0,0,0,Computational application
+Inappropriate use of bivariable analysis to screen risk factors for use in multivariable analysis,10.1016/0895-4356(96)00025-x,0,0,0,
+Combining ecological and individual variables to reduce confounding by indication: Case study - subarachnoid hemorrhage treatment,10.1016/S0895-4356(00)00251-1,1,0,0,
 "Calculating the ""number needed to be exposed"" with adjustment for confounding variables in epidemiological studies",10.1016/S0895-4356(01)00510-8,,,,
 On Miettinen's multivariate confounder score,10.1016/S0895-4356(97)00283-7,,,,
 Identification of confounders in the assessment of the relationship between lead exposure and child development,10.1016/S1047-2797(00)00176-9,,,,
