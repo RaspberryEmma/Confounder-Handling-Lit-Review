@@ -100,65 +100,65 @@ High-Dimensional Propensity Score-Adjusted Case-Crossover for Discovering Advers
 Microcomputer-assisted multivariate survival data analysis using Cox's proportional hazards regression model,10.1016/0169-2607(90)90054-d,0,0,0,Computational application
 Inappropriate use of bivariable analysis to screen risk factors for use in multivariable analysis,10.1016/0895-4356(96)00025-x,0,0,0,
 Combining ecological and individual variables to reduce confounding by indication: Case study - subarachnoid hemorrhage treatment,10.1016/S0895-4356(00)00251-1,1,0,0,
-"Calculating the ""number needed to be exposed"" with adjustment for confounding variables in epidemiological studies",10.1016/S0895-4356(01)00510-8,,,,
-On Miettinen's multivariate confounder score,10.1016/S0895-4356(97)00283-7,,,,
-Identification of confounders in the assessment of the relationship between lead exposure and child development,10.1016/S1047-2797(00)00176-9,,,,
-Confounders or intermediate variables? Testing mechanisms for the relationship between depression and smoking in a longitudinal cohort study,10.1016/j.addbeh.2014.11.026,,,,
-Observational Dose-Response Meta-Analysis Methods May Bias Risk Estimates at Low Consumption Levels: The Case of Meat and Colorectal Cancer,10.1016/j.advnut.2024.100214,,,,
-"Confounding, causality, and confusion: the role of intermediate variables in interpreting observational studies in obstetrics",10.1016/j.ajog.2017.04.016,,,,
-Using Causal Diagrams for Biomedical Research,10.1016/j.annemergmed.2022.08.014,,,,
-Confounder selection in environmental epidemiology: Assessment of health effects of prenatal mercury exposure,10.1016/j.annepidem.2006.05.007,,,,
-Bias formulas for external adjustment and sensitivity analysis of unmeasured confounders,10.1016/j.annepidem.2008.04.003,,,,
-Time-Dependent Confounding in the Study of the Effects of Regular Physical Activity in Chronic Obstructive Pulmonary Disease: An Application of the Marginal Structural Model,10.1016/j.annepidem.2008.05.003,,,,
-Confounding by Season in Ecologic Studies of Seasonal Exposures and Outcomes: Examples From Estimates of Mortality Due to Influenza,10.1016/j.annepidem.2009.06.009,,,,
-Confounding control in a nonexperimental study of STAR*D data: logistic regression balanced covariates better than boosted CART,10.1016/j.annepidem.2013.01.004,,,,
-Trimester-specific association between antibiotics exposure during pregnancy and childhood asthma or wheeze: the role of confounding,10.1016/j.annepidem.2018.10.003,,,,
-Visualization tool of variable selection in bias-variance tradeoff for inverse probability weights,10.1016/j.annepidem.2019.12.006,,,,
-"Avoiding Systematic Bias in Orthopedics Research Through Informed Variable Selection: A Discussion of Confounders, Mediators, and Colliders",10.1016/j.arth.2022.05.027,,,,
-On the completeness of orientation rules for causal discovery in the presence of latent confounders and selection bias,10.1016/j.artint.2008.08.001,,,,
-Variations in prostate biopsy recommendation and acceptance confound evaluation of risk factors for prostate cancer: Examining race and BMI,10.1016/j.canep.2019.101619,,,,
-The effect of the prior distribution in the <i>Bayesian Adjustment for Confounding algorithm</i>,10.1016/j.csda.2013.09.011,,,,
-Plasmode simulation for the evaluation of pharmacoepidemiologic methods in complex healthcare databases,10.1016/j.csda.2013.10.018,,,,
-Causal mediation analysis for survival outcome with unobserved mediator-outcome confounders,10.1016/j.csda.2014.11.016,,,,
-A causal examination of the effects of confounding factors on multimetric indices,10.1016/j.ecolind.2013.01.015,,,,
-Bayesian geostatistical modelling of PM(10) and PM(2.5) surface level concentrations in Europe using high-resolution satellite-derived products,10.1016/j.envint.2018.08.041,,,,
-A case-cohort study of perinatal exposure to potential endocrine disrupters and the risk of cryptorchidism in the Norwegian HUMIS study,10.1016/j.envint.2021.106815,,,,
-"Implications of nonlinearity, confounding, and interactions for estimating exposure concentration-response functions in quantitative risk analysis",10.1016/j.envres.2020.109638,,,,
-Assessing urinary phenol and paraben mixtures in pregnant women with and without gestational diabetes mellitus: A case-control study,10.1016/j.envres.2022.113897,,,,
-An evaluation of Hamiltonian Monte Carlo performance to calibrate age-structured compartmental SEIR models to incidence data,10.1016/j.epidem.2020.100415,,,,
-Scope of Mendelian randomization to control for unobserved confounding in epidemiology,10.1016/j.gaceta.2021.01.008,,,,
-Propensity score methods to control for confounding in observational cohort studies: a statistical primer and application to endoscopy research,10.1016/j.gie.2019.04.236,,,,
-Reducing the complexity of high-dimensional environmental data: An analytical framework using LASSO with considerations of confounding for statistical inference,10.1016/j.ijheh.2023.114116,,,,
-Using computable knowledge mined from the literature to elucidate confounders for EHR-based pharmacovigilance,10.1016/j.jbi.2021.103719,,,,
-Adjusting for indirectly measured confounding using large-scale propensity score,10.1016/j.jbi.2022.104204,,,,
-A sensitivity analysis using information about measured confounders yielded improved uncertainty assessments for unmeasured confounding,10.1016/j.jclinepi.2007.05.006,,,,
-External adjustment for unmeasured confounders improved drug-outcome association estimates based on health care utilization data,10.1016/j.jclinepi.2012.03.014,,,,
-Reporting of covariate selection and balance assessment in propensity score analysis is suboptimal: a systematic review,10.1016/j.jclinepi.2014.08.011,,,,
-Birth cohort appeared to confound effect estimates of guideline changes on statin utilization,10.1016/j.jclinepi.2014.10.010,,,,
-Comparison of high-dimensional confounder summary scores in comparative studies of newly marketed medications,10.1016/j.jclinepi.2016.02.011,,,,
-Magnitude and direction of missing confounders had different consequences on treatment effect estimation in propensity score analysis,10.1016/j.jclinepi.2017.04.001,,,,
-Adjusting for unmeasured confounding in nonrandomized longitudinal studies: a methodological review,10.1016/j.jclinepi.2017.04.022,,,,
-"Approaches to addressing missing values, measurement error, and confounding in epidemiologic studies",10.1016/j.jclinepi.2020.11.006,,,,
-On the selection of variables in criminology: Adjusting for the descendants of unobserved confounders,10.1016/j.jcrimjus.2022.101924,,,,
-"Second-generation corneal deformation signal waveform analysis in normal, forme fruste keratoconic, and manifest keratoconic corneas after statistical correction for potentially confounding factors",10.1016/j.jcrs.2015.11.011,,,,
-Causal inference of general treatment effects using neural networks with a diverging number of confounders,10.1016/j.jeconom.2023.105555,,,,
-Intensive care unit (ICU)-acquired bacteraemia and ICU mortality and discharge: addressing time-varying confounding using appropriate methodology,10.1016/j.jhin.2017.11.011,,,,
-Predictors of leiomyoma recurrence after laparoscopic myomectomy,10.1016/j.jmig.2007.06.003,,,,
-Network inference in the presence of latent confounders: The role of instantaneous causalities,10.1016/j.jneumeth.2015.02.015,,,,
-"Nonlinear association criterion, nonlinear Granger causality and related issues with applications to neuroimage studies",10.1016/j.jneumeth.2016.01.003,,,,
-Detecting multiple confounders,10.1016/j.jspi.2008.06.013,,,,
-Similar failure and patency rates when comparing one- and two-stage basilic vein transposition,10.1016/j.jvs.2014.11.083,,,,
-A practical method to control spatiotemporal confounding in environmental impact studies,10.1016/j.mex.2018.07.003,,,,
-Dynamic Causal Modelling and physiological confounds: A functional MRI study of vagus nerve stimulation,10.1016/j.neuroimage.2010.05.021,,,,
-Identification of causal relations in neuroimaging data with latent confounders: An instrumental variable approach,10.1016/j.neuroimage.2015.10.062,,,,
-Model selection for identifying power-law scaling,10.1016/j.neuroimage.2016.01.008,,,,
-Examining how physician factors influence patient satisfaction during clinical consultations about cancer prognosis and pain,10.1016/j.pecinn.2022.100017,,,,
-The impact of confounder selection in propensity scores when applied to prospective cohort studies in pregnancy,10.1016/j.reprotox.2018.04.003,,,,
-Association of low-level inorganic arsenic exposure from rice with age-standardized mortality risk of cardiovascular disease (CVD) in England and Wales,10.1016/j.scitotenv.2020.140534,,,,
-Variable selection in heterogeneous datasets: A truncated-rank sparse linear mixed model with applications to genome-wide association studies,10.1016/j.ymeth.2018.04.021,,,,
-Assessing topological congruence among concatenation-based phylogenomic approaches in empirical datasets,10.1016/j.ympev.2021.107086,,,,
-Risk factors of prolonged postoperative pleural effusion after repair of tetralogy of Fallot,10.1016/s1726-4901(09)70155-8,,,,
-"Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",10.1017/S0140525X22001145,,,,
+"Calculating the ""number needed to be exposed"" with adjustment for confounding variables in epidemiological studies",10.1016/S0895-4356(01)00510-8,1,0,0,Experimental design
+On Miettinen's multivariate confounder score,10.1016/S0895-4356(97)00283-7,1,0,0,Fallen into disuse
+Identification of confounders in the assessment of the relationship between lead exposure and child development,10.1016/S1047-2797(00)00176-9,0,0,0,Application
+Confounders or intermediate variables? Testing mechanisms for the relationship between depression and smoking in a longitudinal cohort study,10.1016/j.addbeh.2014.11.026,0,0,0,Application
+Observational Dose-Response Meta-Analysis Methods May Bias Risk Estimates at Low Consumption Levels: The Case of Meat and Colorectal Cancer,10.1016/j.advnut.2024.100214,0,0,0,Application
+"Confounding, causality, and confusion: the role of intermediate variables in interpreting observational studies in obstetrics",10.1016/j.ajog.2017.04.016,1,0,1,Biases
+Using Causal Diagrams for Biomedical Research,10.1016/j.annemergmed.2022.08.014,1,0,0,Basic concepts
+Confounder selection in environmental epidemiology: Assessment of health effects of prenatal mercury exposure,10.1016/j.annepidem.2006.05.007,1,1,0,
+Bias formulas for external adjustment and sensitivity analysis of unmeasured confounders,10.1016/j.annepidem.2008.04.003,1,0,0,Biases
+Time-Dependent Confounding in the Study of the Effects of Regular Physical Activity in Chronic Obstructive Pulmonary Disease: An Application of the Marginal Structural Model,10.1016/j.annepidem.2008.05.003,0,0,0,Application
+Confounding by Season in Ecologic Studies of Seasonal Exposures and Outcomes: Examples From Estimates of Mortality Due to Influenza,10.1016/j.annepidem.2009.06.009,1,0,0,Temporal
+Confounding control in a nonexperimental study of STAR*D data: logistic regression balanced covariates better than boosted CART,10.1016/j.annepidem.2013.01.004,1,0,0,
+Trimester-specific association between antibiotics exposure during pregnancy and childhood asthma or wheeze: the role of confounding,10.1016/j.annepidem.2018.10.003,0,0,0,
+Visualization tool of variable selection in bias-variance tradeoff for inverse probability weights,10.1016/j.annepidem.2019.12.006,1,0,0,
+"Avoiding Systematic Bias in Orthopedics Research Through Informed Variable Selection: A Discussion of Confounders, Mediators, and Colliders",10.1016/j.arth.2022.05.027,1,0,0,
+On the completeness of orientation rules for causal discovery in the presence of latent confounders and selection bias,10.1016/j.artint.2008.08.001,1,0,0,
+Variations in prostate biopsy recommendation and acceptance confound evaluation of risk factors for prostate cancer: Examining race and BMI,10.1016/j.canep.2019.101619,0,0,0,Application
+The effect of the prior distribution in the <i>Bayesian Adjustment for Confounding algorithm</i>,10.1016/j.csda.2013.09.011,1,0,0,
+Plasmode simulation for the evaluation of pharmacoepidemiologic methods in complex healthcare databases,10.1016/j.csda.2013.10.018,1,0,0,Data simulation
+Causal mediation analysis for survival outcome with unobserved mediator-outcome confounders,10.1016/j.csda.2014.11.016,1,0,0,
+A causal examination of the effects of confounding factors on multimetric indices,10.1016/j.ecolind.2013.01.015,0,0,0,
+Bayesian geostatistical modelling of PM(10) and PM(2.5) surface level concentrations in Europe using high-resolution satellite-derived products,10.1016/j.envint.2018.08.041,0,0,0,Application
+A case-cohort study of perinatal exposure to potential endocrine disrupters and the risk of cryptorchidism in the Norwegian HUMIS study,10.1016/j.envint.2021.106815,0,0,0,Application
+"Implications of nonlinearity, confounding, and interactions for estimating exposure concentration-response functions in quantitative risk analysis",10.1016/j.envres.2020.109638,0,0,0,
+Assessing urinary phenol and paraben mixtures in pregnant women with and without gestational diabetes mellitus: A case-control study,10.1016/j.envres.2022.113897,0,0,0,Application
+An evaluation of Hamiltonian Monte Carlo performance to calibrate age-structured compartmental SEIR models to incidence data,10.1016/j.epidem.2020.100415,0,0,0,Application
+Scope of Mendelian randomization to control for unobserved confounding in epidemiology,10.1016/j.gaceta.2021.01.008,1,0,0,MR
+Propensity score methods to control for confounding in observational cohort studies: a statistical primer and application to endoscopy research,10.1016/j.gie.2019.04.236,1,0,0,
+Reducing the complexity of high-dimensional environmental data: An analytical framework using LASSO with considerations of confounding for statistical inference,10.1016/j.ijheh.2023.114116,1,0,0,LASSO
+Using computable knowledge mined from the literature to elucidate confounders for EHR-based pharmacovigilance,10.1016/j.jbi.2021.103719,1,0,0,
+Adjusting for indirectly measured confounding using large-scale propensity score,10.1016/j.jbi.2022.104204,1,0,0,
+A sensitivity analysis using information about measured confounders yielded improved uncertainty assessments for unmeasured confounding,10.1016/j.jclinepi.2007.05.006,1,0,0,unmeasured
+External adjustment for unmeasured confounders improved drug-outcome association estimates based on health care utilization data,10.1016/j.jclinepi.2012.03.014,0,0,0,Application
+Reporting of covariate selection and balance assessment in propensity score analysis is suboptimal: a systematic review,10.1016/j.jclinepi.2014.08.011,1,0,1,
+Birth cohort appeared to confound effect estimates of guideline changes on statin utilization,10.1016/j.jclinepi.2014.10.010,0,0,0,Application
+Comparison of high-dimensional confounder summary scores in comparative studies of newly marketed medications,10.1016/j.jclinepi.2016.02.011,1,1,0,
+Magnitude and direction of missing confounders had different consequences on treatment effect estimation in propensity score analysis,10.1016/j.jclinepi.2017.04.001,1,0,0,Missingness
+Adjusting for unmeasured confounding in nonrandomized longitudinal studies: a methodological review,10.1016/j.jclinepi.2017.04.022,1,0,1,EHR
+"Approaches to addressing missing values, measurement error, and confounding in epidemiologic studies",10.1016/j.jclinepi.2020.11.006,1,0,0,"Missingness, measurement error, incompleteness"
+On the selection of variables in criminology: Adjusting for the descendants of unobserved confounders,10.1016/j.jcrimjus.2022.101924,1,0,0,
+"Second-generation corneal deformation signal waveform analysis in normal, forme fruste keratoconic, and manifest keratoconic corneas after statistical correction for potentially confounding factors",10.1016/j.jcrs.2015.11.011,0,0,0,Application
+Causal inference of general treatment effects using neural networks with a diverging number of confounders,10.1016/j.jeconom.2023.105555,1,0,0,"Ml-based, good"
+Intensive care unit (ICU)-acquired bacteraemia and ICU mortality and discharge: addressing time-varying confounding using appropriate methodology,10.1016/j.jhin.2017.11.011,0,0,0,Application
+Predictors of leiomyoma recurrence after laparoscopic myomectomy,10.1016/j.jmig.2007.06.003,0,0,0,Application
+Network inference in the presence of latent confounders: The role of instantaneous causalities,10.1016/j.jneumeth.2015.02.015,1,0,0,Networks
+"Nonlinear association criterion, nonlinear Granger causality and related issues with applications to neuroimage studies",10.1016/j.jneumeth.2016.01.003,0,0,1,Non-confounding
+Detecting multiple confounders,10.1016/j.jspi.2008.06.013,1,0,0,
+Similar failure and patency rates when comparing one- and two-stage basilic vein transposition,10.1016/j.jvs.2014.11.083,0,0,0,Application
+A practical method to control spatiotemporal confounding in environmental impact studies,10.1016/j.mex.2018.07.003,1,0,0,Spatio-temporal
+Dynamic Causal Modelling and physiological confounds: A functional MRI study of vagus nerve stimulation,10.1016/j.neuroimage.2010.05.021,0,0,0,Application
+Identification of causal relations in neuroimaging data with latent confounders: An instrumental variable approach,10.1016/j.neuroimage.2015.10.062,1,0,0,Instrumental
+Model selection for identifying power-law scaling,10.1016/j.neuroimage.2016.01.008,0,0,0,Non-confounding
+Examining how physician factors influence patient satisfaction during clinical consultations about cancer prognosis and pain,10.1016/j.pecinn.2022.100017,0,0,0,Application
+The impact of confounder selection in propensity scores when applied to prospective cohort studies in pregnancy,10.1016/j.reprotox.2018.04.003,0,0,0,Application
+Association of low-level inorganic arsenic exposure from rice with age-standardized mortality risk of cardiovascular disease (CVD) in England and Wales,10.1016/j.scitotenv.2020.140534,0,0,0,Application
+Variable selection in heterogeneous datasets: A truncated-rank sparse linear mixed model with applications to genome-wide association studies,10.1016/j.ymeth.2018.04.021,0,0,0,Non-confounding
+Assessing topological congruence among concatenation-based phylogenomic approaches in empirical datasets,10.1016/j.ympev.2021.107086,0,0,0,Non-confounding
+Risk factors of prolonged postoperative pleural effusion after repair of tetralogy of Fallot,10.1016/s1726-4901(09)70155-8,0,0,0,Application
+"Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",10.1017/S0140525X22001145,0,0,0,Application
 "Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",10.1017/S0140525X22002394,,,,
 Applications of the propensity score weighting method in psychogeriatric research: correcting selection bias and adjusting for confounders,10.1017/S1041610216002490,,,,
 Sources of confounding in life course epidemiology,10.1017/S2040174418000582,,,,
