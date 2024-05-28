@@ -219,29 +219,29 @@ Dealing With Treatment-Confounder Feedback and Sparse Follow-up in Longitudinal 
 Recent Methodological Trends in Epidemiology: No Need for Data-Driven Variable Selection?,10.1093/aje/kwad193,1,0,1,Key
 Confounder Adjustment Using the Disease Risk Score: A Proposal for Weighting Methods,10.1093/aje/kwad196,1,0,0,
 Comparison of logistic regression versus propensity score when the number of events is low and there are multiple confounders,10.1093/aje/kwg115,0,1,0,
-Monte Carlo sensitivity analysis and Bayesian analysis of smoking as an unmeasured confounder in a study of silica and lung cancer,10.1093/aje/kwh211,,,,
-An application of model-fitting procedures for marginal structural models,10.1093/aje/kwi208,,,,
-Invited commentary: Variable selection versus shrinkage in the control of multiple confounders,10.1093/aje/kwm355,,,,
-"Pischon et al. Respond to ""Variable Selection versus Shrinkage in Control of Confounders""",10.1093/aje/kwm358,,,,
-"Re: ""Invited commentary: Variable selection versus shrinkage in the control of multiple confounders"" (vol 167, pg 523, 2008)",10.1093/aje/kwn088,,,,
-Confounding by Dietary Patterns of the Inverse Association Between Alcohol Consumption and Type 2 Diabetes Risk,10.1093/aje/kwp096,,,,
-Time-modified Confounding,10.1093/aje/kwp175,,,,
-Effects of Socioeconomic and Racial Residential Segregation on Preterm Birth: A Cautionary Tale of Structural Confounding,10.1093/aje/kwp435,,,,
-Treatment Effects in the Presence of Unmeasured Confounding: Dealing With Observations in the Tails of the Propensity Score Distribution-A Simulation Study,10.1093/aje/kwq198,,,,
-Covariate selection in high-dimensional propensity score analyses of treatment effects in small samples,10.1093/aje/kwr001,,,,
-"Performance of Disease Risk Scores, Propensity Scores, and Traditional Multivariable Outcome Regression in the Presence of Multiple Confounders",10.1093/aje/kwr143,,,,
-Comparison of Instrumental Variable Analysis Using a New Instrument With Risk Adjustment Methods to Reduce Confounding by Indication,10.1093/aje/kwr448,,,,
-The Table 2 Fallacy: Presenting and Interpreting Confounder and Modifier Coefficients,10.1093/aje/kws412,,,,
-A Comparison of Confounding Adjustment Methods for Assessment of Asthma Controller Medication Effectiveness,10.1093/aje/kwt323,,,,
-Adjustment for Missing Confounders in Studies Based on Observational Databases: 2-Stage Calibration Combining Propensity Scores From Primary and Validation Data,10.1093/aje/kwu130,,,,
-Mediation Analysis With Intermediate Confounding: Structural Equation Modeling Viewed Through the Causal Inference Lens,10.1093/aje/kwu239,,,,
-Controlling Time-Dependent Confounding by Health Status and Frailty: Restriction Versus Statistical Adjustment,10.1093/aje/kwu485,,,,
-Regularized Regression Versus the High-Dimensional Propensity Score for Confounding Adjustment in Secondary Database Analyses,10.1093/aje/kwv108,,,,
-"The ""Dry-Run"" Analysis: A Method for Evaluating Risk Scores for Confounding Control",10.1093/aje/kwx032,,,,
-Selecting Shrinkage Parameters for Effect Estimation: The Multi-Ethnic Study of Atherosclerosis,10.1093/aje/kwx225,,,,
-Analysis of Longitudinal Studies With Repeated Outcome Measures: Adjusting for Time-Dependent Confounding Using Conventional Methods,10.1093/aje/kwx311,,,,
-"Education and Cognitive Aging: Accounting for Selection and Confounding in Linkage of Data From the Danish Registry and Survey of Health, Ageing and Retirement in Europe",10.1093/aje/kwy162,,,,
-Nonparametric efficient causal mediation with intermediate confounders,10.1093/biomet/asaa085,,,,
+Monte Carlo sensitivity analysis and Bayesian analysis of smoking as an unmeasured confounder in a study of silica and lung cancer,10.1093/aje/kwh211,0,0,0,Application
+An application of model-fitting procedures for marginal structural models,10.1093/aje/kwi208,0,0,0,Application
+Invited commentary: Variable selection versus shrinkage in the control of multiple confounders,10.1093/aje/kwm355,0,0,0,
+"Pischon et al. Respond to ""Variable Selection versus Shrinkage in Control of Confounders""",10.1093/aje/kwm358,0,0,0,Correction to above
+"Re: ""Invited commentary: Variable selection versus shrinkage in the control of multiple confounders"" (vol 167, pg 523, 2008)",10.1093/aje/kwn088,0,0,0,Minor correction
+Confounding by Dietary Patterns of the Inverse Association Between Alcohol Consumption and Type 2 Diabetes Risk,10.1093/aje/kwp096,0,0,0,Application
+Time-modified Confounding,10.1093/aje/kwp175,0,0,0,
+Effects of Socioeconomic and Racial Residential Segregation on Preterm Birth: A Cautionary Tale of Structural Confounding,10.1093/aje/kwp435,0,0,0,
+Treatment Effects in the Presence of Unmeasured Confounding: Dealing With Observations in the Tails of the Propensity Score Distribution-A Simulation Study,10.1093/aje/kwq198,1,1,0,"unmeasured, tails"
+Covariate selection in high-dimensional propensity score analyses of treatment effects in small samples,10.1093/aje/kwr001,1,1,0,
+"Performance of Disease Risk Scores, Propensity Scores, and Traditional Multivariable Outcome Regression in the Presence of Multiple Confounders",10.1093/aje/kwr143,1,0,0,
+Comparison of Instrumental Variable Analysis Using a New Instrument With Risk Adjustment Methods to Reduce Confounding by Indication,10.1093/aje/kwr448,1,0,0,Instrumental
+The Table 2 Fallacy: Presenting and Interpreting Confounder and Modifier Coefficients,10.1093/aje/kws412,1,0,0,theory
+A Comparison of Confounding Adjustment Methods for Assessment of Asthma Controller Medication Effectiveness,10.1093/aje/kwt323,0,0,0,Application
+Adjustment for Missing Confounders in Studies Based on Observational Databases: 2-Stage Calibration Combining Propensity Scores From Primary and Validation Data,10.1093/aje/kwu130,1,0,0,
+Mediation Analysis With Intermediate Confounding: Structural Equation Modeling Viewed Through the Causal Inference Lens,10.1093/aje/kwu239,1,0,0,"Mediation, SEMs, ALSPAC"
+Controlling Time-Dependent Confounding by Health Status and Frailty: Restriction Versus Statistical Adjustment,10.1093/aje/kwu485,0,0,0,Application
+Regularized Regression Versus the High-Dimensional Propensity Score for Confounding Adjustment in Secondary Database Analyses,10.1093/aje/kwv108,1,0,0,
+"The ""Dry-Run"" Analysis: A Method for Evaluating Risk Scores for Confounding Control",10.1093/aje/kwx032,1,0,0,theory
+Selecting Shrinkage Parameters for Effect Estimation: The Multi-Ethnic Study of Atherosclerosis,10.1093/aje/kwx225,1,0,0,theory
+Analysis of Longitudinal Studies With Repeated Outcome Measures: Adjusting for Time-Dependent Confounding Using Conventional Methods,10.1093/aje/kwx311,1,0,0,SCMMs
+"Education and Cognitive Aging: Accounting for Selection and Confounding in Linkage of Data From the Danish Registry and Survey of Health, Ageing and Retirement in Europe",10.1093/aje/kwy162,0,0,0,Application
+Nonparametric efficient causal mediation with intermediate confounders,10.1093/biomet/asaa085,1,0,0,Mediation
 Sharp sensitivity bounds for mediation under unmeasured mediator-outcome confounding,10.1093/biomet/asw012,,,,
 Instrumental variables as bias amplifiers with general outcome and confounding,10.1093/biomet/asx009,,,,
 On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding,10.1093/biomet/asz063,,,,
