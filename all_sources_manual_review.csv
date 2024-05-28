@@ -199,26 +199,26 @@ Nonlinear Causal Discovery with Confounders,10.1080/01621459.2023.2179490,1,0,0,
 Sensitivity to Unobserved Confounding in Studies with Factor-Structured Outcomes,10.1080/01621459.2023.2240053,1,0,0,unmeasured
 De-confounding Causal Inference Using Latent Multiple-Mediator Pathways,10.1080/01621459.2023.2240461,1,0,0,"key, mediator, SEM"
 Discovery and Inference of a Causal Network with Hidden Confounding,10.1080/01621459.2023.2261658,1,0,0,unmeasured
-Doubly-Valid/Doubly-Sharp Sensitivity Analysis for Causal Inference with Unmeasured Confounding,10.1080/01621459.2024.2335588,,,,
-Confounding adjustment methods for multi-level treatment comparisons under lack of positivity and unknown model specification,10.1080/02664763.2021.1911966,,,,
-Sensitivity analysis of unmeasured confounding in causal inference based on exponential tilting and super learner,10.1080/02664763.2021.1999398,,,,
-Examining the Error of Mis-Specifying Nonlinear Confounding Effect With Application on Accelerometer-Measured Physical Activity,10.1080/02701367.2017.1296101,,,,
-Association of corticosteroid use and attention deficit/hyperactivity disorder in asthmatic children varies by age,10.1080/02770903.2022.2089995,,,,
-"Comments on ""Unobservable Selection and Coefficient Stability: Theory and Evidence"" and ""Poorly Measured Confounders are More Useful on the Left Than on the Right""",10.1080/07350015.2019.1575743,,,,
-Confounding and causation in the epidemiology of lead,10.1080/09603123.2016.1161179,,,,
-Using Bayesian networks to clarify interpretation of exposure-response regression coefficients: blood lead-mortality association as an example,10.1080/10408444.2020.1787329,,,,
-The effect of confounding variables in studies of lead exposure and IQ,10.1080/10408444.2020.1842851,,,,
-Comparison of statistical methodologies used to estimate the treatment effect on time-to-event outcomes in observational studies,10.1080/10543406.2021.1918140,,,,
-Meta-analysis of lung cancer in asphalt roofing and paving workers with external adjustment for confounding by coal tar,10.1080/15459620701335035,,,,
-Controlling for spatial confounding and spatial interference in causal inference: modelling insights from a computational experiment,10.1080/19475683.2023.2257788,,,,
-Confounded Local Inference: Extending Local Moran Statistics to Handle Confounding,10.1080/24694452.2024.2326541,,,,
-Identifying confounding by indication through blinded prospective review,10.1093/aje/154.3.276,,,,
-Causal knowledge as a prerequisite for confounding evaluation:: An application to birth defects epidemiology,10.1093/aje/155.2.176,,,,
-Is residual confounding a reasonable explanation for the apparent protective effects of beta-carotene found in epidemiologic studies of lung cancer in smokers?,10.1093/aje/155.7.622,,,,
-Dealing With Treatment-Confounder Feedback and Sparse Follow-up in Longitudinal Studies: Application of a Marginal Structural Model in a Multiple Sclerosis Cohort,10.1093/aje/kwaa243,,,,
-Recent Methodological Trends in Epidemiology: No Need for Data-Driven Variable Selection?,10.1093/aje/kwad193,,,,
-Confounder Adjustment Using the Disease Risk Score: A Proposal for Weighting Methods,10.1093/aje/kwad196,,,,
-Comparison of logistic regression versus propensity score when the number of events is low and there are multiple confounders,10.1093/aje/kwg115,,,,
+Doubly-Valid/Doubly-Sharp Sensitivity Analysis for Causal Inference with Unmeasured Confounding,10.1080/01621459.2024.2335588,1,0,0,"unmeasured, doubly robust, doubly sharp"
+Confounding adjustment methods for multi-level treatment comparisons under lack of positivity and unknown model specification,10.1080/02664763.2021.1911966,1,0,0,Ml-based
+Sensitivity analysis of unmeasured confounding in causal inference based on exponential tilting and super learner,10.1080/02664763.2021.1999398,1,0,0,"unmeasured, ml-based"
+Examining the Error of Mis-Specifying Nonlinear Confounding Effect With Application on Accelerometer-Measured Physical Activity,10.1080/02701367.2017.1296101,0,0,0,Application
+Association of corticosteroid use and attention deficit/hyperactivity disorder in asthmatic children varies by age,10.1080/02770903.2022.2089995,0,0,0,Application
+"Comments on ""Unobservable Selection and Coefficient Stability: Theory and Evidence"" and ""Poorly Measured Confounders are More Useful on the Left Than on the Right""",10.1080/07350015.2019.1575743,0,0,0,
+Confounding and causation in the epidemiology of lead,10.1080/09603123.2016.1161179,0,0,0,Application
+Using Bayesian networks to clarify interpretation of exposure-response regression coefficients: blood lead-mortality association as an example,10.1080/10408444.2020.1787329,0,0,0,Application
+The effect of confounding variables in studies of lead exposure and IQ,10.1080/10408444.2020.1842851,0,0,0,Application
+Comparison of statistical methodologies used to estimate the treatment effect on time-to-event outcomes in observational studies,10.1080/10543406.2021.1918140,0,0,0,Application
+Meta-analysis of lung cancer in asphalt roofing and paving workers with external adjustment for confounding by coal tar,10.1080/15459620701335035,0,0,0,Application
+Controlling for spatial confounding and spatial interference in causal inference: modelling insights from a computational experiment,10.1080/19475683.2023.2257788,1,1,0,spatial
+Confounded Local Inference: Extending Local Moran Statistics to Handle Confounding,10.1080/24694452.2024.2326541,1,0,0,spatial
+Identifying confounding by indication through blinded prospective review,10.1093/aje/154.3.276,0,0,0,
+Causal knowledge as a prerequisite for confounding evaluation:: An application to birth defects epidemiology,10.1093/aje/155.2.176,0,0,0,Application
+Is residual confounding a reasonable explanation for the apparent protective effects of beta-carotene found in epidemiologic studies of lung cancer in smokers?,10.1093/aje/155.7.622,0,0,0,Application
+Dealing With Treatment-Confounder Feedback and Sparse Follow-up in Longitudinal Studies: Application of a Marginal Structural Model in a Multiple Sclerosis Cohort,10.1093/aje/kwaa243,0,0,0,Application
+Recent Methodological Trends in Epidemiology: No Need for Data-Driven Variable Selection?,10.1093/aje/kwad193,1,0,1,Key
+Confounder Adjustment Using the Disease Risk Score: A Proposal for Weighting Methods,10.1093/aje/kwad196,1,0,0,
+Comparison of logistic regression versus propensity score when the number of events is low and there are multiple confounders,10.1093/aje/kwg115,0,1,0,
 Monte Carlo sensitivity analysis and Bayesian analysis of smoking as an unmeasured confounder in a study of silica and lung cancer,10.1093/aje/kwh211,,,,
 An application of model-fitting procedures for marginal structural models,10.1093/aje/kwi208,,,,
 Invited commentary: Variable selection versus shrinkage in the control of multiple confounders,10.1093/aje/kwm355,,,,
