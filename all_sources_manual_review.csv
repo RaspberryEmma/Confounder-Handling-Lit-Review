@@ -242,23 +242,23 @@ Selecting Shrinkage Parameters for Effect Estimation: The Multi-Ethnic Study of 
 Analysis of Longitudinal Studies With Repeated Outcome Measures: Adjusting for Time-Dependent Confounding Using Conventional Methods,10.1093/aje/kwx311,1,0,0,SCMMs
 "Education and Cognitive Aging: Accounting for Selection and Confounding in Linkage of Data From the Danish Registry and Survey of Health, Ageing and Retirement in Europe",10.1093/aje/kwy162,0,0,0,Application
 Nonparametric efficient causal mediation with intermediate confounders,10.1093/biomet/asaa085,1,0,0,Mediation
-Sharp sensitivity bounds for mediation under unmeasured mediator-outcome confounding,10.1093/biomet/asw012,,,,
-Instrumental variables as bias amplifiers with general outcome and confounding,10.1093/biomet/asx009,,,,
-On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding,10.1093/biomet/asz063,,,,
-Confounder-dependent Bayesian mixture model: Characterizing heterogeneity of causal effects in air pollution epidemiology,10.1093/biomtc/ujae025,,,,
-Doubly robust methods for handling confounding by cluster,10.1093/biostatistics/kxv041,,,,
-Guided Bayesian imputation to adjust for confounding when combining heterogeneous data sources in comparative effectiveness research,10.1093/biostatistics/kxx003,,,,
-Matching Methods for Confounder Adjustment: An Addition to the Epidemiologist's Toolbox,10.1093/epirev/mxab003,,,,
-An overview of the objectives of and the approaches to propensity score analyses,10.1093/eurheartj/ehr031,,,,
-"Birthweight, gestational age and familial confounding in sex differences in infant mortality: a matched co-twin control study of Brazilian male-female twin pairs identified by population data linkage",10.1093/ije/dyab242,,,,
-"Simultaneous adjustment of uncontrolled confounding, selection bias and misclassification in multiple-bias modelling",10.1093/ije/dyad001,,,,
-SAS and R code for probabilistic quantitative bias analysis for misclassified binary variables and binary unmeasured confounders,10.1093/ije/dyad053,,,,
-Investigation of the structure and magnitude of time-varying uncontrolled confounding in simulated cohort data analyzed using g-computation,10.1093/ije/dyad150,,,,
-The association between state income inequality and worse health is not confounded by race,10.1093/ije/dyg245,,,,
-Does unmeasured confounding influence associations between the retail food environment and body mass index over time? The Coronary Artery Risk Development in Young Adults (CARDIA) study,10.1093/ije/dyx070,,,,
-The betaboost package-a software tool for modelling bounded outcome variables in potentially high-dimensional epidemiological data,10.1093/ije/dyy093,,,,
-Evaluating large-scale propensity score performance through real-world and synthetic data experiments,10.1093/ije/dyy120,,,,
-Commentary: Causal models adjusting for time-varying confounding please send more data,10.1093/ije/dyy300,,,,
+Sharp sensitivity bounds for mediation under unmeasured mediator-outcome confounding,10.1093/biomet/asw012,1,0,0,"Mediation, sharp"
+Instrumental variables as bias amplifiers with general outcome and confounding,10.1093/biomet/asx009,1,0,0,theory
+On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding,10.1093/biomet/asz063,1,0,0,theory
+Confounder-dependent Bayesian mixture model: Characterizing heterogeneity of causal effects in air pollution epidemiology,10.1093/biomtc/ujae025,0,0,0,Application
+Doubly robust methods for handling confounding by cluster,10.1093/biostatistics/kxv041,1,0,0,"clustering, doubly robust"
+Guided Bayesian imputation to adjust for confounding when combining heterogeneous data sources in comparative effectiveness research,10.1093/biostatistics/kxx003,1,0,0,"external, missingness"
+Matching Methods for Confounder Adjustment: An Addition to the Epidemiologist's Toolbox,10.1093/epirev/mxab003,1,0,0,
+An overview of the objectives of and the approaches to propensity score analyses,10.1093/eurheartj/ehr031,0,0,0,Basic concepts
+"Birthweight, gestational age and familial confounding in sex differences in infant mortality: a matched co-twin control study of Brazilian male-female twin pairs identified by population data linkage",10.1093/ije/dyab242,0,0,0,Application
+"Simultaneous adjustment of uncontrolled confounding, selection bias and misclassification in multiple-bias modelling",10.1093/ije/dyad001,1,0,0,"imputation, misclassification, key"
+SAS and R code for probabilistic quantitative bias analysis for misclassified binary variables and binary unmeasured confounders,10.1093/ije/dyad053,1,0,0,"Code, QBA"
+Investigation of the structure and magnitude of time-varying uncontrolled confounding in simulated cohort data analyzed using g-computation,10.1093/ije/dyad150,1,1,0,Data simulation
+The association between state income inequality and worse health is not confounded by race,10.1093/ije/dyg245,0,0,0,Application
+Does unmeasured confounding influence associations between the retail food environment and body mass index over time? The Coronary Artery Risk Development in Young Adults (CARDIA) study,10.1093/ije/dyx070,0,0,0,Application
+The betaboost package-a software tool for modelling bounded outcome variables in potentially high-dimensional epidemiological data,10.1093/ije/dyy093,1,0,0,R package
+Evaluating large-scale propensity score performance through real-world and synthetic data experiments,10.1093/ije/dyy120,1,0,0,evaluation
+Commentary: Causal models adjusting for time-varying confounding please send more data,10.1093/ije/dyy300,0,0,0,
 Comparative Effectiveness of Prostate Cancer Treatments: Evaluating Statistical Adjustments for Confounding in Observational Data,10.1093/jnci/djq393,,,,
 "To Misspecify Is Common, to Probe Misspecification Scientific: Common ""Confounds"" in Pornography Research May Actually Be Predictors",10.1093/joc/jqac012,,,,
 Non-agency interventions for causal mediation in the presence of intermediate confounding,10.1093/jrsssb/qkad130,,,,
