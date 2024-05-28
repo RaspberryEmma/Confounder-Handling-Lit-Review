@@ -159,46 +159,46 @@ Variable selection in heterogeneous datasets: A truncated-rank sparse linear mix
 Assessing topological congruence among concatenation-based phylogenomic approaches in empirical datasets,10.1016/j.ympev.2021.107086,0,0,0,Non-confounding
 Risk factors of prolonged postoperative pleural effusion after repair of tetralogy of Fallot,10.1016/s1726-4901(09)70155-8,0,0,0,Application
 "Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",10.1017/S0140525X22001145,0,0,0,Application
-"Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",10.1017/S0140525X22002394,,,,
-Applications of the propensity score weighting method in psychogeriatric research: correcting selection bias and adjusting for confounders,10.1017/S1041610216002490,,,,
-Sources of confounding in life course epidemiology,10.1017/S2040174418000582,,,,
-A Functional Bayesian Model for Hydrogen-Deuterium Exchange Mass Spectrometry,10.1021/acs.jproteome.3c00297,,,,
-Assessing Mediation Using Marginal Structural Models in the Presence of Confounding and Moderation,10.1037/a0029311,,,,
-Structural Equation Modeling Versus Marginal Structural Modeling for Assessing Mediation in the Presence of Posttreatment Confounding,10.1037/a0036368,,,,
-Combating Unmeasured Confounding in Cross-Sectional Studies: Evaluating Instrumental-Variable and Heckman Selection Models,10.1037/a0037416,,,,
-Confounding in Statistical Mediation Analysis: What It Is and How to Address It,10.1037/cou0000242,,,,
-The Impact of Measurement Error and Omitting Confounders on Statistical Inference of Mediation Effects and Tools for Sensitivity Analysis,10.1037/met0000345,,,,
-Data-Driven Covariate Selection for Confounding Adjustment by Focusing on the Stability of the Effect Estimator,10.1037/met0000564,,,,
-How Do Unobserved Confounding Mediators and Measurement Error Impact Estimated Mediation Effects and Corresponding Statistical Inferences? Introducing the R Package ConMed for Sensitivity Analysis,10.1037/met0000567,,,,
-"One Step at a Time: A Statistical Approach for Distinguishing Mediators, Confounders, and Colliders Using Direction Dependence Analysis",10.1037/met0000619,,,,
-Uncovering interpretable potential confounders in electronic medical records,10.1038/s41467-022-28546-8,,,,
-High-throughput target trial emulation for Alzheimer's disease drug repurposing with real-world data,10.1038/s41467-023-43929-1,,,,
-Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits,10.1038/s41588-023-01648-9,,,,
-Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits,10.1038/s41588-023-01648-9,,,,
-Nutritional status and anxious and depressive symptoms in anorexia nervosa: a prospective study,10.1038/s41598-020-79410-y,,,,
-The benefits of selecting phenotype-specific variants for applications of mixed models in genomics,10.1038/srep01815,,,,
-Sire coloration influences offspring survival under predation risk in the moorfrog,10.1046/j.1420-9101.2003.00606.x,,,,
-Abnormal Mineral Metabolism and Mortality in Hemodialysis Patients With Secondary Hyperparathyroidism: Evidence From Marginal Structural Models Used to Adjust for Time-Dependent Confounding,10.1053/j.ajkd.2013.08.011,,,,
-Time-Dependent Confounding in the Estimation of Treatment Effects in Randomised Trials with Multimodal Therapies - An Illustration of the Problem of Time-Dependent Confounding by Causal Graphs,10.1055/s-0033-1355405,,,,
-"Smoking as potential confounder in German epidemiological studies:: Standardization of assessment, quantification, and analysis",10.1055/s-2005-858807,,,,
-Unobserved time effects confound the identification of climate change impacts,10.1073/pnas.1202049109,,,,
-Using machine learning to estimate the effect of racial segregation on COVID-19 mortality in the United States,10.1073/pnas.2015577118,,,,
-An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies,10.1080/00273171.2011.568786,,,,
-Direction Dependence Analysis in the Presence of Confounders: Applications to Linear Mediation Models Using Observational Data,10.1080/00273171.2018.1528542,,,,
-A More Efficient Causal Mediator Model Without the No-Unmeasured-Confounder Assumption,10.1080/00273171.2019.1656051,,,,
-Tuning Random Forests for Causal Inference under Cluster-Level Unmeasured Confounding,10.1080/00273171.2021.1994364,,,,
-Causal inference with missingness in confounder,10.1080/00949655.2022.2089672,,,,
-Adjustment for Missing Confounders Using External Validation Data and Propensity Scores,10.1080/01621459.2011.643739,,,,
-Some Statistical Strategies for DAE-seq Data Analysis: Variable Selection and Modeling Dependencies among Observations,10.1080/01621459.2013.869222,,,,
-Uncertainty in Propensity Score Estimation: Bayesian Methods for Variable Selection and Model Averaged Causal Effects,10.1080/01621459.2013.869498,,,,
-Regularization Methods for High-Dimensional Instrumental Variables Regression With an Application to Genetical Genomics,10.1080/01621459.2014.908125,,,,
-Treatment Effect Estimation Under Additive Hazards Models With High-Dimensional Confounding,10.1080/01621459.2021.1930546,,,,
-Identifying Effects of Multiple Treatments in the Presence of Unmeasured Confounding,10.1080/01621459.2021.2023551,,,,
-Proximal Learning for Individualized Treatment Regimes Under Unmeasured Confounding,10.1080/01621459.2022.2147841,,,,
-Nonlinear Causal Discovery with Confounders,10.1080/01621459.2023.2179490,,,,
-Sensitivity to Unobserved Confounding in Studies with Factor-Structured Outcomes,10.1080/01621459.2023.2240053,,,,
-De-confounding Causal Inference Using Latent Multiple-Mediator Pathways,10.1080/01621459.2023.2240461,,,,
-Discovery and Inference of a Causal Network with Hidden Confounding,10.1080/01621459.2023.2261658,,,,
+"Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",10.1017/S0140525X22002394,0,0,0,Application
+Applications of the propensity score weighting method in psychogeriatric research: correcting selection bias and adjusting for confounders,10.1017/S1041610216002490,0,0,0,Application
+Sources of confounding in life course epidemiology,10.1017/S2040174418000582,0,0,0,Application
+A Functional Bayesian Model for Hydrogen-Deuterium Exchange Mass Spectrometry,10.1021/acs.jproteome.3c00297,0,0,0,Non-confounding
+Assessing Mediation Using Marginal Structural Models in the Presence of Confounding and Moderation,10.1037/a0029311,1,0,0,
+Structural Equation Modeling Versus Marginal Structural Modeling for Assessing Mediation in the Presence of Posttreatment Confounding,10.1037/a0036368,1,0,0,SEM
+Combating Unmeasured Confounding in Cross-Sectional Studies: Evaluating Instrumental-Variable and Heckman Selection Models,10.1037/a0037416,1,0,0,unmeasured
+Confounding in Statistical Mediation Analysis: What It Is and How to Address It,10.1037/cou0000242,1,0,0,Basic concepts
+The Impact of Measurement Error and Omitting Confounders on Statistical Inference of Mediation Effects and Tools for Sensitivity Analysis,10.1037/met0000345,1,0,0,Measurement error
+Data-Driven Covariate Selection for Confounding Adjustment by Focusing on the Stability of the Effect Estimator,10.1037/met0000564,1,0,0,Key
+How Do Unobserved Confounding Mediators and Measurement Error Impact Estimated Mediation Effects and Corresponding Statistical Inferences? Introducing the R Package ConMed for Sensitivity Analysis,10.1037/met0000567,1,0,0,"unobserved confounding, measurement error, mediation, R package"
+"One Step at a Time: A Statistical Approach for Distinguishing Mediators, Confounders, and Colliders Using Direction Dependence Analysis",10.1037/met0000619,1,0,0,Key
+Uncovering interpretable potential confounders in electronic medical records,10.1038/s41467-022-28546-8,1,0,0,EHR
+High-throughput target trial emulation for Alzheimer's disease drug repurposing with real-world data,10.1038/s41467-023-43929-1,0,0,0,Application
+Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits,10.1038/s41588-023-01648-9,0,0,0,Application
+Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits,10.1038/s41588-023-01648-9,0,0,0,Application
+Nutritional status and anxious and depressive symptoms in anorexia nervosa: a prospective study,10.1038/s41598-020-79410-y,0,0,0,Application
+The benefits of selecting phenotype-specific variants for applications of mixed models in genomics,10.1038/srep01815,0,0,0,Application
+Sire coloration influences offspring survival under predation risk in the moorfrog,10.1046/j.1420-9101.2003.00606.x,0,0,0,Application
+Abnormal Mineral Metabolism and Mortality in Hemodialysis Patients With Secondary Hyperparathyroidism: Evidence From Marginal Structural Models Used to Adjust for Time-Dependent Confounding,10.1053/j.ajkd.2013.08.011,0,0,0,Application
+Time-Dependent Confounding in the Estimation of Treatment Effects in Randomised Trials with Multimodal Therapies - An Illustration of the Problem of Time-Dependent Confounding by Causal Graphs,10.1055/s-0033-1355405,0,0,0,Application
+"Smoking as potential confounder in German epidemiological studies:: Standardization of assessment, quantification, and analysis",10.1055/s-2005-858807,0,0,0,Application
+Unobserved time effects confound the identification of climate change impacts,10.1073/pnas.1202049109,0,0,0,Application
+Using machine learning to estimate the effect of racial segregation on COVID-19 mortality in the United States,10.1073/pnas.2015577118,0,0,0,Application
+An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies,10.1080/00273171.2011.568786,1,0,0,Basic concepts
+Direction Dependence Analysis in the Presence of Confounders: Applications to Linear Mediation Models Using Observational Data,10.1080/00273171.2018.1528542,1,0,0,DDA
+A More Efficient Causal Mediator Model Without the No-Unmeasured-Confounder Assumption,10.1080/00273171.2019.1656051,1,0,0,Mediation
+Tuning Random Forests for Causal Inference under Cluster-Level Unmeasured Confounding,10.1080/00273171.2021.1994364,1,0,0,random forests
+Causal inference with missingness in confounder,10.1080/00949655.2022.2089672,1,0,0,Missingness
+Adjustment for Missing Confounders Using External Validation Data and Propensity Scores,10.1080/01621459.2011.643739,1,0,0,Missingness
+Some Statistical Strategies for DAE-seq Data Analysis: Variable Selection and Modeling Dependencies among Observations,10.1080/01621459.2013.869222,0,0,0,Application
+Uncertainty in Propensity Score Estimation: Bayesian Methods for Variable Selection and Model Averaged Causal Effects,10.1080/01621459.2013.869498,1,0,0,Non-confounding
+Regularization Methods for High-Dimensional Instrumental Variables Regression With an Application to Genetical Genomics,10.1080/01621459.2014.908125,0,0,0,Application
+Treatment Effect Estimation Under Additive Hazards Models With High-Dimensional Confounding,10.1080/01621459.2021.1930546,1,0,0,Doubly robust
+Identifying Effects of Multiple Treatments in the Presence of Unmeasured Confounding,10.1080/01621459.2021.2023551,1,0,0,unmeasured
+Proximal Learning for Individualized Treatment Regimes Under Unmeasured Confounding,10.1080/01621459.2022.2147841,0,0,0,Application
+Nonlinear Causal Discovery with Confounders,10.1080/01621459.2023.2179490,1,0,0,"Ml-based, python package"
+Sensitivity to Unobserved Confounding in Studies with Factor-Structured Outcomes,10.1080/01621459.2023.2240053,1,0,0,unmeasured
+De-confounding Causal Inference Using Latent Multiple-Mediator Pathways,10.1080/01621459.2023.2240461,1,0,0,"key, mediator, SEM"
+Discovery and Inference of a Causal Network with Hidden Confounding,10.1080/01621459.2023.2261658,1,0,0,unmeasured
 Doubly-Valid/Doubly-Sharp Sensitivity Analysis for Causal Inference with Unmeasured Confounding,10.1080/01621459.2024.2335588,,,,
 Confounding adjustment methods for multi-level treatment comparisons under lack of positivity and unknown model specification,10.1080/02664763.2021.1911966,,,,
 Sensitivity analysis of unmeasured confounding in causal inference based on exponential tilting and super learner,10.1080/02664763.2021.1999398,,,,
