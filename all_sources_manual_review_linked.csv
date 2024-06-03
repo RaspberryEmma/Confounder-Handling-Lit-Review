@@ -319,26 +319,26 @@ Ultra-high dimensional variable selection for doubly robust causal inference,htt
 Spatial+: A novel approach to spatial confounding,https://doi.org/10.1111/biom.13656,1,0,0,Spatial
 Bayesian nonparametric adjustment of confounding,https://doi.org/10.1111/biom.13833,1,0,0,
 Ensuring valid inference for Cox hazard ratios after variable selection,https://doi.org/10.1111/biom.13889,1,0,0,
-Response moderation models for conditional dependence between response time and response accuracy,https://doi.org/10.1111/bmsp.12076,,,,
-Assessing moderated mediation in linear models requires fewer confounding assumptions than assessing mediation,https://doi.org/10.1111/bmsp.12077,,,,
-THE EFFECT OF UNMEASURED CONFOUNDERS ON THE ABILITY TO ESTIMATE A TRUE PERFORMANCE OR SELECTION GRADIENT (AND OTHER PARTIAL REGRESSION COEFFICIENTS),https://doi.org/10.1111/evo.12406,,,,
-What do macroinvertebrate indices measure? Stressor-specific stream macroinvertebrate indices can be confounded by other stressors,https://doi.org/10.1111/fwb.14106,,,,
-Finite Normal Mixture SEM Analysis by Fitting Multiple Conventional SEM Models,https://doi.org/10.1111/j.1467-9531.2010.01224.x,,,,
-Selecting SNPs to identify ancestry,https://doi.org/10.1111/j.1469-1809.2011.00656.x,,,,
-Why reduced-form regression models of health effects versus exposures should not replace QRA: livestock production and infant mortality as an example,https://doi.org/10.1111/j.1539-6924.2009.01303.x,,,,
-The performance of random coefficient regression in accounting for residual confounding,https://doi.org/10.1111/j.1541-0420.2005.00510.x,,,,
-A model-based approach for making ecological inference from distance sampling data,https://doi.org/10.1111/j.1541-0420.2009.01265.x,,,,
-A New Criterion for Confounder Selection,https://doi.org/10.1111/j.1541-0420.2011.01619.x,,,,
-Bayesian effect estimation accounting for adjustment uncertainty,https://doi.org/10.1111/j.1541-0420.2011.01731.x,,,,
-Logistic regression: a brief primer,https://doi.org/10.1111/j.1553-2712.2011.01185.x,,,,
-GC-MS metabolomics-based approach for the identification of a potential VOC-biomarker panel in the urine of renal cell carcinoma patients,https://doi.org/10.1111/jcmm.13132,,,,
-Landscape genetics across the Andes mountains: Environmental variation drives genetic divergence in the leaf-cutting ant Atta cephalotes,https://doi.org/10.1111/mec.16742,,,,
-Introduction to causal diagrams for confounder selection,https://doi.org/10.1111/resp.12238,,,,
-Regression-with-residuals estimation of marginal effects: a method of adjusting for treatment-induced confounders that may also be effect modifiers,https://doi.org/10.1111/rssa.12497,,,,
-Selecting a scale for spatial confounding adjustment,https://doi.org/10.1111/rssa.12556,,,,
-Right singular vector projection graphs: fast high dimensional covariance matrix estimation under latent confounding,https://doi.org/10.1111/rssb.12359,,,,
-Multiply robust causal inference with double-negative control adjustment for categorical unmeasured confounding,https://doi.org/10.1111/rssb.12361,,,,
-Tackling non-ignorable dropout in the presence of time varying confounding,https://doi.org/10.1111/rssc.12154,,,,
+Response moderation models for conditional dependence between response time and response accuracy,https://doi.org/10.1111/bmsp.12076,0,0,0,
+Assessing moderated mediation in linear models requires fewer confounding assumptions than assessing mediation,https://doi.org/10.1111/bmsp.12077,0,0,0,theory
+THE EFFECT OF UNMEASURED CONFOUNDERS ON THE ABILITY TO ESTIMATE A TRUE PERFORMANCE OR SELECTION GRADIENT (AND OTHER PARTIAL REGRESSION COEFFICIENTS),https://doi.org/10.1111/evo.12406,1,0,0,
+What do macroinvertebrate indices measure? Stressor-specific stream macroinvertebrate indices can be confounded by other stressors,https://doi.org/10.1111/fwb.14106,0,0,0,Application
+Finite Normal Mixture SEM Analysis by Fitting Multiple Conventional SEM Models,https://doi.org/10.1111/j.1467-9531.2010.01224.x,0,0,0,SEMs
+Selecting SNPs to identify ancestry,https://doi.org/10.1111/j.1469-1809.2011.00656.x,0,0,0,SNPs
+Why reduced-form regression models of health effects versus exposures should not replace QRA: livestock production and infant mortality as an example,https://doi.org/10.1111/j.1539-6924.2009.01303.x,0,0,0,Application
+The performance of random coefficient regression in accounting for residual confounding,https://doi.org/10.1111/j.1541-0420.2005.00510.x,1,0,0,Residual confounding
+A model-based approach for making ecological inference from distance sampling data,https://doi.org/10.1111/j.1541-0420.2009.01265.x,0,0,0,Spatial
+A New Criterion for Confounder Selection,https://doi.org/10.1111/j.1541-0420.2011.01619.x,1,0,0,VanderWeele
+Bayesian effect estimation accounting for adjustment uncertainty,https://doi.org/10.1111/j.1541-0420.2011.01731.x,1,0,0,BAC
+Logistic regression: a brief primer,https://doi.org/10.1111/j.1553-2712.2011.01185.x,0,0,0,Basic concepts
+GC-MS metabolomics-based approach for the identification of a potential VOC-biomarker panel in the urine of renal cell carcinoma patients,https://doi.org/10.1111/jcmm.13132,0,0,0,Application
+Landscape genetics across the Andes mountains: Environmental variation drives genetic divergence in the leaf-cutting ant Atta cephalotes,https://doi.org/10.1111/mec.16742,0,0,0,Application
+Introduction to causal diagrams for confounder selection,https://doi.org/10.1111/resp.12238,1,0,0,Basic concepts
+Regression-with-residuals estimation of marginal effects: a method of adjusting for treatment-induced confounders that may also be effect modifiers,https://doi.org/10.1111/rssa.12497,1,0,0,Specific use-case
+Selecting a scale for spatial confounding adjustment,https://doi.org/10.1111/rssa.12556,1,0,0,Spatial
+Right singular vector projection graphs: fast high dimensional covariance matrix estimation under latent confounding,https://doi.org/10.1111/rssb.12359,1,0,0,Latent confounding
+Multiply robust causal inference with double-negative control adjustment for categorical unmeasured confounding,https://doi.org/10.1111/rssb.12361,1,0,0,"Categorical confounding, unmeasured confounding, multiply-robust"
+Tackling non-ignorable dropout in the presence of time varying confounding,https://doi.org/10.1111/rssc.12154,1,0,0,"Time-varying confounding, specific use-case"
 Tackling Non-Ignorable Dropout in the Presence of Time Varying Confounding,https://doi.org/10.1111/rssc.12154,,,,
 Estimating the causal effect of treatment in observational studies with survival time end points and unmeasured confounding,https://doi.org/10.1111/rssc.12158,,,,
 Estimating the Treatment Effect on the Treated Under Time-Dependent Confounding in an Application to the Swiss HIV Cohort Study,https://doi.org/10.1111/rssc.12221,,,,
