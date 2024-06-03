@@ -299,26 +299,26 @@ Linear Deconfounded Score Method: Scoring DAGs With Dense Unobserved Confounding
 Structure inference for Bayesian multisensory scene understanding,https://doi.org/10.1109/TPAMI.2008.25,0,0,0,
 Conditions for non-confounding and collapsibility without knowledge of completely constructed causal diagrams,https://doi.org/10.1111/1467-9469.00087,1,0,0,old
 Criteria for confounders in epidemiological studies,https://doi.org/10.1111/1467-9868.00321,1,0,0,Basic concepts
-Confounding and regression adjustment in difference-in-differences studies,https://doi.org/10.1111/1475-6773.13666,,,,
-The effect of gene flow from unsampled demes in landscape genetic analysis,https://doi.org/10.1111/1755-0998.13267,,,,
-Estimating temporally variable selection intensity from ancient DNA data with the flexibility of modelling linkage and epistasis,https://doi.org/10.1111/1755-0998.13790,,,,
-"Alcohol Outlets, Neighborhood Retail Environments, and Pedestrian Injury Risk",https://doi.org/10.1111/acer.13844,,,,
-Confounder selection via penalized credible regions,https://doi.org/10.1111/biom.12203,,,,
-Accounting for Uncertainty in Confounder and Effect Modifier Selection When Estimating Average Causal Effects in Generalized Linear Models,https://doi.org/10.1111/biom.12315,,,,
-Model averaged double robust estimation,https://doi.org/10.1111/biom.12622,,,,
-Outcome-adaptive lasso: Variable selection for causal inference,https://doi.org/10.1111/biom.12679,,,,
-"Discussion of ""Data-driven confounder selection via Markov and Bayesian networks"" by Haggstrom",https://doi.org/10.1111/biom.12784,,,,
-Data-driven confounder selection via Markov and Bayesian networks,https://doi.org/10.1111/biom.12788,,,,
-Model-averaged confounder adjustment for estimating multivariate exposure effects with linear regression,https://doi.org/10.1111/biom.12860,,,,
-Doubly robust matching estimators for high dimensional confounding adjustment,https://doi.org/10.1111/biom.12887,,,,
-Causal inference accounting for unobserved confounding after outcome regression and doubly robust estimation,https://doi.org/10.1111/biom.13001,,,,
-Data-adaptive longitudinal model selection in causal inference with collaborative targeted minimum loss-based estimation,https://doi.org/10.1111/biom.13135,,,,
-Adjusting for time-varying confounders in survival analysis using structural nested cumulative survival time models,https://doi.org/10.1111/biom.13158,,,,
-Doubly robust tests of exposure effects under high-dimensional confounding,https://doi.org/10.1111/biom.13231,,,,
-Ultra-high dimensional variable selection for doubly robust causal inference,https://doi.org/10.1111/biom.13625,,,,
-Spatial+: A novel approach to spatial confounding,https://doi.org/10.1111/biom.13656,,,,
-Bayesian nonparametric adjustment of confounding,https://doi.org/10.1111/biom.13833,,,,
-Ensuring valid inference for Cox hazard ratios after variable selection,https://doi.org/10.1111/biom.13889,,,,
+Confounding and regression adjustment in difference-in-differences studies,https://doi.org/10.1111/1475-6773.13666,1,0,0,Specific use-case
+The effect of gene flow from unsampled demes in landscape genetic analysis,https://doi.org/10.1111/1755-0998.13267,0,0,0,Application
+Estimating temporally variable selection intensity from ancient DNA data with the flexibility of modelling linkage and epistasis,https://doi.org/10.1111/1755-0998.13790,0,0,0,Application
+"Alcohol Outlets, Neighborhood Retail Environments, and Pedestrian Injury Risk",https://doi.org/10.1111/acer.13844,0,0,0,Application
+Confounder selection via penalized credible regions,https://doi.org/10.1111/biom.12203,1,0,0,Key
+Accounting for Uncertainty in Confounder and Effect Modifier Selection When Estimating Average Causal Effects in Generalized Linear Models,https://doi.org/10.1111/biom.12315,1,0,0,Specific use-case
+Model averaged double robust estimation,https://doi.org/10.1111/biom.12622,1,0,0,Doubly robust
+Outcome-adaptive lasso: Variable selection for causal inference,https://doi.org/10.1111/biom.12679,1,0,0,Key
+"Discussion of ""Data-driven confounder selection via Markov and Bayesian networks"" by Haggstrom",https://doi.org/10.1111/biom.12784,0,0,0,
+Data-driven confounder selection via Markov and Bayesian networks,https://doi.org/10.1111/biom.12788,1,1,0,
+Model-averaged confounder adjustment for estimating multivariate exposure effects with linear regression,https://doi.org/10.1111/biom.12860,1,0,0,
+Doubly robust matching estimators for high dimensional confounding adjustment,https://doi.org/10.1111/biom.12887,1,0,0,Doubly robust
+Causal inference accounting for unobserved confounding after outcome regression and doubly robust estimation,https://doi.org/10.1111/biom.13001,1,0,0,"Unobserved confounding, doubly-robust, R package"
+Data-adaptive longitudinal model selection in causal inference with collaborative targeted minimum loss-based estimation,https://doi.org/10.1111/biom.13135,1,0,0,
+Adjusting for time-varying confounders in survival analysis using structural nested cumulative survival time models,https://doi.org/10.1111/biom.13158,1,0,0,Time-varying confounding
+Doubly robust tests of exposure effects under high-dimensional confounding,https://doi.org/10.1111/biom.13231,1,0,0,Doubly robust
+Ultra-high dimensional variable selection for doubly robust causal inference,https://doi.org/10.1111/biom.13625,1,0,0,Doubly robust
+Spatial+: A novel approach to spatial confounding,https://doi.org/10.1111/biom.13656,1,0,0,Spatial
+Bayesian nonparametric adjustment of confounding,https://doi.org/10.1111/biom.13833,1,0,0,
+Ensuring valid inference for Cox hazard ratios after variable selection,https://doi.org/10.1111/biom.13889,1,0,0,
 Response moderation models for conditional dependence between response time and response accuracy,https://doi.org/10.1111/bmsp.12076,,,,
 Assessing moderated mediation in linear models requires fewer confounding assumptions than assessing mediation,https://doi.org/10.1111/bmsp.12077,,,,
 THE EFFECT OF UNMEASURED CONFOUNDERS ON THE ABILITY TO ESTIMATE A TRUE PERFORMANCE OR SELECTION GRADIENT (AND OTHER PARTIAL REGRESSION COEFFICIENTS),https://doi.org/10.1111/evo.12406,,,,
