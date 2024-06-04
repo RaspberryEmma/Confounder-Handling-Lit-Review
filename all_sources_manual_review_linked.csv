@@ -419,25 +419,25 @@ Association between ambient air pollutants and upper respiratory tract infection
 Perioperative blood transfusion does not affect recurrence-free and overall survivals after curative resection for intrahepatic cholangiocarcinoma: a propensity score matching analysis,https://doi.org/10.1186/s12885-017-3745-z,0,0,0,Application
 Assignment of unimodal probability distribution models for quantitative morphological phenotyping,https://doi.org/10.1186/s12915-022-01283-6,0,0,0,Application
 A geographic identifier assignment algorithm with Bayesian variable selection to identify neighborhood factors associated with emergency department visit disparities for asthma,https://doi.org/10.1186/s12942-020-00203-7,0,0,0,Application
-Confounding of linkage disequilibrium patterns in large scale DNA based gene-gene interaction studies,https://doi.org/10.1186/s13040-019-0199-7,,,,
-"Model selection, confounder control, and marginal structural models: Review and new applications",https://doi.org/10.1198/000313004X5824,,,,
-The impact of prior distributions for uncontrolled confounding and response bias: A case study of the relation of wire codes and magnetic fields to childhood leukemia,https://doi.org/10.1198/01621450338861905,,,,
-"Bias, Confounding, and Interaction: Lions and Tigers, and Bears, Oh My!",https://doi.org/10.1213/ANE.0000000000002332,,,,
-The Importance of Scale for Spatial-Confounding Bias and Precision of Spatial Regression Estimators,https://doi.org/10.1214/10-STS326,,,,
-Standardization and Control for Confounding in Observational Studies: A Historical Perspective,https://doi.org/10.1214/13-STS453,,,,
-Regularization and Confounding in Linear Regression for Treatment Effect Estimation,https://doi.org/10.1214/16-BA1044,,,,
-EXTENDED SENSITIVITY ANALYSIS FOR HETEROGENEOUS UNMEASURED CONFOUNDING WITH AN APPLICATION TO SIBLING STUDIES OF RETURNS TO EDUCATION,https://doi.org/10.1214/18-AOAS1215,,,,
-A ROBUST AND EFFICIENT APPROACH TO CAUSAL INFERENCE BASED ON SPARSE SUFFICIENT DIMENSION REDUCTION,https://doi.org/10.1214/18-AOS1722,,,,
-High-Dimensional Confounding Adjustment Using Continuous Spike and Slab Priors,https://doi.org/10.1214/18-BA1131,,,,
-High-Dimensional Confounding Adjustment Using Continuous Spike and Slab Priors,https://doi.org/10.1214/18-ba1131,,,,
-A CAUSAL EXPOSURE RESPONSE FUNCTION WITH LOCAL ADJUSTMENT FOR CONFOUNDING: ESTIMATING HEALTH EFFECTS OF EXPOSURE TO LOW LEVELS OF AMBIENT FINE PARTICULATE MATTER,https://doi.org/10.1214/20-AOAS1330,,,,
-MITIGATING UNOBSERVED SPATIAL CONFOUNDING WHEN ESTIMATING THE EFFECT OF SUPERMARKET ACCESS ON CARDIOVASCULAR DISEASE DEATHS,https://doi.org/10.1214/20-AOAS1377,,,,
-ESTIMATION OF THE MARGINAL EFFECT OF ANTIDEPRESSANTS ON BODY MASS INDEX UNDER CONFOUNDING AND ENDOGENOUS COVARIATE-DRIVEN MONITORING TIMES,https://doi.org/10.1214/21-AOAS1570,,,,
-DOUBLY DEBIASED LASSO: HIGH-DIMENSIONAL INFERENCE UNDER HIDDEN CONFOUNDING,https://doi.org/10.1214/21-AOS2152,,,,
-BOUNDS ON THE CONDITIONAL AND AVERAGE TREATMENT EFFECT WITH UNOBSERVED CONFOUNDING FACTORS,https://doi.org/10.1214/22-AOS2195,,,,
-Bias and Confounding: Pharmacoepidemiological Study Using Administrative Database,https://doi.org/10.1248/yakushi.15-00006,,,,
-Confounding by Socioeconomic Status in Epidemiological Studies of Air Pollution and Health: Challenges and Opportunities,https://doi.org/10.1289/EHP7980,,,,
-Interpreting population- and family-based genome-wide association studies in the presence of confounding,https://doi.org/10.1371/journal.pbio.3002511,,,,
+Confounding of linkage disequilibrium patterns in large scale DNA based gene-gene interaction studies,https://doi.org/10.1186/s13040-019-0199-7,0,0,0,Application
+"Model selection, confounder control, and marginal structural models: Review and new applications",https://doi.org/10.1198/000313004X5824,1,0,1,MSMs
+The impact of prior distributions for uncontrolled confounding and response bias: A case study of the relation of wire codes and magnetic fields to childhood leukemia,https://doi.org/10.1198/01621450338861905,0,0,0,Application
+"Bias, Confounding, and Interaction: Lions and Tigers, and Bears, Oh My!",https://doi.org/10.1213/ANE.0000000000002332,0,0,0,Basic concepts
+The Importance of Scale for Spatial-Confounding Bias and Precision of Spatial Regression Estimators,https://doi.org/10.1214/10-STS326,0,0,0,
+Standardization and Control for Confounding in Observational Studies: A Historical Perspective,https://doi.org/10.1214/13-STS453,0,0,0,
+Regularization and Confounding in Linear Regression for Treatment Effect Estimation,https://doi.org/10.1214/16-BA1044,0,0,1,"Standardization, weighting"
+EXTENDED SENSITIVITY ANALYSIS FOR HETEROGENEOUS UNMEASURED CONFOUNDING WITH AN APPLICATION TO SIBLING STUDIES OF RETURNS TO EDUCATION,https://doi.org/10.1214/18-AOAS1215,0,0,0,Specific use-case
+A ROBUST AND EFFICIENT APPROACH TO CAUSAL INFERENCE BASED ON SPARSE SUFFICIENT DIMENSION REDUCTION,https://doi.org/10.1214/18-AOS1722,1,0,0,"Robust, efficient"
+High-Dimensional Confounding Adjustment Using Continuous Spike and Slab Priors,https://doi.org/10.1214/18-BA1131,1,0,0,
+High-Dimensional Confounding Adjustment Using Continuous Spike and Slab Priors,https://doi.org/10.1214/18-ba1131,1,0,0,
+A CAUSAL EXPOSURE RESPONSE FUNCTION WITH LOCAL ADJUSTMENT FOR CONFOUNDING: ESTIMATING HEALTH EFFECTS OF EXPOSURE TO LOW LEVELS OF AMBIENT FINE PARTICULATE MATTER,https://doi.org/10.1214/20-AOAS1330,0,0,0,Application
+MITIGATING UNOBSERVED SPATIAL CONFOUNDING WHEN ESTIMATING THE EFFECT OF SUPERMARKET ACCESS ON CARDIOVASCULAR DISEASE DEATHS,https://doi.org/10.1214/20-AOAS1377,0,0,0,Application
+ESTIMATION OF THE MARGINAL EFFECT OF ANTIDEPRESSANTS ON BODY MASS INDEX UNDER CONFOUNDING AND ENDOGENOUS COVARIATE-DRIVEN MONITORING TIMES,https://doi.org/10.1214/21-AOAS1570,0,0,0,Application
+DOUBLY DEBIASED LASSO: HIGH-DIMENSIONAL INFERENCE UNDER HIDDEN CONFOUNDING,https://doi.org/10.1214/21-AOS2152,1,0,0,"Hidden confounding, doubly-debiased"
+BOUNDS ON THE CONDITIONAL AND AVERAGE TREATMENT EFFECT WITH UNOBSERVED CONFOUNDING FACTORS,https://doi.org/10.1214/22-AOS2195,1,0,0,Unobserved confounding
+Bias and Confounding: Pharmacoepidemiological Study Using Administrative Database,https://doi.org/10.1248/yakushi.15-00006,0,0,0,Application
+Confounding by Socioeconomic Status in Epidemiological Studies of Air Pollution and Health: Challenges and Opportunities,https://doi.org/10.1289/EHP7980,0,0,0,Application
+Interpreting population- and family-based genome-wide association studies in the presence of confounding,https://doi.org/10.1371/journal.pbio.3002511,1,0,0,GWAS
 Identification of key somatic oncogenic mutation based on a confounder-free causal inference model,https://doi.org/10.1371/journal.pcbi.1010529,,,,
 Genetic sensitivity analysis: Adjusting for genetic confounding in epidemiological associations,https://doi.org/10.1371/journal.pgen.1009590,,,,
 Estimating age-stratified influenza-associated invasive pneumococcal disease in England: A time-series model based on population surveillance data,https://doi.org/10.1371/journal.pmed.1002829,,,,
