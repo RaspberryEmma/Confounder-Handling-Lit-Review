@@ -379,26 +379,26 @@ On model selection and model misspecification in causal inference,https://doi.or
 Consistent causal effect estimation under dual misspecification and implications for confounder selection procedures,https://doi.org/10.1177/0962280212437451,1,0,0,model misspecification
 Estimating controlled direct effects in the presence of intermediate confounding of the mediator-outcome relationship: Comparison of five different methods,https://doi.org/10.1177/0962280212461194,1,0,1,Mediation
 Causal effect estimation strategies in a longitudinal study with complex time-varying confounders: A tutorial,https://doi.org/10.1177/0962280214545529,0,0,0,Application
-A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication,https://doi.org/10.1177/0962280216660127,,,,
-Comparison of statistical approaches dealing with time-dependent confounding in drug effectiveness studies,https://doi.org/10.1177/0962280216668554,,,,
-A graphical perspective of marginal structural models: An application for the estimation of the effect of physical activity on blood pressure,https://doi.org/10.1177/0962280216680834,,,,
-Addressing geographic confounding through spatial propensity scores: a study of racial disparities in diabetes,https://doi.org/10.1177/0962280217735700,,,,
-A stratification approach using logit-based models for confounder adjustment in the study of continuous outcomes,https://doi.org/10.1177/0962280217747309,,,,
-Adjustment for time-invariant and time-varying confounders in 'unexplained residuals' models for longitudinal data within a causal framework and associated challenges,https://doi.org/10.1177/0962280218756158,,,,
-A Bayesian two-stage spatially dependent variable selection model for space-time health data,https://doi.org/10.1177/0962280218767980,,,,
-Propensity score analysis for correlated subgroup effects,https://doi.org/10.1177/0962280219850595,,,,
-How to obtain valid tests and confidence intervals after propensity score variable selection?,https://doi.org/10.1177/0962280219862005,,,,
-The impact of unmeasured within- and between-cluster confounding on the bias of effect estimatorsof a continuous exposure,https://doi.org/10.1177/0962280219883323,,,,
-Variable selection and estimation in causal inference using Bayesian spike and slab priors,https://doi.org/10.1177/0962280219898497,,,,
-Propensity score specification for optimal estimation of average treatment effect with binary response,https://doi.org/10.1177/0962280220934847,,,,
-Unifying instrumental variable and inverse probability weighting approaches for inference of causal treatment effect and unmeasured confounding in observational studies,https://doi.org/10.1177/0962280220971835,,,,
-The change in estimate method for selecting confounders: A simulation study,https://doi.org/10.1177/09622802211034219,,,,
-Bayesian variable selection in hierarchical difference-in-differences models,https://doi.org/10.1177/09622802211051087,,,,
-Complete effect decomposition for an arbitrary number of multiple ordered mediators with time-varying confounders: A method for generalized causal multi-mediation analysis,https://doi.org/10.1177/09622802221130580,,,,
-Estimation of the average treatment effect with variable selection and measurement error simultaneously addressed for potential confounders,https://doi.org/10.1177/09622802221146308,,,,
-Robust weights that optimally balance confounders for estimating marginal hazard ratios,https://doi.org/10.1177/09622802221146310,,,,
-Controlling for time-dependent confounding using marginal structural models,https://doi.org/10.1177/1536867X0400400403,,,,
-gformula: Estimating causal effects in the presence of time-varying confounding or mediation using the g-computation formula,https://doi.org/10.1177/1536867X1101100401,,,,
+A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication,https://doi.org/10.1177/0962280216660127,1,0,0,Confounding by indication
+Comparison of statistical approaches dealing with time-dependent confounding in drug effectiveness studies,https://doi.org/10.1177/0962280216668554,1,0,0,"Time-varying confounding, CER"
+A graphical perspective of marginal structural models: An application for the estimation of the effect of physical activity on blood pressure,https://doi.org/10.1177/0962280216680834,0,0,0,Application
+Addressing geographic confounding through spatial propensity scores: a study of racial disparities in diabetes,https://doi.org/10.1177/0962280217735700,0,0,0,Application
+A stratification approach using logit-based models for confounder adjustment in the study of continuous outcomes,https://doi.org/10.1177/0962280217747309,1,0,0,Continuous outcome
+Adjustment for time-invariant and time-varying confounders in 'unexplained residuals' models for longitudinal data within a causal framework and associated challenges,https://doi.org/10.1177/0962280218756158,1,0,0,"Time-varying confounding, unexplained residuals"
+A Bayesian two-stage spatially dependent variable selection model for space-time health data,https://doi.org/10.1177/0962280218767980,1,0,0,Spatio-temporal
+Propensity score analysis for correlated subgroup effects,https://doi.org/10.1177/0962280219850595,0,0,0,
+How to obtain valid tests and confidence intervals after propensity score variable selection?,https://doi.org/10.1177/0962280219862005,0,0,0,
+The impact of unmeasured within- and between-cluster confounding on the bias of effect estimatorsof a continuous exposure,https://doi.org/10.1177/0962280219883323,1,0,0,"Clustering, continuous exposure"
+Variable selection and estimation in causal inference using Bayesian spike and slab priors,https://doi.org/10.1177/0962280219898497,1,0,0,
+Propensity score specification for optimal estimation of average treatment effect with binary response,https://doi.org/10.1177/0962280220934847,1,1,0,
+Unifying instrumental variable and inverse probability weighting approaches for inference of causal treatment effect and unmeasured confounding in observational studies,https://doi.org/10.1177/0962280220971835,1,0,0,"Unmeasured, instrumental"
+The change in estimate method for selecting confounders: A simulation study,https://doi.org/10.1177/09622802211034219,1,1,0,
+Bayesian variable selection in hierarchical difference-in-differences models,https://doi.org/10.1177/09622802211051087,1,0,0,
+Complete effect decomposition for an arbitrary number of multiple ordered mediators with time-varying confounders: A method for generalized causal multi-mediation analysis,https://doi.org/10.1177/09622802221130580,1,0,0,"Mediation, time-varying confounders"
+Estimation of the average treatment effect with variable selection and measurement error simultaneously addressed for potential confounders,https://doi.org/10.1177/09622802221146308,1,0,0,
+Robust weights that optimally balance confounders for estimating marginal hazard ratios,https://doi.org/10.1177/09622802221146310,0,0,0,
+Controlling for time-dependent confounding using marginal structural models,https://doi.org/10.1177/1536867X0400400403,1,0,0,"Time-varying confounding, MSMs"
+gformula: Estimating causal effects in the presence of time-varying confounding or mediation using the g-computation formula,https://doi.org/10.1177/1536867X1101100401,1,0,0,"Time-varying confounding, mediation, Rhian Daniel, Stata"
 Confounding due to changing background risk in adaptively randomized trials,https://doi.org/10.1177/1740774511406950,,,,
 Adjusting for Baseline Measurements of the Mediators and Outcome as a First Step Toward Eliminating Confounding Biases in Mediation Analysis,https://doi.org/10.1177/17456916221134573,,,,
 A Tutorial on Causal Inference in Longitudinal Data With Time-Varying Confounding Using G-Estimation,https://doi.org/10.1177/25152459231174029,,,,
