@@ -479,24 +479,24 @@ Methods for Improving Confounding Control in Comparative Effectiveness Research 
 Estimation of Indirect Effects in the Presence of Unmeasured Confounding for the Mediator-Outcome Relationship in a Multilevel 2-1-1 Mediation Model,https://doi.org/10.3102/1076998616636855,1,0,0,"Unmeasured, mediation"
 Effects of platelet and plasma transfusion on outcome in traumatic brain injury patients with moderate bleeding diatheses,https://doi.org/10.3171/2012.11.JNS12622,0,0,0,Application
 On Associative Confounder Bias,https://doi.org/10.3233/978-1-61499-589-0-157,1,0,0,Associative confounding
-OntoBioStat: Supporting Causal Diagram Design and Analysis,https://doi.org/10.3233/SHTI220463,,,,
-SurvBoost: An R Package for High-Dimensional Variable Selection in the Stratified Proportional Hazards Model via Gradient Boosting,https://doi.org/10.32614/rj-2020-018,,,,
-"Blood Hemoglobin Substantially Modulates the Impact of Gender, Morbid Obesity, and Hyperglycemia on COVID-19 Death Risk: A Multicenter Study in Italy and Spain",https://doi.org/10.3389/fendo.2021.741248,,,,
-High-Dimensional Mediation Analysis With Confounders in Survival Models,https://doi.org/10.3389/fgene.2021.688871,,,,
-Linear high-dimensional mediation models adjusting for confounders using propensity score method,https://doi.org/10.3389/fgene.2022.961148,,,,
-"Confounding and Statistical Significance of Indirect Effects: Childhood Adversity, Education, Smoking, and Anxious and Depressive Symptomatology",https://doi.org/10.3389/fpsyg.2017.01317,,,,
-Developmental Trajectories in Diagnostic Reasoning: Understanding Data Are Confounded Develops Independently of Choosing Informative Interventions to Resolve Confounded Data,https://doi.org/10.3389/fpsyg.2022.800226,,,,
-Causal Model Building in the Context of Cardiac Rehabilitation: A Systematic Review,https://doi.org/10.3390/ijerph20043182,,,,
-Food Sources of Animal Protein in Relation to Overall and Cause-Specific Mortality-Causal Associations or Confounding? An Analysis of the EPIC-Heidelberg Cohort,https://doi.org/10.3390/nu15153322,,,,
-The Confounder-Mediator Dilemma: Should We Control for Obesity to Estimate the Effect of Perfluoroalkyl Substances on Health Outcomes?,https://doi.org/10.3390/toxics8040125,,,,
-Direction dependence analysis: A framework to test the direction of effects in linear models with an implementation in SPSS,https://doi.org/10.3758/s13428-018-1031-x,,,,
-Confounder detection in linear mediation models: Performance of kernel-based tests of independence,https://doi.org/10.3758/s13428-019-01230-4,,,,
-[Matching in observational research: from the directed acyclic graph perspective],https://doi.org/10.3760/cma.j.cn112338-20200601-00793,,,,
-Best (but oft-forgotten) practices: propensity score methods in clinical nutrition research,https://doi.org/10.3945/ajcn.115.125914,,,,
-Determining the Probability Distribution and Evaluating Sensitivity and False Positive Rate of a Confounder Detection Method Applied To Logistic Regression,https://doi.org/10.4172/2155-6180.1000142,,,,
-Covariate selection criteria for controlling confounding bias in a causal study,https://doi.org/10.5351/KJAS.2016.29.5.849,,,,
-SENSITIVITY ANALYSIS FOR UNMEASURED CONFOUNDING IN COARSE STRUCTURAL NESTED MEAN MODELS,https://doi.org/10.5705/ss.202016.0133,,,,
-SEMIPARAMETRIC INFERENCE OF CAUSAL EFFECT WITH NONIGNORABLE MISSING CONFOUNDERS,https://doi.org/10.5705/ss.202018.0466,,,,
-SEMIPARAMETRIC CAUSAL MEDIATION ANALYSIS WITH UNMEASURED MEDIATOR-OUTCOME CONFOUNDING,https://doi.org/10.5705/ss.202021.0354,,,,
-Reporting on statistical methods to adjust for confounding:: A cross-sectional survey,https://doi.org/10.7326/0003-4819-136-2-200201150-00009,,,,
-Lipid Peroxidation With Implication of Organic Pollution in Autistic Behaviors,https://doi.org/10.7759/cureus.14188,,,,
+OntoBioStat: Supporting Causal Diagram Design and Analysis,https://doi.org/10.3233/SHTI220463,0,0,0,Software
+SurvBoost: An R Package for High-Dimensional Variable Selection in the Stratified Proportional Hazards Model via Gradient Boosting,https://doi.org/10.32614/rj-2020-018,0,0,0,Software
+"Blood Hemoglobin Substantially Modulates the Impact of Gender, Morbid Obesity, and Hyperglycemia on COVID-19 Death Risk: A Multicenter Study in Italy and Spain",https://doi.org/10.3389/fendo.2021.741248,0,0,0,Application
+High-Dimensional Mediation Analysis With Confounders in Survival Models,https://doi.org/10.3389/fgene.2021.688871,1,0,0,Mediation
+Linear high-dimensional mediation models adjusting for confounders using propensity score method,https://doi.org/10.3389/fgene.2022.961148,1,0,0,Mediation
+"Confounding and Statistical Significance of Indirect Effects: Childhood Adversity, Education, Smoking, and Anxious and Depressive Symptomatology",https://doi.org/10.3389/fpsyg.2017.01317,0,0,0,Application
+Developmental Trajectories in Diagnostic Reasoning: Understanding Data Are Confounded Develops Independently of Choosing Informative Interventions to Resolve Confounded Data,https://doi.org/10.3389/fpsyg.2022.800226,0,0,0,Application
+Causal Model Building in the Context of Cardiac Rehabilitation: A Systematic Review,https://doi.org/10.3390/ijerph20043182,0,0,0,Application
+Food Sources of Animal Protein in Relation to Overall and Cause-Specific Mortality-Causal Associations or Confounding? An Analysis of the EPIC-Heidelberg Cohort,https://doi.org/10.3390/nu15153322,0,0,0,Application
+The Confounder-Mediator Dilemma: Should We Control for Obesity to Estimate the Effect of Perfluoroalkyl Substances on Health Outcomes?,https://doi.org/10.3390/toxics8040125,0,0,0,Application
+Direction dependence analysis: A framework to test the direction of effects in linear models with an implementation in SPSS,https://doi.org/10.3758/s13428-018-1031-x,1,0,0,Software
+Confounder detection in linear mediation models: Performance of kernel-based tests of independence,https://doi.org/10.3758/s13428-019-01230-4,1,0,0,Mediation
+[Matching in observational research: from the directed acyclic graph perspective],https://doi.org/10.3760/cma.j.cn112338-20200601-00793,0,0,0,Basic concepts
+Best (but oft-forgotten) practices: propensity score methods in clinical nutrition research,https://doi.org/10.3945/ajcn.115.125914,0,0,0,Application
+Determining the Probability Distribution and Evaluating Sensitivity and False Positive Rate of a Confounder Detection Method Applied To Logistic Regression,https://doi.org/10.4172/2155-6180.1000142,0,0,0,
+Covariate selection criteria for controlling confounding bias in a causal study,https://doi.org/10.5351/KJAS.2016.29.5.849,0,0,0,
+SENSITIVITY ANALYSIS FOR UNMEASURED CONFOUNDING IN COARSE STRUCTURAL NESTED MEAN MODELS,https://doi.org/10.5705/ss.202016.0133,1,0,0,
+SEMIPARAMETRIC INFERENCE OF CAUSAL EFFECT WITH NONIGNORABLE MISSING CONFOUNDERS,https://doi.org/10.5705/ss.202018.0466,1,0,0,Missingness
+SEMIPARAMETRIC CAUSAL MEDIATION ANALYSIS WITH UNMEASURED MEDIATOR-OUTCOME CONFOUNDING,https://doi.org/10.5705/ss.202021.0354,1,0,0,"Unmeasured, mediation"
+Reporting on statistical methods to adjust for confounding:: A cross-sectional survey,https://doi.org/10.7326/0003-4819-136-2-200201150-00009,0,0,0,
+Lipid Peroxidation With Implication of Organic Pollution in Autistic Behaviors,https://doi.org/10.7759/cureus.14188,0,0,0,Application
