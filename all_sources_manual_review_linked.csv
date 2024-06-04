@@ -459,26 +459,26 @@ A Bayesian hierarchical model for identifying significant polygenic effects whil
 Likelihood-free inference of population structure and local adaptation in a Bayesian hierarchical model,https://doi.org/10.1534/genetics.109.112391,0,0,0,
 High-resolution genetic mapping of complex traits from a combined analysis of F2 and advanced intercross mice,https://doi.org/10.1534/genetics.114.167056,0,0,0,Application
 Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups Using Random Effect Interaction Models,https://doi.org/10.1534/genetics.119.301909,0,0,0,Application
-Use of causal diagrams in Epidemiology: application to a situation with confounding,https://doi.org/10.1590/0102-311X00103115,,,,
-Robust Text Classification under Confounding Shift,https://doi.org/10.1613/jair.1.11248,,,,
-Modeling and variable selection in epidemiologic analysis,https://doi.org/10.2105/ajph.79.3.340,,,,
-Control of confounding in the analysis phase - an overview for clinicians,https://doi.org/10.2147/CLEP.S129886,,,,
-Adjusting for confounding by indication in observational studies: a case study in traumatic brain injury,https://doi.org/10.2147/CLEP.S154500,,,,
-Automated data-adaptive analytics for electronic healthcare data to study causal treatment effects,https://doi.org/10.2147/CLEP.S166545,,,,
-Modeling determinants of satisfaction with health care in youth with inflammatory bowel disease part 2: semiparametric distributional regression,https://doi.org/10.2147/CLEP.S191458,,,,
-Bayesian Model Averaging to Account for Model Uncertainty in Estimates of a Vaccine's Effectiveness,https://doi.org/10.2147/CLEP.S378039,,,,
-Is a Cutoff of 10% Appropriate for the Change-in-Estimate Criterion of Confounder Identification?,https://doi.org/10.2188/jea.JE20130062,,,,
-Effects of Omitting Non-confounding Predictors From General Relative-Risk Models for Binary Outcomes,https://doi.org/10.2188/jea.JE20170226,,,,
-Causal Modeling to Mitigate Selection Bias and Unmeasured Confounding in Internet-Based Epidemiology of COVID-19: Model Development and Validation,https://doi.org/10.2196/31306,,,,
-Meta-Analysis of Observational Studies with Unmeasured Confounders,https://doi.org/10.2202/1557-4679.1350,,,,
-How to Apply Multiple Imputation in Propensity Score Matching with Partially Observed Confounders: A Simulation Study and Practical Recommendations,https://doi.org/10.22237/jmasm/1608552120,,,,
-Assessing the sensitivity of regression results to unmeasured confounders in observational studies,https://doi.org/10.2307/2533848,,,,
-SELECTING CONFOUNDERS FROM COVARIATES,https://doi.org/10.2307/2983362,,,,
-Methods for Variable Selection and Treatment Effect Estimation in Nonrandomized Studies with Few Outcome Events and Many Confounders,https://doi.org/10.25302/3.2018.ME.13035796,,,,
-Methods for Improving Confounding Control in Comparative Effectiveness Research Using Electronic Healthcare Databases,https://doi.org/10.25302/7.2019.ME.13035638,,,,
-Estimation of Indirect Effects in the Presence of Unmeasured Confounding for the Mediator-Outcome Relationship in a Multilevel 2-1-1 Mediation Model,https://doi.org/10.3102/1076998616636855,,,,
-Effects of platelet and plasma transfusion on outcome in traumatic brain injury patients with moderate bleeding diatheses,https://doi.org/10.3171/2012.11.JNS12622,,,,
-On Associative Confounder Bias,https://doi.org/10.3233/978-1-61499-589-0-157,,,,
+Use of causal diagrams in Epidemiology: application to a situation with confounding,https://doi.org/10.1590/0102-311X00103115,0,0,0,Basic concepts
+Robust Text Classification under Confounding Shift,https://doi.org/10.1613/jair.1.11248,0,0,0,Specific use-case
+Modeling and variable selection in epidemiologic analysis,https://doi.org/10.2105/ajph.79.3.340,1,0,0,Basic concepts
+Control of confounding in the analysis phase - an overview for clinicians,https://doi.org/10.2147/CLEP.S129886,0,0,0,Basic concepts
+Adjusting for confounding by indication in observational studies: a case study in traumatic brain injury,https://doi.org/10.2147/CLEP.S154500,0,0,0,Application
+Automated data-adaptive analytics for electronic healthcare data to study causal treatment effects,https://doi.org/10.2147/CLEP.S166545,1,0,0,"Data-based, EHR"
+Modeling determinants of satisfaction with health care in youth with inflammatory bowel disease part 2: semiparametric distributional regression,https://doi.org/10.2147/CLEP.S191458,0,0,0,Application
+Bayesian Model Averaging to Account for Model Uncertainty in Estimates of a Vaccine's Effectiveness,https://doi.org/10.2147/CLEP.S378039,0,0,0,Specific use-case
+Is a Cutoff of 10% Appropriate for the Change-in-Estimate Criterion of Confounder Identification?,https://doi.org/10.2188/jea.JE20130062,1,0,0,theory
+Effects of Omitting Non-confounding Predictors From General Relative-Risk Models for Binary Outcomes,https://doi.org/10.2188/jea.JE20170226,1,0,0,theory
+Causal Modeling to Mitigate Selection Bias and Unmeasured Confounding in Internet-Based Epidemiology of COVID-19: Model Development and Validation,https://doi.org/10.2196/31306,1,0,0,Relevant application
+Meta-Analysis of Observational Studies with Unmeasured Confounders,https://doi.org/10.2202/1557-4679.1350,1,0,1,Unmeasured
+How to Apply Multiple Imputation in Propensity Score Matching with Partially Observed Confounders: A Simulation Study and Practical Recommendations,https://doi.org/10.22237/jmasm/1608552120,1,1,0,Missingness
+Assessing the sensitivity of regression results to unmeasured confounders in observational studies,https://doi.org/10.2307/2533848,1,0,0,Unmeasured
+SELECTING CONFOUNDERS FROM COVARIATES,https://doi.org/10.2307/2983362,1,0,0,Basic concepts
+Methods for Variable Selection and Treatment Effect Estimation in Nonrandomized Studies with Few Outcome Events and Many Confounders,https://doi.org/10.25302/3.2018.ME.13035796,0,0,0,Not a paper
+Methods for Improving Confounding Control in Comparative Effectiveness Research Using Electronic Healthcare Databases,https://doi.org/10.25302/7.2019.ME.13035638,0,0,0,Not a paper
+Estimation of Indirect Effects in the Presence of Unmeasured Confounding for the Mediator-Outcome Relationship in a Multilevel 2-1-1 Mediation Model,https://doi.org/10.3102/1076998616636855,1,0,0,"Unmeasured, mediation"
+Effects of platelet and plasma transfusion on outcome in traumatic brain injury patients with moderate bleeding diatheses,https://doi.org/10.3171/2012.11.JNS12622,0,0,0,Application
+On Associative Confounder Bias,https://doi.org/10.3233/978-1-61499-589-0-157,1,0,0,Associative confounding
 OntoBioStat: Supporting Causal Diagram Design and Analysis,https://doi.org/10.3233/SHTI220463,,,,
 SurvBoost: An R Package for High-Dimensional Variable Selection in the Stratified Proportional Hazards Model via Gradient Boosting,https://doi.org/10.32614/rj-2020-018,,,,
 "Blood Hemoglobin Substantially Modulates the Impact of Gender, Morbid Obesity, and Hyperglycemia on COVID-19 Death Risk: A Multicenter Study in Italy and Spain",https://doi.org/10.3389/fendo.2021.741248,,,,
