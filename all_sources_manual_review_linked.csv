@@ -438,27 +438,27 @@ BOUNDS ON THE CONDITIONAL AND AVERAGE TREATMENT EFFECT WITH UNOBSERVED CONFOUNDI
 Bias and Confounding: Pharmacoepidemiological Study Using Administrative Database,https://doi.org/10.1248/yakushi.15-00006,0,0,0,Application
 Confounding by Socioeconomic Status in Epidemiological Studies of Air Pollution and Health: Challenges and Opportunities,https://doi.org/10.1289/EHP7980,0,0,0,Application
 Interpreting population- and family-based genome-wide association studies in the presence of confounding,https://doi.org/10.1371/journal.pbio.3002511,1,0,0,GWAS
-Identification of key somatic oncogenic mutation based on a confounder-free causal inference model,https://doi.org/10.1371/journal.pcbi.1010529,,,,
-Genetic sensitivity analysis: Adjusting for genetic confounding in epidemiological associations,https://doi.org/10.1371/journal.pgen.1009590,,,,
-Estimating age-stratified influenza-associated invasive pneumococcal disease in England: A time-series model based on population surveillance data,https://doi.org/10.1371/journal.pmed.1002829,,,,
-Model selection in time series studies of influenza-associated mortality,https://doi.org/10.1371/journal.pone.0039423,,,,
-Confounding Effects of Phase Delays on Causality Estimation,https://doi.org/10.1371/journal.pone.0053588,,,,
-Model selection approach suggests causal association between 25-hydroxyvitamin D and colorectal cancer,https://doi.org/10.1371/journal.pone.0063475,,,,
-Selection of higher order regression models in the analysis of multi-factorial transcription data,https://doi.org/10.1371/journal.pone.0091840,,,,
-Is Geo-Environmental Exposure a Risk Factor for Multiple Sclerosis? A Population-Based Cross-Sectional Study in South-Western Sardinia,https://doi.org/10.1371/journal.pone.0163313,,,,
-Using Rich Data on Comorbidities in Case-Control Study Design with Electronic Health Record Data Improves Control of Confounding in the Detection of Adverse Drug Reactions,https://doi.org/10.1371/journal.pone.0164304,,,,
-Prognosis impact of clinical characteristics in patients with inoperable esophageal squamous cell carcinoma,https://doi.org/10.1371/journal.pone.0182660,,,,
-"Disentangling personalized treatment effects from ""time-of-the-day"" confounding in mobile health studies",https://doi.org/10.1371/journal.pone.0271766,,,,
-Performance of modeling and balancing approach methods when using weights to estimate treatment effects in observational time-to-event settings,https://doi.org/10.1371/journal.pone.0289316,,,,
-Double Bias: Estimation of Causal Effects from Length-Biased Samples in the Presence of Confounding,https://doi.org/10.1515/ijb-2014-0037,,,,
-"Variable Selection for Confounder Control, Flexible Modeling and Collaborative Targeted Minimum Loss-Based Estimation in Causal Inference",https://doi.org/10.1515/ijb-2015-0017,,,,
-Detecting Confounding in Multivariate Linear Models via Spectral Analysis,https://doi.org/10.1515/jci-2017-0013,,,,
-Double machine learning and automated confounder selection: A cautionary tale,https://doi.org/10.1515/jci-2022-0078,,,,
-Finding causative genes from high-dimensional data: an appraisal of statistical and machine learning approaches,https://doi.org/10.1515/sagmb-2015-0072,,,,
-A Bayesian hierarchical model for identifying significant polygenic effects while controlling for confounding and repeated measures,https://doi.org/10.1515/sagmb-2017-0044,,,,
-Likelihood-free inference of population structure and local adaptation in a Bayesian hierarchical model,https://doi.org/10.1534/genetics.109.112391,,,,
-High-resolution genetic mapping of complex traits from a combined analysis of F2 and advanced intercross mice,https://doi.org/10.1534/genetics.114.167056,,,,
-Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups Using Random Effect Interaction Models,https://doi.org/10.1534/genetics.119.301909,,,,
+Identification of key somatic oncogenic mutation based on a confounder-free causal inference model,https://doi.org/10.1371/journal.pcbi.1010529,0,0,0,Application
+Genetic sensitivity analysis: Adjusting for genetic confounding in epidemiological associations,https://doi.org/10.1371/journal.pgen.1009590,1,0,0,Genetic
+Estimating age-stratified influenza-associated invasive pneumococcal disease in England: A time-series model based on population surveillance data,https://doi.org/10.1371/journal.pmed.1002829,0,0,0,Application
+Model selection in time series studies of influenza-associated mortality,https://doi.org/10.1371/journal.pone.0039423,0,0,0,Application
+Confounding Effects of Phase Delays on Causality Estimation,https://doi.org/10.1371/journal.pone.0053588,0,0,0,Application
+Model selection approach suggests causal association between 25-hydroxyvitamin D and colorectal cancer,https://doi.org/10.1371/journal.pone.0063475,0,0,0,Application
+Selection of higher order regression models in the analysis of multi-factorial transcription data,https://doi.org/10.1371/journal.pone.0091840,0,0,0,Application
+Is Geo-Environmental Exposure a Risk Factor for Multiple Sclerosis? A Population-Based Cross-Sectional Study in South-Western Sardinia,https://doi.org/10.1371/journal.pone.0163313,0,0,0,Application
+Using Rich Data on Comorbidities in Case-Control Study Design with Electronic Health Record Data Improves Control of Confounding in the Detection of Adverse Drug Reactions,https://doi.org/10.1371/journal.pone.0164304,0,0,0,Specific use-case
+Prognosis impact of clinical characteristics in patients with inoperable esophageal squamous cell carcinoma,https://doi.org/10.1371/journal.pone.0182660,0,0,0,Application
+"Disentangling personalized treatment effects from ""time-of-the-day"" confounding in mobile health studies",https://doi.org/10.1371/journal.pone.0271766,0,0,0,Application
+Performance of modeling and balancing approach methods when using weights to estimate treatment effects in observational time-to-event settings,https://doi.org/10.1371/journal.pone.0289316,0,0,0,
+Double Bias: Estimation of Causal Effects from Length-Biased Samples in the Presence of Confounding,https://doi.org/10.1515/ijb-2014-0037,1,0,0,Double-bias
+"Variable Selection for Confounder Control, Flexible Modeling and Collaborative Targeted Minimum Loss-Based Estimation in Causal Inference",https://doi.org/10.1515/ijb-2015-0017,1,0,0,Ml-based
+Detecting Confounding in Multivariate Linear Models via Spectral Analysis,https://doi.org/10.1515/jci-2017-0013,1,0,0,Identification
+Double machine learning and automated confounder selection: A cautionary tale,https://doi.org/10.1515/jci-2022-0078,1,0,0,Ml-based
+Finding causative genes from high-dimensional data: an appraisal of statistical and machine learning approaches,https://doi.org/10.1515/sagmb-2015-0072,0,0,0,Specific use-case
+A Bayesian hierarchical model for identifying significant polygenic effects while controlling for confounding and repeated measures,https://doi.org/10.1515/sagmb-2017-0044,1,0,0,"Genetic, hierarchical"
+Likelihood-free inference of population structure and local adaptation in a Bayesian hierarchical model,https://doi.org/10.1534/genetics.109.112391,0,0,0,
+High-resolution genetic mapping of complex traits from a combined analysis of F2 and advanced intercross mice,https://doi.org/10.1534/genetics.114.167056,0,0,0,Application
+Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups Using Random Effect Interaction Models,https://doi.org/10.1534/genetics.119.301909,0,0,0,Application
 Use of causal diagrams in Epidemiology: application to a situation with confounding,https://doi.org/10.1590/0102-311X00103115,,,,
 Robust Text Classification under Confounding Shift,https://doi.org/10.1613/jair.1.11248,,,,
 Modeling and variable selection in epidemiologic analysis,https://doi.org/10.2105/ajph.79.3.340,,,,
