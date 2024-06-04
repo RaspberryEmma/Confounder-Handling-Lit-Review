@@ -359,26 +359,26 @@ A standardisation approach to the control of socioeconomic confounding in small 
 Treatment Effect Estimation via Differentiated Confounder Balancing and Regression,https://doi.org/10.1145/3365677,1,0,0,"Data-based, key"
 Choice Set Confounding in Discrete Choice,https://doi.org/10.1145/3447548.3467378,0,0,0,Specific use-case
 Causal Mediation Analysis with Hidden Confounders,https://doi.org/10.1145/3488560.3498407,1,0,0,
-Be Causal: De-Biasing Social Network Confounding in Recommendation,https://doi.org/10.1145/3533725,,,,
-Statistical foundations for model-based adjustments,https://doi.org/10.1146/annurev-publhealth-031914-122559,,,,
-Confounding in health research,https://doi.org/10.1146/annurev.publhealth.22.1.189,,,,
-Chronic Periodontitis Case Definitions and Confounders in Periodontal Research: A Systematic Assessment,https://doi.org/10.1155/2018/4578782,,,,
-Relationships between Loneliness and Occupational Dysfunction in Community-Dwelling Older Adults: A Cross-Sectional Study,https://doi.org/10.1155/2023/9505865,,,,
-Assessing risk factors for dental caries: a statistical modeling approach,https://doi.org/10.1159/000369831,,,,
-"A Bagged, Partially Linear, Tree-Based Regression Procedure for Prediction and Variable Selection",https://doi.org/10.1159/000380850,,,,
-Propensity Score Methods for Confounding Control in Nonexperimental Research,https://doi.org/10.1161/CIRCOUTCOMES.113.000359,,,,
-Disparate stroke rates on warfarin among contemporaneous cohorts with atrial fibrillation: potential insights into risk from a comparative analysis of SPORTIF III versus SPORTIF V,https://doi.org/10.1161/STROKEAHA.108.514935,,,,
-Understanding logistic regression analysis,https://doi.org/10.11613/BM.2014.003,,,,
-ParceLiNGAM: A Causal Ordering Method Robust Against Latent Confounders,https://doi.org/10.1162/NECO_a_00533,,,,
-Neural Correlates of Causal Confounding,https://doi.org/10.1162/jocn_a_01479,,,,
-Confounder Detection in High-Dimensional Linear Models Using First Moments of Spectral Measures,https://doi.org/10.1162/neco_a_01099,,,,
-Impact of a confounding variable on a regression coefficient,https://doi.org/10.1177/0049124100029002001,,,,
-Omitted Variable Bias: Examining Management Research With the Impact Threshold of a Confounding Variable (ITCV),https://doi.org/10.1177/01492063211006458,,,,
-Sensitivity Plots for Confounder Bias in the Single Mediator Model,https://doi.org/10.1177/0193841X14524576,,,,
-On model selection and model misspecification in causal inference,https://doi.org/10.1177/0962280210387717,,,,
-Consistent causal effect estimation under dual misspecification and implications for confounder selection procedures,https://doi.org/10.1177/0962280212437451,,,,
-Estimating controlled direct effects in the presence of intermediate confounding of the mediator-outcome relationship: Comparison of five different methods,https://doi.org/10.1177/0962280212461194,,,,
-Causal effect estimation strategies in a longitudinal study with complex time-varying confounders: A tutorial,https://doi.org/10.1177/0962280214545529,,,,
+Be Causal: De-Biasing Social Network Confounding in Recommendation,https://doi.org/10.1145/3533725,1,0,0,Missingness
+Statistical foundations for model-based adjustments,https://doi.org/10.1146/annurev-publhealth-031914-122559,1,0,0,Basic concepts
+Confounding in health research,https://doi.org/10.1146/annurev.publhealth.22.1.189,0,0,0,
+Chronic Periodontitis Case Definitions and Confounders in Periodontal Research: A Systematic Assessment,https://doi.org/10.1155/2018/4578782,0,0,0,Application
+Relationships between Loneliness and Occupational Dysfunction in Community-Dwelling Older Adults: A Cross-Sectional Study,https://doi.org/10.1155/2023/9505865,0,0,0,Application
+Assessing risk factors for dental caries: a statistical modeling approach,https://doi.org/10.1159/000369831,0,0,0,Application
+"A Bagged, Partially Linear, Tree-Based Regression Procedure for Prediction and Variable Selection",https://doi.org/10.1159/000380850,1,0,0,Key
+Propensity Score Methods for Confounding Control in Nonexperimental Research,https://doi.org/10.1161/CIRCOUTCOMES.113.000359,1,0,0,Basic concepts
+Disparate stroke rates on warfarin among contemporaneous cohorts with atrial fibrillation: potential insights into risk from a comparative analysis of SPORTIF III versus SPORTIF V,https://doi.org/10.1161/STROKEAHA.108.514935,0,0,0,Application
+Understanding logistic regression analysis,https://doi.org/10.11613/BM.2014.003,0,0,0,
+ParceLiNGAM: A Causal Ordering Method Robust Against Latent Confounders,https://doi.org/10.1162/NECO_a_00533,1,0,0,Latent confounding
+Neural Correlates of Causal Confounding,https://doi.org/10.1162/jocn_a_01479,0,0,0,Application
+Confounder Detection in High-Dimensional Linear Models Using First Moments of Spectral Measures,https://doi.org/10.1162/neco_a_01099,1,0,0,Identification
+Impact of a confounding variable on a regression coefficient,https://doi.org/10.1177/0049124100029002001,1,0,0,Basic concepts
+Omitted Variable Bias: Examining Management Research With the Impact Threshold of a Confounding Variable (ITCV),https://doi.org/10.1177/01492063211006458,0,0,0,Application
+Sensitivity Plots for Confounder Bias in the Single Mediator Model,https://doi.org/10.1177/0193841X14524576,1,0,0,"Mediation, sensitivity"
+On model selection and model misspecification in causal inference,https://doi.org/10.1177/0962280210387717,1,0,0,model misspecification
+Consistent causal effect estimation under dual misspecification and implications for confounder selection procedures,https://doi.org/10.1177/0962280212437451,1,0,0,model misspecification
+Estimating controlled direct effects in the presence of intermediate confounding of the mediator-outcome relationship: Comparison of five different methods,https://doi.org/10.1177/0962280212461194,1,0,1,Mediation
+Causal effect estimation strategies in a longitudinal study with complex time-varying confounders: A tutorial,https://doi.org/10.1177/0962280214545529,0,0,0,Application
 A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication,https://doi.org/10.1177/0962280216660127,,,,
 Comparison of statistical approaches dealing with time-dependent confounding in drug effectiveness studies,https://doi.org/10.1177/0962280216668554,,,,
 A graphical perspective of marginal structural models: An application for the estimation of the effect of physical activity on blood pressure,https://doi.org/10.1177/0962280216680834,,,,
