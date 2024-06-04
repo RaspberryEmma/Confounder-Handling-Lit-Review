@@ -339,26 +339,26 @@ Selecting a scale for spatial confounding adjustment,https://doi.org/10.1111/rss
 Right singular vector projection graphs: fast high dimensional covariance matrix estimation under latent confounding,https://doi.org/10.1111/rssb.12359,1,0,0,Latent confounding
 Multiply robust causal inference with double-negative control adjustment for categorical unmeasured confounding,https://doi.org/10.1111/rssb.12361,1,0,0,"Categorical confounding, unmeasured confounding, multiply-robust"
 Tackling non-ignorable dropout in the presence of time varying confounding,https://doi.org/10.1111/rssc.12154,1,0,0,"Time-varying confounding, specific use-case"
-Tackling Non-Ignorable Dropout in the Presence of Time Varying Confounding,https://doi.org/10.1111/rssc.12154,,,,
-Estimating the causal effect of treatment in observational studies with survival time end points and unmeasured confounding,https://doi.org/10.1111/rssc.12158,,,,
-Estimating the Treatment Effect on the Treated Under Time-Dependent Confounding in an Application to the Swiss HIV Cohort Study,https://doi.org/10.1111/rssc.12221,,,,
-Estimating the treatment effect on the treated under time-dependent confounding in an application to the Swiss HIV Cohort Study,https://doi.org/10.1111/rssc.12221,,,,
-An instrumental variable procedure for estimating Cox models with non-proportional hazards in the presence of unmeasured confounding,https://doi.org/10.1111/rssc.12341,,,,
-On the effect of obesity on employment in the presence of observed and unobserved confounding,https://doi.org/10.1111/stan.12016,,,,
-Compensation of retinal nerve fibre layer thickness as assessed using optical coherence tomography based on anatomical confounders,https://doi.org/10.1136/bjophthalmol-2019-314086,,,,
-Mortality in renal transplant recipients given erythropoietins to increase haemoglobin concentration: cohort study,https://doi.org/10.1136/bmj.b4018,,,,
-Handling time varying confounding in observational research,https://doi.org/10.1136/bmj.j4587,,,,
-Alternative approaches for confounding adjustment in observational studies using weighting based on the propensity score: a primer for practitioners,https://doi.org/10.1136/bmj.l5657,,,,
-Statin adherence and risk of acute cardiovascular events among women: a cohort study accounting for time-dependent confounding affected by previous adherence,https://doi.org/10.1136/bmjopen-2016-011306,,,,
-Survival models to support shared decision-making about advance care planning for people with advanced stage cystic fibrosis,https://doi.org/10.1136/bmjresp-2020-000794,,,,
-Impact of parity on anthropometric measures of obesity controlling by multiple confounders: a cross-sectional study in Chilean women,https://doi.org/10.1136/jech.2007.062240,,,,
-Controlling for socioeconomic confounding using regression methods,https://doi.org/10.1136/jech.49.Suppl_2.S15,,,,
-A standardisation approach to the control of socioeconomic confounding in small area studies of environment and health,https://doi.org/10.1136/jech.49.Suppl_2.S9,,,,
-"The prognostic value of depressive symptoms, fear-avoidance, and self-efficacy for duration of lost-time benefits in workers with musculoskeletal disorders",https://doi.org/10.1136/oem.2005.020420,,,,
-"Selection, calibration, and validation of models of tumor growth",https://doi.org/10.1142/S021820251650055X,,,,
-Treatment Effect Estimation via Differentiated Confounder Balancing and Regression,https://doi.org/10.1145/3365677,,,,
-Choice Set Confounding in Discrete Choice,https://doi.org/10.1145/3447548.3467378,,,,
-Causal Mediation Analysis with Hidden Confounders,https://doi.org/10.1145/3488560.3498407,,,,
+Tackling Non-Ignorable Dropout in the Presence of Time Varying Confounding,https://doi.org/10.1111/rssc.12154,1,0,0,"Time-varying confounding, specific use-case"
+Estimating the causal effect of treatment in observational studies with survival time end points and unmeasured confounding,https://doi.org/10.1111/rssc.12158,1,0,0,"Time-varying confounding, censoring, unmeasured confounding"
+Estimating the Treatment Effect on the Treated Under Time-Dependent Confounding in an Application to the Swiss HIV Cohort Study,https://doi.org/10.1111/rssc.12221,0,0,0,Application
+Estimating the treatment effect on the treated under time-dependent confounding in an application to the Swiss HIV Cohort Study,https://doi.org/10.1111/rssc.12221,0,0,0,Application
+An instrumental variable procedure for estimating Cox models with non-proportional hazards in the presence of unmeasured confounding,https://doi.org/10.1111/rssc.12341,1,0,0,"Instrumental, unmeasured confounding"
+On the effect of obesity on employment in the presence of observed and unobserved confounding,https://doi.org/10.1111/stan.12016,0,0,0,Application
+Compensation of retinal nerve fibre layer thickness as assessed using optical coherence tomography based on anatomical confounders,https://doi.org/10.1136/bjophthalmol-2019-314086,0,0,0,Application
+Mortality in renal transplant recipients given erythropoietins to increase haemoglobin concentration: cohort study,https://doi.org/10.1136/bmj.b4018,0,0,0,Application
+Handling time varying confounding in observational research,https://doi.org/10.1136/bmj.j4587,1,0,0,Time-varying confounding
+Alternative approaches for confounding adjustment in observational studies using weighting based on the propensity score: a primer for practitioners,https://doi.org/10.1136/bmj.l5657,1,0,0,Basic concepts
+Statin adherence and risk of acute cardiovascular events among women: a cohort study accounting for time-dependent confounding affected by previous adherence,https://doi.org/10.1136/bmjopen-2016-011306,0,0,0,Application
+Survival models to support shared decision-making about advance care planning for people with advanced stage cystic fibrosis,https://doi.org/10.1136/bmjresp-2020-000794,0,0,0,Application
+Impact of parity on anthropometric measures of obesity controlling by multiple confounders: a cross-sectional study in Chilean women,https://doi.org/10.1136/jech.2007.062240,0,0,0,Application
+Controlling for socioeconomic confounding using regression methods,https://doi.org/10.1136/jech.49.Suppl_2.S15,0,0,0,"Old, specific use-case"
+A standardisation approach to the control of socioeconomic confounding in small area studies of environment and health,https://doi.org/10.1136/jech.49.Suppl_2.S9,0,0,0,Specific use-case
+"The prognostic value of depressive symptoms, fear-avoidance, and self-efficacy for duration of lost-time benefits in workers with musculoskeletal disorders",https://doi.org/10.1136/oem.2005.020420,0,0,0,Application
+"Selection, calibration, and validation of models of tumor growth",https://doi.org/10.1142/S021820251650055X,0,0,0,Application
+Treatment Effect Estimation via Differentiated Confounder Balancing and Regression,https://doi.org/10.1145/3365677,1,0,0,"Data-based, key"
+Choice Set Confounding in Discrete Choice,https://doi.org/10.1145/3447548.3467378,0,0,0,Specific use-case
+Causal Mediation Analysis with Hidden Confounders,https://doi.org/10.1145/3488560.3498407,1,0,0,
 Be Causal: De-Biasing Social Network Confounding in Recommendation,https://doi.org/10.1145/3533725,,,,
 Statistical foundations for model-based adjustments,https://doi.org/10.1146/annurev-publhealth-031914-122559,,,,
 Confounding in health research,https://doi.org/10.1146/annurev.publhealth.22.1.189,,,,
