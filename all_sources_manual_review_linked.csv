@@ -399,26 +399,26 @@ Estimation of the average treatment effect with variable selection and measureme
 Robust weights that optimally balance confounders for estimating marginal hazard ratios,https://doi.org/10.1177/09622802221146310,0,0,0,
 Controlling for time-dependent confounding using marginal structural models,https://doi.org/10.1177/1536867X0400400403,1,0,0,"Time-varying confounding, MSMs"
 gformula: Estimating causal effects in the presence of time-varying confounding or mediation using the g-computation formula,https://doi.org/10.1177/1536867X1101100401,1,0,0,"Time-varying confounding, mediation, Rhian Daniel, Stata"
-Confounding due to changing background risk in adaptively randomized trials,https://doi.org/10.1177/1740774511406950,,,,
-Adjusting for Baseline Measurements of the Mediators and Outcome as a First Step Toward Eliminating Confounding Biases in Mediation Analysis,https://doi.org/10.1177/17456916221134573,,,,
-A Tutorial on Causal Inference in Longitudinal Data With Time-Varying Confounding Using G-Estimation,https://doi.org/10.1177/25152459231174029,,,,
-Using the realized relationship matrix to disentangle confounding factors for the estimation of genetic variance components of complex traits,https://doi.org/10.1186/1297-9686-42-22,,,,
-Detecting disease-associated genes with confounding variable adjustment and the impact on genomic meta-analysis: with application to major depressive disorder,https://doi.org/10.1186/1471-2105-13-52,,,,
-Robust tests for matched case-control genetic association studies,https://doi.org/10.1186/1471-2156-11-91,,,,
-"Relative importance of climatic, geographic and socio-economic determinants of malaria in Malawi",https://doi.org/10.1186/1475-2875-12-416,,,,
-Developing a spatial-statistical model and map of historical malaria prevalence in Botswana using a staged variable selection procedure,https://doi.org/10.1186/1476-072X-6-44,,,,
-Purposeful selection of variables in logistic regression,https://doi.org/10.1186/1751-0473-3-17,,,,
-Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae,https://doi.org/10.1186/gb-2006-7-8-R70,,,,
-Feature selection and causal analysis for microbiome studies in the presence of confounding using standardization,https://doi.org/10.1186/s12859-021-04232-2,,,,
-Identification of confounder in epidemiologic data contaminated by measurement error in covariates,https://doi.org/10.1186/s12874-016-0159-6,,,,
-Noncollapsibility and its role in quantifying confounding bias in logistic regression,https://doi.org/10.1186/s12874-021-01316-8,,,,
-"Methodological perspectives on the study of the health effects of unemployment - reviewing the mode of unemployment, the statistical analysis method and the role of confounding factors",https://doi.org/10.1186/s12874-022-01670-1,,,,
-"Comparing g-computation, propensity score-based weighting, and targeted maximum likelihood estimation for analyzing externally controlled trials with both measured and unmeasured confounders: a simulation study",https://doi.org/10.1186/s12874-023-01835-6,,,,
-Frameworks for estimating causal effects in observational settings: comparing confounder adjustment and instrumental variables,https://doi.org/10.1186/s12874-023-01936-2,,,,
-Association between ambient air pollutants and upper respiratory tract infection and pneumonia disease burden in Thailand from 2000 to 2022: a high frequency ecological analysis,https://doi.org/10.1186/s12879-023-08185-0,,,,
-Perioperative blood transfusion does not affect recurrence-free and overall survivals after curative resection for intrahepatic cholangiocarcinoma: a propensity score matching analysis,https://doi.org/10.1186/s12885-017-3745-z,,,,
-Assignment of unimodal probability distribution models for quantitative morphological phenotyping,https://doi.org/10.1186/s12915-022-01283-6,,,,
-A geographic identifier assignment algorithm with Bayesian variable selection to identify neighborhood factors associated with emergency department visit disparities for asthma,https://doi.org/10.1186/s12942-020-00203-7,,,,
+Confounding due to changing background risk in adaptively randomized trials,https://doi.org/10.1177/1740774511406950,0,0,0,
+Adjusting for Baseline Measurements of the Mediators and Outcome as a First Step Toward Eliminating Confounding Biases in Mediation Analysis,https://doi.org/10.1177/17456916221134573,1,0,0,Mediation
+A Tutorial on Causal Inference in Longitudinal Data With Time-Varying Confounding Using G-Estimation,https://doi.org/10.1177/25152459231174029,0,0,0,Application
+Using the realized relationship matrix to disentangle confounding factors for the estimation of genetic variance components of complex traits,https://doi.org/10.1186/1297-9686-42-22,0,0,0,Application
+Detecting disease-associated genes with confounding variable adjustment and the impact on genomic meta-analysis: with application to major depressive disorder,https://doi.org/10.1186/1471-2105-13-52,0,0,0,Application
+Robust tests for matched case-control genetic association studies,https://doi.org/10.1186/1471-2156-11-91,0,0,0,
+"Relative importance of climatic, geographic and socio-economic determinants of malaria in Malawi",https://doi.org/10.1186/1475-2875-12-416,0,0,0,Application
+Developing a spatial-statistical model and map of historical malaria prevalence in Botswana using a staged variable selection procedure,https://doi.org/10.1186/1476-072X-6-44,0,0,0,Application
+Purposeful selection of variables in logistic regression,https://doi.org/10.1186/1751-0473-3-17,0,0,0,
+Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae,https://doi.org/10.1186/gb-2006-7-8-R70,0,0,0,Application
+Feature selection and causal analysis for microbiome studies in the presence of confounding using standardization,https://doi.org/10.1186/s12859-021-04232-2,0,0,0,Application
+Identification of confounder in epidemiologic data contaminated by measurement error in covariates,https://doi.org/10.1186/s12874-016-0159-6,1,0,0,Measurement error
+Noncollapsibility and its role in quantifying confounding bias in logistic regression,https://doi.org/10.1186/s12874-021-01316-8,1,0,0,
+"Methodological perspectives on the study of the health effects of unemployment - reviewing the mode of unemployment, the statistical analysis method and the role of confounding factors",https://doi.org/10.1186/s12874-022-01670-1,0,0,0,Application
+"Comparing g-computation, propensity score-based weighting, and targeted maximum likelihood estimation for analyzing externally controlled trials with both measured and unmeasured confounders: a simulation study",https://doi.org/10.1186/s12874-023-01835-6,1,1,1,Key
+Frameworks for estimating causal effects in observational settings: comparing confounder adjustment and instrumental variables,https://doi.org/10.1186/s12874-023-01936-2,1,0,0,Figure 6
+Association between ambient air pollutants and upper respiratory tract infection and pneumonia disease burden in Thailand from 2000 to 2022: a high frequency ecological analysis,https://doi.org/10.1186/s12879-023-08185-0,0,0,0,Application
+Perioperative blood transfusion does not affect recurrence-free and overall survivals after curative resection for intrahepatic cholangiocarcinoma: a propensity score matching analysis,https://doi.org/10.1186/s12885-017-3745-z,0,0,0,Application
+Assignment of unimodal probability distribution models for quantitative morphological phenotyping,https://doi.org/10.1186/s12915-022-01283-6,0,0,0,Application
+A geographic identifier assignment algorithm with Bayesian variable selection to identify neighborhood factors associated with emergency department visit disparities for asthma,https://doi.org/10.1186/s12942-020-00203-7,0,0,0,Application
 Confounding of linkage disequilibrium patterns in large scale DNA based gene-gene interaction studies,https://doi.org/10.1186/s13040-019-0199-7,,,,
 "Model selection, confounder control, and marginal structural models: Review and new applications",https://doi.org/10.1198/000313004X5824,,,,
 The impact of prior distributions for uncontrolled confounding and response bias: A case study of the relation of wire codes and magnetic fields to childhood leukemia,https://doi.org/10.1198/01621450338861905,,,,
