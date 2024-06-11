@@ -6,13 +6,13 @@
 # Emma Tarmey
 #
 # Started:          07/05/2024
-# Most Recent Edit: 09/05/2024
+# Most Recent Edit: 16/05/2024
 # ****************************************
 
 
+import sys
 import numpy as np
 import pandas as pd
-from sys import exit
 
 
 web_of_science_filename = "results/web_of_science.txt" # note: tab delimited, not csv
@@ -39,6 +39,14 @@ print(pubmed_df)
 
 print("\n\n*** Union ***")
 union = pd.merge(web_of_science_df, pubmed_df, how = "outer", on='DOI')
+num_papers = len(union.index)
+union['Title'] = ["" for x in range(num_papers)]
+for i in range(0, num_papers):
+    if (isinstance( union.at[i, 'Title_x'], str)):
+        union.at[i, 'Title'] = union.at[i, 'Title_x']
+    elif (isinstance( union.at[i, 'Title_y'], str)):
+        union.at[i, 'Title'] = union.at[i, 'Title_y']
+union = union[["Title", "DOI"]]
 print(union)
 union.to_csv('results/all_sources.csv', index=False)
 

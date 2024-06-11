@@ -1,0 +1,502 @@
+Title,DOI,Relevant_methods,Relevant_simulation,Review_paper,Notes
+Familial Confounding of the Association Between Maternal Smoking During Pregnancy and Offspring Substance Use and Problems,https://doi.org/10.1001/archgenpsychiatry.2011.2107,0,0,0,
+Assessing seasonal confounding and model selection bias in air pollution epidemiology using positive and negative control analyses,https://doi.org/10.1002/1099-095X(200011/12)11:6<705::AID-ENV444>3.0.CO;2-H,1,1,0,Table 1
+Confounding factors in determining causal soil moisture-precipitation feedback,https://doi.org/10.1002/2016WR019869,0,0,0,
+Concerns Regarding P Value-Based Variable Selection of Exposure Variables and Confounding Factors: Comment on the Article by Hawker et al,https://doi.org/10.1002/art.41771,0,0,0,
+Risk factor adjustment in marginal structural model estimation of optimal treatment regimes,https://doi.org/10.1002/bimj.200800182,1,1,0,"Table 1, Table 2"
+Correction of confounding bias in non-randomized studies by appropriate weighting,https://doi.org/10.1002/bimj.201000154,1,0,0,
+Inverse-probability-of-treatment weighted estimation of causal parameters in the presence of error-contaminated and time-dependent confounders,https://doi.org/10.1002/bimj.201600228,1,1,0,"Table 1, measurement error"
+Covariate selection strategies for causal inference: Classification and comparison,https://doi.org/10.1002/bimj.201700294,1,1,1,
+Propensity score methods for time-dependent cluster confounding,https://doi.org/10.1002/bimj.201900277,1,1,0,
+A comparison of full model specification and backward elimination of potential confounders when estimating marginal and conditional causal effects on binary outcomes from observational data,https://doi.org/10.1002/bimj.202100237,1,1,0,
+Causal relationship and confounding in statistical models,https://doi.org/10.1002/bjs.10241,0,0,0,theory
+Assessing spatial confounding in cancer disease mapping using R,https://doi.org/10.1002/cnr2.1263,1,0,0,spatial
+Season-dependent impact of forage quality on stress in alpine chamois,https://doi.org/10.1002/ece3.10045,0,0,0,
+Annual variation in breeding success in boreal forest grouse: Four decades of monitoring reveals bottom-up drivers to be more important than predation,https://doi.org/10.1002/ece3.9327,0,0,0,
+Model selection in occupancy models: Inference versus prediction,https://doi.org/10.1002/ecy.3942,1,0,0,M-DAG
+Mitigating spatial confounding by explicitly correlating Gaussian random fields,https://doi.org/10.1002/env.2727,1,0,0,spatial
+Confounded by Sequencing Depth in Association Studies of Rare Alleles,https://doi.org/10.1002/gepi.20574,0,0,0,
+Summary statistic analyses can mistake confounding bias for heritability,https://doi.org/10.1002/gepi.22259,0,0,0,
+Intermediate confounding in trio relationships: The importance of complete data in effect size estimation,https://doi.org/10.1002/gepi.22294,0,0,0,
+An enhanced machine learning tool for<i>cis</i>-eQTL mapping with regularization and confounder adjustments,https://doi.org/10.1002/gepi.22341,1,0,0,Ml-based
+Causation and familial confounding as explanations for the associations of polygenic risk scores with breast cancer: Evidence from innovative ICE FALCON and ICE CRISTAL analyses,https://doi.org/10.1002/gepi.22556,0,0,0,
+Stochastic dynamic causal modeling of working memory connections in cocaine dependence,https://doi.org/10.1002/hbm.22212,0,0,0,
+Observing cognitive processes in time through functional MRI model comparison,https://doi.org/10.1002/hbm.26114,0,0,0,
+Applying nonexperimental study approach to analyze historical batch data,https://doi.org/10.1002/jps.23066,0,0,0,
+The role of the c-statistic in variable selection for propensity score models,https://doi.org/10.1002/pds.2074,1,0,0,
+Measuring balance and model selection in propensity score methods,https://doi.org/10.1002/pds.2188,1,0,0,
+Using high-dimensional propensity scores to automate confounding control in a distributed medical product safety surveillance system,https://doi.org/10.1002/pds.2328,1,0,0,
+Variable selection for propensity score models when estimating treatment effects on multiple outcomes: a simulation study,https://doi.org/10.1002/pds.3356,1,1,0,
+A review of covariate selection for non-experimental comparative effectiveness research,https://doi.org/10.1002/pds.3506,1,0,1,
+Propensity score balance measures in pharmacoepidemiology: a simulation study,https://doi.org/10.1002/pds.3574,0,0,0,
+On the role of marginal confounder prevalence - implications for the high-dimensional propensity score algorithm,https://doi.org/10.1002/pds.3773,0,0,0,
+Addressing unmeasured confounding in comparative observational research,https://doi.org/10.1002/pds.4394,1,0,1,unmeasured
+A comparison of confounder selection and adjustment methods for estimating causal effects using large healthcare databases,https://doi.org/10.1002/pds.5403,1,1,1,
+Machine learning for improving high-dimensional proxy confounder adjustment in healthcare database studies: An overview of the current literature,https://doi.org/10.1002/pds.5500,1,0,1,Ml-based
+Controlling for confounding via propensity score methods can result in biased estimation of the conditional AUC: A simulation study,https://doi.org/10.1002/pst.1948,0,1,0,
+On kernel machine learning for propensity score estimation under complex confounding structures,https://doi.org/10.1002/pst.2105,1,0,0,Ml-based
+Opportunities for minimization of confounding in observational research,https://doi.org/10.1002/pst.528,1,0,0,study design
+Consequences of exposure measurement error for confounder identification in environmental epidemiology,https://doi.org/10.1002/sim.1541,0,0,0,theory
+Improved estimation of controlled direct effects in the presence of unmeasured confounding of intermediate variables,https://doi.org/10.1002/sim.2057,1,1,0,Table II
+An innovative application of Bayesian disease mapping methods to patient safety research: a Canadian adverse medical event study,https://doi.org/10.1002/sim.2507,1,0,0,
+Diagnostics for confounding in PK/PD models for oxcarbazepine,https://doi.org/10.1002/sim.2542,0,0,0,
+Seasonal confounding in air pollution and health time-series studies: effect on air pollution effect estimates,https://doi.org/10.1002/sim.2681,0,0,0,
+Bounds on potential risks and causal risk differences under assumptions about confounding parameters,https://doi.org/10.1002/sim.2927,0,0,0,
+Use of instrumental variables in the analysis of generalized linear models in the presence of unmeasured confounding with applications to epidemiological research,https://doi.org/10.1002/sim.3036,1,1,0,
+Efforts to adjust for confounding by neighborhood using complex survey data,https://doi.org/10.1002/sim.3946,0,0,0,
+Sensitivity analysis for unmeasured confounding in principal stratification settings with binary variables,https://doi.org/10.1002/sim.4472,1,0,0,
+Log-linear model selections in a rural dental health study,https://doi.org/10.1002/sim.4780020107,0,0,0,
+Model selection and the estimation of odds ratios in the presence of extraneous factors,https://doi.org/10.1002/sim.4780091003,0,0,0,
+"Doubly robust estimators of causal exposure effects with missing data in the outcome, exposure or a confounder",https://doi.org/10.1002/sim.5643,1,0,0,
+Methods for dealing with time-dependent confounding,https://doi.org/10.1002/sim.5686,1,0,0,
+Network-based regularization for matched case-control analysis of high-dimensional DNA methylation data,https://doi.org/10.1002/sim.5694,0,0,0,
+Multiple imputation for handling systematically missing confounders in meta-analysis of individual participant data,https://doi.org/10.1002/sim.5894,1,0,0,
+The use of propensity score methods with survival or time-to-event outcomes: reporting measures of effect similar to those used in randomized experiments,https://doi.org/10.1002/sim.5984,0,0,0,
+Using an instrumental variable to test for unmeasured confounding,https://doi.org/10.1002/sim.6227,1,0,0,
+Controlling for seasonal patterns and time varying confounders in time-series epidemiological models: a simulation study,https://doi.org/10.1002/sim.6271,0,0,0,
+"A flexible, interpretable framework for assessing sensitivity to unmeasured confounding",https://doi.org/10.1002/sim.6973,1,0,0,model misspecification
+A comparison of Bayesian and Monte Carlo sensitivity analysis for unmeasured confounding,https://doi.org/10.1002/sim.7298,1,0,0,
+Inverse probability weighting to control confounding in an illness-death model for interval-censored data,https://doi.org/10.1002/sim.7550,0,0,0,
+Sensitivity analysis for unobserved confounding of direct and indirect effects using uncertainty intervals,https://doi.org/10.1002/sim.7620,1,0,0,
+A class of semiparametric tests of treatment effect robust to confounder measurement error,https://doi.org/10.1002/sim.7852,0,0,0,theory
+Mediation analysis of time-to-event endpoints accounting for repeatedly measured mediators subject to time-varying confounding,https://doi.org/10.1002/sim.8336,0,0,0,
+Safety surveillance and the estimation of risk in select populations: Flexible methods to control for confounding while targeting marginal comparisons via standardization,https://doi.org/10.1002/sim.8410,0,0,0,
+"Bias testing, bias correction, and confounder selection using an instrumental variable model",https://doi.org/10.1002/sim.8730,1,0,0,
+Confounder selection strategies targeting stable treatment effect estimators,https://doi.org/10.1002/sim.8792,1,1,0,Table 1
+Using generalized linear models to implement g-estimation for survival data with time-varying confounding,https://doi.org/10.1002/sim.8997,1,0,0,
+Practical recommendations on double score matching for estimating causal effects,https://doi.org/10.1002/sim.9289,1,1,0,
+Identification and robust estimation of swapped direct and indirect effects: Mediation analysis with unmeasured mediator-outcome confounding and intermediate confounding,https://doi.org/10.1002/sim.9501,1,1,0,
+Consistent inverse probability of treatment weighted estimation of the average treatment effect with mismeasured time-dependent confounders,https://doi.org/10.1002/sim.9629,1,1,0,
+Causal inference in survival analysis under deterministic missingness of confounders in register data,https://doi.org/10.1002/sim.9706,0,0,0,MNAR
+Variable selection and Bayesian model averaging in case-control studies,https://doi.org/10.1002/sim.976,1,0,0,
+A Bayesian multistage spatio-temporally dependent model for spatial clustering and variable selection,https://doi.org/10.1002/sim.9889,0,0,0,Spatio-temporal clustering
+Dealing with time-dependent exposures and confounding when defining and estimating attributable fractions-Revisiting estimands and estimators,https://doi.org/10.1002/sim.9988,0,0,0,
+Removal of Confounders via Invariant Risk Minimization for Medical Diagnosis,https://doi.org/10.1007/978-3-031-16452-1_55,1,0,0,Ml-based
+Time-resolved biomarker discovery in 1H-NMR data using generalized fuzzy Hough transform alignment and parallel factor analysis,https://doi.org/10.1007/s00216-009-3421-5,0,0,0,
+Polypharmacy and mortality: new insights from a large cohort of older adults by detection of effect modification by multi-morbidity and comprehensive correction of confounding by indication,https://doi.org/10.1007/s00228-017-2266-7,0,0,0,
+Learning Causal Graphs with Latent Confounders in Weak Faithfulness Violations,https://doi.org/10.1007/s00354-016-0003-x,1,0,0,
+Balance disorders as potential confounders associated with an increased risk of acute cerebrovascular accidents,https://doi.org/10.1007/s00405-020-06465-y,0,0,0,
+Different statistical techniques dealing with confounding in observational research: measuring the effect of breast-conserving therapy and mastectomy on survival,https://doi.org/10.1007/s00432-019-02919-x,0,0,0,
+"Sensitivity analysis for unobserved confounding in causal mediation analysis allowing for effect modification, censoring and truncation",https://doi.org/10.1007/s10260-021-00611-4,1,1,0,
+Variable selection: current practice in epidemiological studies,https://doi.org/10.1007/s10654-009-9411-2,1,0,1,Possibly outdated review (2009)
+Selection of confounding variables should not be based on observed associations with exposure,https://doi.org/10.1007/s10654-011-9606-1,1,0,0,Singular
+"From bad to worse: collider stratification amplifies confounding bias in the ""obesity paradox""",https://doi.org/10.1007/s10654-015-0069-7,1,0,0,Interacting biases
+"Limitations of individual causal models, causal graphs, and ignorability assumptions, as illustrated by random confounding and design unfaithfulness",https://doi.org/10.1007/s10654-015-9995-7,1,0,0,Causal theory
+The meaning of confounding adjustment in the presence of multiple versions of treatment: an application to organ transplantation,https://doi.org/10.1007/s10654-019-00484-8,0,0,0,Application
+Principles of confounder selection,https://doi.org/10.1007/s10654-019-00494-6,1,0,1,VanderWeele
+A descriptive review of variable selection methods in four epidemiologic journals: there is still room for improvement,https://doi.org/10.1007/s10654-019-00529-y,1,0,1,
+Case-control matching on confounders revisited,https://doi.org/10.1007/s10654-023-01046-9,1,0,0,
+"A Simulation-Based Assessment of Alternative Explanations for Apparent Confounding in ""PM Decomposition"" Studies",https://doi.org/10.1007/s10666-022-09829-2,0,0,0,Application
+Causal modelling of heavy-tailed variables and confounders with application to river flow,https://doi.org/10.1007/s10687-022-00456-4,1,1,0,Specific heavy-tail assumption
+Addressing missing data in confounders when estimating propensity scores for continuous exposures,https://doi.org/10.1007/s10742-018-0191-6,1,0,0,Missingness
+The Causal Relationship between Childhood Adversity and Developmental Trajectories of Delinquency: A Consideration of Genetic and Environmental Confounds,https://doi.org/10.1007/s10964-018-0960-0,0,0,0,Application
+Sensitivity analysis for unmeasured confounding in a marginal structural Cox proportional hazards model,https://doi.org/10.1007/s10985-008-9109-x,1,0,0,
+Low-dimensional confounder adjustment and high-dimensional penalized estimation for survival analysis,https://doi.org/10.1007/s10985-015-9350-z,1,0,1,"Table 1, Table 2"
+Approximate Bayesian inference in semi-mechanistic models,https://doi.org/10.1007/s11222-016-9668-8,0,0,0,Statistical theory
+A Review of the Techniques Used to Control Confounding Bias and How Spatiotemporal Variation Can Be Controlled in Environmental Impact Studies,https://doi.org/10.1007/s11270-019-4150-9,1,0,1,
+Estimation of Causal Effect Measures in the Presence of Measurement Error in Confounders,https://doi.org/10.1007/s12561-018-9213-8,1,0,0,Measurement error
+Incorporating Genetic Heterogeneity in Whole-Genome Regressions Using Interactions,https://doi.org/10.1007/s13253-015-0222-5,0,0,0,
+High-Dimensional Propensity Score-Adjusted Case-Crossover for Discovering Adverse Drug Reactions from Computerized Administrative Healthcare Databases,https://doi.org/10.1007/s40264-022-01148-5,1,1,0,
+Microcomputer-assisted multivariate survival data analysis using Cox's proportional hazards regression model,https://doi.org/10.1016/0169-2607(90)90054-d,0,0,0,Computational application
+Inappropriate use of bivariable analysis to screen risk factors for use in multivariable analysis,https://doi.org/10.1016/0895-4356(96)00025-x,0,0,0,
+Combining ecological and individual variables to reduce confounding by indication: Case study - subarachnoid hemorrhage treatment,https://doi.org/10.1016/S0895-4356(00)00251-1,1,0,0,
+"Calculating the ""number needed to be exposed"" with adjustment for confounding variables in epidemiological studies",https://doi.org/10.1016/S0895-4356(01)00510-8,1,0,0,Experimental design
+On Miettinen's multivariate confounder score,https://doi.org/10.1016/S0895-4356(97)00283-7,1,0,0,Fallen into disuse
+Identification of confounders in the assessment of the relationship between lead exposure and child development,https://doi.org/10.1016/S1047-2797(00)00176-9,0,0,0,Application
+Confounders or intermediate variables? Testing mechanisms for the relationship between depression and smoking in a longitudinal cohort study,https://doi.org/10.1016/j.addbeh.2014.11.026,0,0,0,Application
+Observational Dose-Response Meta-Analysis Methods May Bias Risk Estimates at Low Consumption Levels: The Case of Meat and Colorectal Cancer,https://doi.org/10.1016/j.advnut.2024.100214,0,0,0,Application
+"Confounding, causality, and confusion: the role of intermediate variables in interpreting observational studies in obstetrics",https://doi.org/10.1016/j.ajog.2017.04.016,1,0,1,Biases
+Using Causal Diagrams for Biomedical Research,https://doi.org/10.1016/j.annemergmed.2022.08.014,1,0,0,Basic concepts
+Confounder selection in environmental epidemiology: Assessment of health effects of prenatal mercury exposure,https://doi.org/10.1016/j.annepidem.2006.05.007,1,1,0,
+Bias formulas for external adjustment and sensitivity analysis of unmeasured confounders,https://doi.org/10.1016/j.annepidem.2008.04.003,1,0,0,Biases
+Time-Dependent Confounding in the Study of the Effects of Regular Physical Activity in Chronic Obstructive Pulmonary Disease: An Application of the Marginal Structural Model,https://doi.org/10.1016/j.annepidem.2008.05.003,0,0,0,Application
+Confounding by Season in Ecologic Studies of Seasonal Exposures and Outcomes: Examples From Estimates of Mortality Due to Influenza,https://doi.org/10.1016/j.annepidem.2009.06.009,1,0,0,Temporal
+Confounding control in a nonexperimental study of STAR*D data: logistic regression balanced covariates better than boosted CART,https://doi.org/10.1016/j.annepidem.2013.01.004,1,0,0,
+Trimester-specific association between antibiotics exposure during pregnancy and childhood asthma or wheeze: the role of confounding,https://doi.org/10.1016/j.annepidem.2018.10.003,0,0,0,
+Visualization tool of variable selection in bias-variance tradeoff for inverse probability weights,https://doi.org/10.1016/j.annepidem.2019.12.006,1,0,0,
+"Avoiding Systematic Bias in Orthopedics Research Through Informed Variable Selection: A Discussion of Confounders, Mediators, and Colliders",https://doi.org/10.1016/j.arth.2022.05.027,1,0,0,
+On the completeness of orientation rules for causal discovery in the presence of latent confounders and selection bias,https://doi.org/10.1016/j.artint.2008.08.001,1,0,0,
+Variations in prostate biopsy recommendation and acceptance confound evaluation of risk factors for prostate cancer: Examining race and BMI,https://doi.org/10.1016/j.canep.2019.101619,0,0,0,Application
+The effect of the prior distribution in the <i>Bayesian Adjustment for Confounding algorithm</i>,https://doi.org/10.1016/j.csda.2013.09.011,1,0,0,
+Plasmode simulation for the evaluation of pharmacoepidemiologic methods in complex healthcare databases,https://doi.org/10.1016/j.csda.2013.10.018,1,0,0,Data simulation
+Causal mediation analysis for survival outcome with unobserved mediator-outcome confounders,https://doi.org/10.1016/j.csda.2014.11.016,1,0,0,
+A causal examination of the effects of confounding factors on multimetric indices,https://doi.org/10.1016/j.ecolind.2013.01.015,0,0,0,
+Bayesian geostatistical modelling of PM(10) and PM(2.5) surface level concentrations in Europe using high-resolution satellite-derived products,https://doi.org/10.1016/j.envint.2018.08.041,0,0,0,Application
+A case-cohort study of perinatal exposure to potential endocrine disrupters and the risk of cryptorchidism in the Norwegian HUMIS study,https://doi.org/10.1016/j.envint.2021.106815,0,0,0,Application
+"Implications of nonlinearity, confounding, and interactions for estimating exposure concentration-response functions in quantitative risk analysis",https://doi.org/10.1016/j.envres.2020.109638,0,0,0,
+Assessing urinary phenol and paraben mixtures in pregnant women with and without gestational diabetes mellitus: A case-control study,https://doi.org/10.1016/j.envres.2022.113897,0,0,0,Application
+An evaluation of Hamiltonian Monte Carlo performance to calibrate age-structured compartmental SEIR models to incidence data,https://doi.org/10.1016/j.epidem.2020.100415,0,0,0,Application
+Scope of Mendelian randomization to control for unobserved confounding in epidemiology,https://doi.org/10.1016/j.gaceta.2021.01.008,1,0,0,MR
+Propensity score methods to control for confounding in observational cohort studies: a statistical primer and application to endoscopy research,https://doi.org/10.1016/j.gie.2019.04.236,1,0,0,
+Reducing the complexity of high-dimensional environmental data: An analytical framework using LASSO with considerations of confounding for statistical inference,https://doi.org/10.1016/j.ijheh.2023.114116,1,0,0,LASSO
+Using computable knowledge mined from the literature to elucidate confounders for EHR-based pharmacovigilance,https://doi.org/10.1016/j.jbi.2021.103719,1,0,0,
+Adjusting for indirectly measured confounding using large-scale propensity score,https://doi.org/10.1016/j.jbi.2022.104204,1,0,0,
+A sensitivity analysis using information about measured confounders yielded improved uncertainty assessments for unmeasured confounding,https://doi.org/10.1016/j.jclinepi.2007.05.006,1,0,0,unmeasured
+External adjustment for unmeasured confounders improved drug-outcome association estimates based on health care utilization data,https://doi.org/10.1016/j.jclinepi.2012.03.014,0,0,0,Application
+Reporting of covariate selection and balance assessment in propensity score analysis is suboptimal: a systematic review,https://doi.org/10.1016/j.jclinepi.2014.08.011,1,0,1,
+Birth cohort appeared to confound effect estimates of guideline changes on statin utilization,https://doi.org/10.1016/j.jclinepi.2014.10.010,0,0,0,Application
+Comparison of high-dimensional confounder summary scores in comparative studies of newly marketed medications,https://doi.org/10.1016/j.jclinepi.2016.02.011,1,1,0,
+Magnitude and direction of missing confounders had different consequences on treatment effect estimation in propensity score analysis,https://doi.org/10.1016/j.jclinepi.2017.04.001,1,0,0,Missingness
+Adjusting for unmeasured confounding in nonrandomized longitudinal studies: a methodological review,https://doi.org/10.1016/j.jclinepi.2017.04.022,1,0,1,EHR
+"Approaches to addressing missing values, measurement error, and confounding in epidemiologic studies",https://doi.org/10.1016/j.jclinepi.2020.11.006,1,0,0,"Missingness, measurement error, incompleteness"
+On the selection of variables in criminology: Adjusting for the descendants of unobserved confounders,https://doi.org/10.1016/j.jcrimjus.2022.101924,1,0,0,
+"Second-generation corneal deformation signal waveform analysis in normal, forme fruste keratoconic, and manifest keratoconic corneas after statistical correction for potentially confounding factors",https://doi.org/10.1016/j.jcrs.2015.11.011,0,0,0,Application
+Causal inference of general treatment effects using neural networks with a diverging number of confounders,https://doi.org/10.1016/j.jeconom.2023.105555,1,0,0,"Ml-based, good"
+Intensive care unit (ICU)-acquired bacteraemia and ICU mortality and discharge: addressing time-varying confounding using appropriate methodology,https://doi.org/10.1016/j.jhin.2017.11.011,0,0,0,Application
+Predictors of leiomyoma recurrence after laparoscopic myomectomy,https://doi.org/10.1016/j.jmig.2007.06.003,0,0,0,Application
+Network inference in the presence of latent confounders: The role of instantaneous causalities,https://doi.org/10.1016/j.jneumeth.2015.02.015,1,0,0,Networks
+"Nonlinear association criterion, nonlinear Granger causality and related issues with applications to neuroimage studies",https://doi.org/10.1016/j.jneumeth.2016.01.003,0,0,1,Non-confounding
+Detecting multiple confounders,https://doi.org/10.1016/j.jspi.2008.06.013,1,0,0,
+Similar failure and patency rates when comparing one- and two-stage basilic vein transposition,https://doi.org/10.1016/j.jvs.2014.11.083,0,0,0,Application
+A practical method to control spatiotemporal confounding in environmental impact studies,https://doi.org/10.1016/j.mex.2018.07.003,1,0,0,Spatio-temporal
+Dynamic Causal Modelling and physiological confounds: A functional MRI study of vagus nerve stimulation,https://doi.org/10.1016/j.neuroimage.2010.05.021,0,0,0,Application
+Identification of causal relations in neuroimaging data with latent confounders: An instrumental variable approach,https://doi.org/10.1016/j.neuroimage.2015.10.062,1,0,0,Instrumental
+Model selection for identifying power-law scaling,https://doi.org/10.1016/j.neuroimage.2016.01.008,0,0,0,Non-confounding
+Examining how physician factors influence patient satisfaction during clinical consultations about cancer prognosis and pain,https://doi.org/10.1016/j.pecinn.2022.100017,0,0,0,Application
+The impact of confounder selection in propensity scores when applied to prospective cohort studies in pregnancy,https://doi.org/10.1016/j.reprotox.2018.04.003,0,0,0,Application
+Association of low-level inorganic arsenic exposure from rice with age-standardized mortality risk of cardiovascular disease (CVD) in England and Wales,https://doi.org/10.1016/j.scitotenv.2020.140534,0,0,0,Application
+Variable selection in heterogeneous datasets: A truncated-rank sparse linear mixed model with applications to genome-wide association studies,https://doi.org/10.1016/j.ymeth.2018.04.021,0,0,0,Non-confounding
+Assessing topological congruence among concatenation-based phylogenomic approaches in empirical datasets,https://doi.org/10.1016/j.ympev.2021.107086,0,0,0,Non-confounding
+Risk factors of prolonged postoperative pleural effusion after repair of tetralogy of Fallot,https://doi.org/10.1016/s1726-4901(09)70155-8,0,0,0,Application
+"Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",https://doi.org/10.1017/S0140525X22001145,0,0,0,Application
+"Challenging the utility of polygenic scores for social science: Environmental confounding, downward causation, and unknown biology",https://doi.org/10.1017/S0140525X22002394,0,0,0,Application
+Applications of the propensity score weighting method in psychogeriatric research: correcting selection bias and adjusting for confounders,https://doi.org/10.1017/S1041610216002490,0,0,0,Application
+Sources of confounding in life course epidemiology,https://doi.org/10.1017/S2040174418000582,0,0,0,Application
+A Functional Bayesian Model for Hydrogen-Deuterium Exchange Mass Spectrometry,https://doi.org/10.1021/acs.jproteome.3c00297,0,0,0,Non-confounding
+Assessing Mediation Using Marginal Structural Models in the Presence of Confounding and Moderation,https://doi.org/10.1037/a0029311,1,0,0,
+Structural Equation Modeling Versus Marginal Structural Modeling for Assessing Mediation in the Presence of Posttreatment Confounding,https://doi.org/10.1037/a0036368,1,0,0,SEM
+Combating Unmeasured Confounding in Cross-Sectional Studies: Evaluating Instrumental-Variable and Heckman Selection Models,https://doi.org/10.1037/a0037416,1,0,0,unmeasured
+Confounding in Statistical Mediation Analysis: What It Is and How to Address It,https://doi.org/10.1037/cou0000242,1,0,0,Basic concepts
+The Impact of Measurement Error and Omitting Confounders on Statistical Inference of Mediation Effects and Tools for Sensitivity Analysis,https://doi.org/10.1037/met0000345,1,0,0,Measurement error
+Data-Driven Covariate Selection for Confounding Adjustment by Focusing on the Stability of the Effect Estimator,https://doi.org/10.1037/met0000564,1,0,0,Key
+How Do Unobserved Confounding Mediators and Measurement Error Impact Estimated Mediation Effects and Corresponding Statistical Inferences? Introducing the R Package ConMed for Sensitivity Analysis,https://doi.org/10.1037/met0000567,1,0,0,"unobserved confounding, measurement error, mediation, R package"
+"One Step at a Time: A Statistical Approach for Distinguishing Mediators, Confounders, and Colliders Using Direction Dependence Analysis",https://doi.org/10.1037/met0000619,1,0,0,Key
+Uncovering interpretable potential confounders in electronic medical records,https://doi.org/10.1038/s41467-022-28546-8,1,0,0,EHR
+High-throughput target trial emulation for Alzheimer's disease drug repurposing with real-world data,https://doi.org/10.1038/s41467-023-43929-1,0,0,0,Application
+Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits,https://doi.org/10.1038/s41588-023-01648-9,0,0,0,Application
+Adjusting for genetic confounders in transcriptome-wide association studies improves discovery of risk genes of complex traits,https://doi.org/10.1038/s41588-023-01648-9,0,0,0,Application
+Nutritional status and anxious and depressive symptoms in anorexia nervosa: a prospective study,https://doi.org/10.1038/s41598-020-79410-y,0,0,0,Application
+The benefits of selecting phenotype-specific variants for applications of mixed models in genomics,https://doi.org/10.1038/srep01815,0,0,0,Application
+Sire coloration influences offspring survival under predation risk in the moorfrog,https://doi.org/10.1046/j.1420-9101.2003.00606.x,0,0,0,Application
+Abnormal Mineral Metabolism and Mortality in Hemodialysis Patients With Secondary Hyperparathyroidism: Evidence From Marginal Structural Models Used to Adjust for Time-Dependent Confounding,https://doi.org/10.1053/j.ajkd.2013.08.011,0,0,0,Application
+Time-Dependent Confounding in the Estimation of Treatment Effects in Randomised Trials with Multimodal Therapies - An Illustration of the Problem of Time-Dependent Confounding by Causal Graphs,https://doi.org/10.1055/s-0033-1355405,0,0,0,Application
+"Smoking as potential confounder in German epidemiological studies:: Standardization of assessment, quantification, and analysis",https://doi.org/10.1055/s-2005-858807,0,0,0,Application
+Unobserved time effects confound the identification of climate change impacts,https://doi.org/10.1073/pnas.1202049109,0,0,0,Application
+Using machine learning to estimate the effect of racial segregation on COVID-19 mortality in the United States,https://doi.org/10.1073/pnas.2015577118,0,0,0,Application
+An Introduction to Propensity Score Methods for Reducing the Effects of Confounding in Observational Studies,https://doi.org/10.1080/00273171.2011.568786,1,0,0,Basic concepts
+Direction Dependence Analysis in the Presence of Confounders: Applications to Linear Mediation Models Using Observational Data,https://doi.org/10.1080/00273171.2018.1528542,1,0,0,DDA
+A More Efficient Causal Mediator Model Without the No-Unmeasured-Confounder Assumption,https://doi.org/10.1080/00273171.2019.1656051,1,0,0,Mediation
+Tuning Random Forests for Causal Inference under Cluster-Level Unmeasured Confounding,https://doi.org/10.1080/00273171.2021.1994364,1,0,0,random forests
+Causal inference with missingness in confounder,https://doi.org/10.1080/00949655.2022.2089672,1,0,0,Missingness
+Adjustment for Missing Confounders Using External Validation Data and Propensity Scores,https://doi.org/10.1080/01621459.2011.643739,1,0,0,Missingness
+Some Statistical Strategies for DAE-seq Data Analysis: Variable Selection and Modeling Dependencies among Observations,https://doi.org/10.1080/01621459.2013.869222,0,0,0,Application
+Uncertainty in Propensity Score Estimation: Bayesian Methods for Variable Selection and Model Averaged Causal Effects,https://doi.org/10.1080/01621459.2013.869498,1,0,0,Non-confounding
+Regularization Methods for High-Dimensional Instrumental Variables Regression With an Application to Genetical Genomics,https://doi.org/10.1080/01621459.2014.908125,0,0,0,Application
+Treatment Effect Estimation Under Additive Hazards Models With High-Dimensional Confounding,https://doi.org/10.1080/01621459.2021.1930546,1,0,0,Doubly robust
+Identifying Effects of Multiple Treatments in the Presence of Unmeasured Confounding,https://doi.org/10.1080/01621459.2021.2023551,1,0,0,unmeasured
+Proximal Learning for Individualized Treatment Regimes Under Unmeasured Confounding,https://doi.org/10.1080/01621459.2022.2147841,0,0,0,Application
+Nonlinear Causal Discovery with Confounders,https://doi.org/10.1080/01621459.2023.2179490,1,0,0,"Ml-based, python package"
+Sensitivity to Unobserved Confounding in Studies with Factor-Structured Outcomes,https://doi.org/10.1080/01621459.2023.2240053,1,0,0,unmeasured
+De-confounding Causal Inference Using Latent Multiple-Mediator Pathways,https://doi.org/10.1080/01621459.2023.2240461,1,0,0,"key, mediator, SEM"
+Discovery and Inference of a Causal Network with Hidden Confounding,https://doi.org/10.1080/01621459.2023.2261658,1,0,0,unmeasured
+Doubly-Valid/Doubly-Sharp Sensitivity Analysis for Causal Inference with Unmeasured Confounding,https://doi.org/10.1080/01621459.2024.2335588,1,0,0,"unmeasured, doubly robust, doubly sharp"
+Confounding adjustment methods for multi-level treatment comparisons under lack of positivity and unknown model specification,https://doi.org/10.1080/02664763.2021.1911966,1,0,0,Ml-based
+Sensitivity analysis of unmeasured confounding in causal inference based on exponential tilting and super learner,https://doi.org/10.1080/02664763.2021.1999398,1,0,0,"unmeasured, ml-based"
+Examining the Error of Mis-Specifying Nonlinear Confounding Effect With Application on Accelerometer-Measured Physical Activity,https://doi.org/10.1080/02701367.2017.1296101,0,0,0,Application
+Association of corticosteroid use and attention deficit/hyperactivity disorder in asthmatic children varies by age,https://doi.org/10.1080/02770903.2022.2089995,0,0,0,Application
+"Comments on ""Unobservable Selection and Coefficient Stability: Theory and Evidence"" and ""Poorly Measured Confounders are More Useful on the Left Than on the Right""",https://doi.org/10.1080/07350015.2019.1575743,0,0,0,
+Confounding and causation in the epidemiology of lead,https://doi.org/10.1080/09603123.2016.1161179,0,0,0,Application
+Using Bayesian networks to clarify interpretation of exposure-response regression coefficients: blood lead-mortality association as an example,https://doi.org/10.1080/10408444.2020.1787329,0,0,0,Application
+The effect of confounding variables in studies of lead exposure and IQ,https://doi.org/10.1080/10408444.2020.1842851,0,0,0,Application
+Comparison of statistical methodologies used to estimate the treatment effect on time-to-event outcomes in observational studies,https://doi.org/10.1080/10543406.2021.1918140,0,0,0,Application
+Meta-analysis of lung cancer in asphalt roofing and paving workers with external adjustment for confounding by coal tar,https://doi.org/10.1080/15459620701335035,0,0,0,Application
+Controlling for spatial confounding and spatial interference in causal inference: modelling insights from a computational experiment,https://doi.org/10.1080/19475683.2023.2257788,1,1,0,spatial
+Confounded Local Inference: Extending Local Moran Statistics to Handle Confounding,https://doi.org/10.1080/24694452.2024.2326541,1,0,0,spatial
+Identifying confounding by indication through blinded prospective review,https://doi.org/10.1093/aje/154.3.276,0,0,0,
+Causal knowledge as a prerequisite for confounding evaluation:: An application to birth defects epidemiology,https://doi.org/10.1093/aje/155.2.176,0,0,0,Application
+Is residual confounding a reasonable explanation for the apparent protective effects of beta-carotene found in epidemiologic studies of lung cancer in smokers?,https://doi.org/10.1093/aje/155.7.622,0,0,0,Application
+Dealing With Treatment-Confounder Feedback and Sparse Follow-up in Longitudinal Studies: Application of a Marginal Structural Model in a Multiple Sclerosis Cohort,https://doi.org/10.1093/aje/kwaa243,0,0,0,Application
+Recent Methodological Trends in Epidemiology: No Need for Data-Driven Variable Selection?,https://doi.org/10.1093/aje/kwad193,1,0,1,Key
+Confounder Adjustment Using the Disease Risk Score: A Proposal for Weighting Methods,https://doi.org/10.1093/aje/kwad196,1,0,0,
+Comparison of logistic regression versus propensity score when the number of events is low and there are multiple confounders,https://doi.org/10.1093/aje/kwg115,0,1,0,
+Monte Carlo sensitivity analysis and Bayesian analysis of smoking as an unmeasured confounder in a study of silica and lung cancer,https://doi.org/10.1093/aje/kwh211,0,0,0,Application
+An application of model-fitting procedures for marginal structural models,https://doi.org/10.1093/aje/kwi208,0,0,0,Application
+Invited commentary: Variable selection versus shrinkage in the control of multiple confounders,https://doi.org/10.1093/aje/kwm355,0,0,0,
+"Pischon et al. Respond to ""Variable Selection versus Shrinkage in Control of Confounders""",https://doi.org/10.1093/aje/kwm358,0,0,0,Correction to above
+"Re: ""Invited commentary: Variable selection versus shrinkage in the control of multiple confounders"" (vol 167, pg 523, 2008)",https://doi.org/10.1093/aje/kwn088,0,0,0,Minor correction
+Confounding by Dietary Patterns of the Inverse Association Between Alcohol Consumption and Type 2 Diabetes Risk,https://doi.org/10.1093/aje/kwp096,0,0,0,Application
+Time-modified Confounding,https://doi.org/10.1093/aje/kwp175,0,0,0,
+Effects of Socioeconomic and Racial Residential Segregation on Preterm Birth: A Cautionary Tale of Structural Confounding,https://doi.org/10.1093/aje/kwp435,0,0,0,
+Treatment Effects in the Presence of Unmeasured Confounding: Dealing With Observations in the Tails of the Propensity Score Distribution-A Simulation Study,https://doi.org/10.1093/aje/kwq198,1,1,0,"unmeasured, tails"
+Covariate selection in high-dimensional propensity score analyses of treatment effects in small samples,https://doi.org/10.1093/aje/kwr001,1,1,0,
+"Performance of Disease Risk Scores, Propensity Scores, and Traditional Multivariable Outcome Regression in the Presence of Multiple Confounders",https://doi.org/10.1093/aje/kwr143,1,0,0,
+Comparison of Instrumental Variable Analysis Using a New Instrument With Risk Adjustment Methods to Reduce Confounding by Indication,https://doi.org/10.1093/aje/kwr448,1,0,0,Instrumental
+The Table 2 Fallacy: Presenting and Interpreting Confounder and Modifier Coefficients,https://doi.org/10.1093/aje/kws412,1,0,0,theory
+A Comparison of Confounding Adjustment Methods for Assessment of Asthma Controller Medication Effectiveness,https://doi.org/10.1093/aje/kwt323,0,0,0,Application
+Adjustment for Missing Confounders in Studies Based on Observational Databases: 2-Stage Calibration Combining Propensity Scores From Primary and Validation Data,https://doi.org/10.1093/aje/kwu130,1,0,0,
+Mediation Analysis With Intermediate Confounding: Structural Equation Modeling Viewed Through the Causal Inference Lens,https://doi.org/10.1093/aje/kwu239,1,0,0,"Mediation, SEMs, ALSPAC"
+Controlling Time-Dependent Confounding by Health Status and Frailty: Restriction Versus Statistical Adjustment,https://doi.org/10.1093/aje/kwu485,0,0,0,Application
+Regularized Regression Versus the High-Dimensional Propensity Score for Confounding Adjustment in Secondary Database Analyses,https://doi.org/10.1093/aje/kwv108,1,0,0,
+"The ""Dry-Run"" Analysis: A Method for Evaluating Risk Scores for Confounding Control",https://doi.org/10.1093/aje/kwx032,1,0,0,theory
+Selecting Shrinkage Parameters for Effect Estimation: The Multi-Ethnic Study of Atherosclerosis,https://doi.org/10.1093/aje/kwx225,1,0,0,theory
+Analysis of Longitudinal Studies With Repeated Outcome Measures: Adjusting for Time-Dependent Confounding Using Conventional Methods,https://doi.org/10.1093/aje/kwx311,1,0,0,SCMMs
+"Education and Cognitive Aging: Accounting for Selection and Confounding in Linkage of Data From the Danish Registry and Survey of Health, Ageing and Retirement in Europe",https://doi.org/10.1093/aje/kwy162,0,0,0,Application
+Nonparametric efficient causal mediation with intermediate confounders,https://doi.org/10.1093/biomet/asaa085,1,0,0,Mediation
+Sharp sensitivity bounds for mediation under unmeasured mediator-outcome confounding,https://doi.org/10.1093/biomet/asw012,1,0,0,"Mediation, sharp"
+Instrumental variables as bias amplifiers with general outcome and confounding,https://doi.org/10.1093/biomet/asx009,1,0,0,theory
+On semiparametric estimation of a path-specific effect in the presence of mediator-outcome confounding,https://doi.org/10.1093/biomet/asz063,1,0,0,theory
+Confounder-dependent Bayesian mixture model: Characterizing heterogeneity of causal effects in air pollution epidemiology,https://doi.org/10.1093/biomtc/ujae025,0,0,0,Application
+Doubly robust methods for handling confounding by cluster,https://doi.org/10.1093/biostatistics/kxv041,1,0,0,"clustering, doubly robust"
+Guided Bayesian imputation to adjust for confounding when combining heterogeneous data sources in comparative effectiveness research,https://doi.org/10.1093/biostatistics/kxx003,1,0,0,"external, missingness"
+Matching Methods for Confounder Adjustment: An Addition to the Epidemiologist's Toolbox,https://doi.org/10.1093/epirev/mxab003,1,0,0,
+An overview of the objectives of and the approaches to propensity score analyses,https://doi.org/10.1093/eurheartj/ehr031,0,0,0,Basic concepts
+"Birthweight, gestational age and familial confounding in sex differences in infant mortality: a matched co-twin control study of Brazilian male-female twin pairs identified by population data linkage",https://doi.org/10.1093/ije/dyab242,0,0,0,Application
+"Simultaneous adjustment of uncontrolled confounding, selection bias and misclassification in multiple-bias modelling",https://doi.org/10.1093/ije/dyad001,1,0,0,"imputation, misclassification, key"
+SAS and R code for probabilistic quantitative bias analysis for misclassified binary variables and binary unmeasured confounders,https://doi.org/10.1093/ije/dyad053,1,0,0,"Code, QBA"
+Investigation of the structure and magnitude of time-varying uncontrolled confounding in simulated cohort data analyzed using g-computation,https://doi.org/10.1093/ije/dyad150,1,1,0,Data simulation
+The association between state income inequality and worse health is not confounded by race,https://doi.org/10.1093/ije/dyg245,0,0,0,Application
+Does unmeasured confounding influence associations between the retail food environment and body mass index over time? The Coronary Artery Risk Development in Young Adults (CARDIA) study,https://doi.org/10.1093/ije/dyx070,0,0,0,Application
+The betaboost package-a software tool for modelling bounded outcome variables in potentially high-dimensional epidemiological data,https://doi.org/10.1093/ije/dyy093,1,0,0,R package
+Evaluating large-scale propensity score performance through real-world and synthetic data experiments,https://doi.org/10.1093/ije/dyy120,1,0,0,evaluation
+Commentary: Causal models adjusting for time-varying confounding please send more data,https://doi.org/10.1093/ije/dyy300,0,0,0,
+Comparative Effectiveness of Prostate Cancer Treatments: Evaluating Statistical Adjustments for Confounding in Observational Data,https://doi.org/10.1093/jnci/djq393,0,0,0,Application
+"To Misspecify Is Common, to Probe Misspecification Scientific: Common ""Confounds"" in Pornography Research May Actually Be Predictors",https://doi.org/10.1093/joc/jqac012,0,0,0,Application
+Non-agency interventions for causal mediation in the presence of intermediate confounding,https://doi.org/10.1093/jrsssb/qkad130,1,0,0,"Efficiency, consistency"
+Using Propensity Score Modeling to Minimize the Influence of Confounding Risks Related to Prenatal Tobacco Exposure,https://doi.org/10.1093/ntr/ntq170,0,0,0,Application
+SIMULATION STUDY OF CONFOUNDER-SELECTION STRATEGIES,https://doi.org/10.1093/oxfordjournals.aje.a116813,1,1,0,Old
+Do confounding or selection factors of residential wiring codes and magnetic fields distort findings of electromagnetic fields studies?,https://doi.org/10.1097/00001648-200003000-00019,0,0,0,Application
+Confounding and effect modification in the short-term effects of ambient particles on total mortality: Results from 29 European cities within the APHEA2 project,https://doi.org/10.1097/00001648-200109000-00011,0,0,0,Application
+Selection bias and confounding in case-crossover analyses of environmental time-series data,https://doi.org/10.1097/00001648-200111000-00013,0,1,0,
+Quantifying biases in causal models:: Classical confounding <i>vs</i> collider-stratification bias,https://doi.org/10.1097/00001648-200305000-00009,0,0,0,
+A Retrospective Cohort Study of Effects of Antihypertensive and Anticholinergic Medications on Outcomes Following Elective Posterior Lumbar Spine Surgery,https://doi.org/10.1097/BSD.0000000000001110,0,0,0,Application
+Effect Decomposition in the Presence of an Exposure-Induced Mediator-Outcome Confounder,https://doi.org/10.1097/EDE.0000000000000034,1,0,0,VanderWeele
+Studies with Many Covariates and Few Outcomes <i>Selecting Covariates and Implementing Propensity</i>-<i>Score</i>-<i>Based Confounding Adjustments</i>,https://doi.org/10.1097/EDE.0000000000000069,0,1,0,Specific use-case
+Bias Formulas for Estimating Direct and Indirect Effects When Unmeasured Confounding Is Present,https://doi.org/10.1097/EDE.0000000000000407,1,0,0,"Unmeasured, mediation"
+Diagnostics for Confounding of Time-varying and Other Joint Exposures,https://doi.org/10.1097/EDE.0000000000000547,1,0,0,"Time-varying confounding, residual confounding"
+Bias Due to Confounders for the Exposure-Competing Risk Relationship,https://doi.org/10.1097/EDE.0000000000000565,1,0,0,Specific use-case
+Variable Selection for Confounding Adjustment in High-dimensional Covariate Spaces When Analyzing Healthcare Databases,https://doi.org/10.1097/EDE.0000000000000581,1,0,0,"Data-based, key"
+Using Super Learner Prediction Modeling to Improve High-dimensional Propensity Score Estimation,https://doi.org/10.1097/EDE.0000000000000762,1,1,0,Ml-based
+Quantitative Bias Analysis for a Misclassified Confounder A Comparison Between Marginal Structural Models and Conditional Models for Point Treatments,https://doi.org/10.1097/EDE.0000000000001239,1,0,0,"misclassification, MSMs, conditional"
+Postmyocardial Infarction Statin Exposure and the Risk of Stroke with Weighting for Outcome Misclassification,https://doi.org/10.1097/EDE.0000000000001253,0,0,0,Application
+"To Adjust or Not to Adjust? When a ""Confounder"" Is Only Measured After Exposure",https://doi.org/10.1097/EDE.0000000000001312,1,0,0,Kate Tilling
+"Deep Learning-based Propensity Scores for Confounding Control in Comparative Effectiveness Research A Large-scale, Real-world Data Study",https://doi.org/10.1097/EDE.0000000000001338,1,0,0,"Ml-based, CER"
+e-Cigarette Use and Combustible Cigarette Smoking Initiation Among Youth <i>Accounting for Time-Varying Exposure and Time-Dependent Confounding</i>,https://doi.org/10.1097/EDE.0000000000001491,0,0,0,Application
+Inverse Probability of Treatment Weighting and Confounder Missingness in Electronic Health Record-based Analyses: A Comparison of Approaches Using Plasmode Simulation,https://doi.org/10.1097/EDE.0000000000001618,1,0,0,"EHR, Data-simulation"
+Potential confounding by exposure history and prior outcomes - An example from perinatal epidemiology,https://doi.org/10.1097/EDE.0b013e31812001e6,0,0,0,Application
+Model selection and health effect estimation in environmental epidemiology,https://doi.org/10.1097/EDE.0b013e31817307dc,1,0,0,"Specific use-case, environmental"
+Geographic Variations in Risk <i>Adjusting for Unmeasured Confounders Through joint Modeling of Multiple Diseases</i>,https://doi.org/10.1097/EDE.0b013e31819d90f9,0,0,0,
+A Comparison of Methods to Estimate the Hazard Ratio Under Conditions of Time-varying Confounding and Nonpositivity,https://doi.org/10.1097/EDE.0b013e31822549e8,0,1,1,
+Sibling Comparison Designs <i>Bias From Non</i>-<i>Shared Confounders and Measurement Error</i>,https://doi.org/10.1097/EDE.0b013e31825fa230,0,0,0,
+Effects of Heat Waves on Mortality <i>Effect Modification and Confounding by Air Pollutants</i>,https://doi.org/10.1097/EDE.0b013e31828ac01b,0,0,0,Application
+Evaluating sources of bias in observational studies of angiotensin-converting enzyme inhibitor/angiotensin II receptor blocker use during COVID-19: beyond confounding,https://doi.org/10.1097/HJH.0000000000002706,0,0,0,Application
+The directed acyclic graph helped identify confounders in the association between coronary heart disease and pesticide exposure among greenhouse vegetable farmers,https://doi.org/10.1097/MD.0000000000035073,0,0,0,
+Confounding Control in Healthcare Database Research <i>Challenges and Potential Approaches</i>,https://doi.org/10.1097/MLR.0b013e3181dbebe3,1,0,0,EHR
+Confounding Adjustment in Comparative Effectiveness Research Conducted Within Distributed Research Networks,https://doi.org/10.1097/MLR.0b013e31829b1bb1,1,0,0,"CER, specific use-case"
+Inverse probability weighting in sexually transmitted infection/human immunodeficiency virus prevention research: methods for evaluating social and community interventions,https://doi.org/10.1097/OLQ.0b013e3181d73feb,0,0,0,Application
+Associations of antiretroviral drug use and HIV-specific risk factors with carotid intima-media thickness,https://doi.org/10.1097/QAD.0b013e32833d2132,0,0,0,Application
+Variable Selection in Heterogeneous Datasets: A Truncated-rank Sparse Linear Mixed Model with Applications to Genome-wide Association Studies,https://doi.org/10.1109/BIBM.2017.8217687,1,0,0,"Heterogeneity, GWAS"
+Linear Deconfounded Score Method: Scoring DAGs With Dense Unobserved Confounding,https://doi.org/10.1109/TNNLS.2024.3352657,1,0,0,"dense, unobserved"
+Structure inference for Bayesian multisensory scene understanding,https://doi.org/10.1109/TPAMI.2008.25,0,0,0,
+Conditions for non-confounding and collapsibility without knowledge of completely constructed causal diagrams,https://doi.org/10.1111/1467-9469.00087,1,0,0,old
+Criteria for confounders in epidemiological studies,https://doi.org/10.1111/1467-9868.00321,1,0,0,Basic concepts
+Confounding and regression adjustment in difference-in-differences studies,https://doi.org/10.1111/1475-6773.13666,1,0,0,Specific use-case
+The effect of gene flow from unsampled demes in landscape genetic analysis,https://doi.org/10.1111/1755-0998.13267,0,0,0,Application
+Estimating temporally variable selection intensity from ancient DNA data with the flexibility of modelling linkage and epistasis,https://doi.org/10.1111/1755-0998.13790,0,0,0,Application
+"Alcohol Outlets, Neighborhood Retail Environments, and Pedestrian Injury Risk",https://doi.org/10.1111/acer.13844,0,0,0,Application
+Confounder selection via penalized credible regions,https://doi.org/10.1111/biom.12203,1,0,0,Key
+Accounting for Uncertainty in Confounder and Effect Modifier Selection When Estimating Average Causal Effects in Generalized Linear Models,https://doi.org/10.1111/biom.12315,1,0,0,Specific use-case
+Model averaged double robust estimation,https://doi.org/10.1111/biom.12622,1,0,0,Doubly robust
+Outcome-adaptive lasso: Variable selection for causal inference,https://doi.org/10.1111/biom.12679,1,0,0,Key
+"Discussion of ""Data-driven confounder selection via Markov and Bayesian networks"" by Haggstrom",https://doi.org/10.1111/biom.12784,0,0,0,
+Data-driven confounder selection via Markov and Bayesian networks,https://doi.org/10.1111/biom.12788,1,1,0,
+Model-averaged confounder adjustment for estimating multivariate exposure effects with linear regression,https://doi.org/10.1111/biom.12860,1,0,0,
+Doubly robust matching estimators for high dimensional confounding adjustment,https://doi.org/10.1111/biom.12887,1,0,0,Doubly robust
+Causal inference accounting for unobserved confounding after outcome regression and doubly robust estimation,https://doi.org/10.1111/biom.13001,1,0,0,"Unobserved confounding, doubly-robust, R package"
+Data-adaptive longitudinal model selection in causal inference with collaborative targeted minimum loss-based estimation,https://doi.org/10.1111/biom.13135,1,0,0,
+Adjusting for time-varying confounders in survival analysis using structural nested cumulative survival time models,https://doi.org/10.1111/biom.13158,1,0,0,Time-varying confounding
+Doubly robust tests of exposure effects under high-dimensional confounding,https://doi.org/10.1111/biom.13231,1,0,0,Doubly robust
+Ultra-high dimensional variable selection for doubly robust causal inference,https://doi.org/10.1111/biom.13625,1,0,0,Doubly robust
+Spatial+: A novel approach to spatial confounding,https://doi.org/10.1111/biom.13656,1,0,0,Spatial
+Bayesian nonparametric adjustment of confounding,https://doi.org/10.1111/biom.13833,1,0,0,
+Ensuring valid inference for Cox hazard ratios after variable selection,https://doi.org/10.1111/biom.13889,1,0,0,
+Response moderation models for conditional dependence between response time and response accuracy,https://doi.org/10.1111/bmsp.12076,0,0,0,
+Assessing moderated mediation in linear models requires fewer confounding assumptions than assessing mediation,https://doi.org/10.1111/bmsp.12077,0,0,0,theory
+THE EFFECT OF UNMEASURED CONFOUNDERS ON THE ABILITY TO ESTIMATE A TRUE PERFORMANCE OR SELECTION GRADIENT (AND OTHER PARTIAL REGRESSION COEFFICIENTS),https://doi.org/10.1111/evo.12406,1,0,0,
+What do macroinvertebrate indices measure? Stressor-specific stream macroinvertebrate indices can be confounded by other stressors,https://doi.org/10.1111/fwb.14106,0,0,0,Application
+Finite Normal Mixture SEM Analysis by Fitting Multiple Conventional SEM Models,https://doi.org/10.1111/j.1467-9531.2010.01224.x,0,0,0,SEMs
+Selecting SNPs to identify ancestry,https://doi.org/10.1111/j.1469-1809.2011.00656.x,0,0,0,SNPs
+Why reduced-form regression models of health effects versus exposures should not replace QRA: livestock production and infant mortality as an example,https://doi.org/10.1111/j.1539-6924.2009.01303.x,0,0,0,Application
+The performance of random coefficient regression in accounting for residual confounding,https://doi.org/10.1111/j.1541-0420.2005.00510.x,1,0,0,Residual confounding
+A model-based approach for making ecological inference from distance sampling data,https://doi.org/10.1111/j.1541-0420.2009.01265.x,0,0,0,Spatial
+A New Criterion for Confounder Selection,https://doi.org/10.1111/j.1541-0420.2011.01619.x,1,0,0,VanderWeele
+Bayesian effect estimation accounting for adjustment uncertainty,https://doi.org/10.1111/j.1541-0420.2011.01731.x,1,0,0,BAC
+Logistic regression: a brief primer,https://doi.org/10.1111/j.1553-2712.2011.01185.x,0,0,0,Basic concepts
+GC-MS metabolomics-based approach for the identification of a potential VOC-biomarker panel in the urine of renal cell carcinoma patients,https://doi.org/10.1111/jcmm.13132,0,0,0,Application
+Landscape genetics across the Andes mountains: Environmental variation drives genetic divergence in the leaf-cutting ant Atta cephalotes,https://doi.org/10.1111/mec.16742,0,0,0,Application
+Introduction to causal diagrams for confounder selection,https://doi.org/10.1111/resp.12238,1,0,0,Basic concepts
+Regression-with-residuals estimation of marginal effects: a method of adjusting for treatment-induced confounders that may also be effect modifiers,https://doi.org/10.1111/rssa.12497,1,0,0,Specific use-case
+Selecting a scale for spatial confounding adjustment,https://doi.org/10.1111/rssa.12556,1,0,0,Spatial
+Right singular vector projection graphs: fast high dimensional covariance matrix estimation under latent confounding,https://doi.org/10.1111/rssb.12359,1,0,0,Latent confounding
+Multiply robust causal inference with double-negative control adjustment for categorical unmeasured confounding,https://doi.org/10.1111/rssb.12361,1,0,0,"Categorical confounding, unmeasured confounding, multiply-robust"
+Tackling non-ignorable dropout in the presence of time varying confounding,https://doi.org/10.1111/rssc.12154,1,0,0,"Time-varying confounding, specific use-case"
+Tackling Non-Ignorable Dropout in the Presence of Time Varying Confounding,https://doi.org/10.1111/rssc.12154,1,0,0,"Time-varying confounding, specific use-case"
+Estimating the causal effect of treatment in observational studies with survival time end points and unmeasured confounding,https://doi.org/10.1111/rssc.12158,1,0,0,"Time-varying confounding, censoring, unmeasured confounding"
+Estimating the Treatment Effect on the Treated Under Time-Dependent Confounding in an Application to the Swiss HIV Cohort Study,https://doi.org/10.1111/rssc.12221,0,0,0,Application
+Estimating the treatment effect on the treated under time-dependent confounding in an application to the Swiss HIV Cohort Study,https://doi.org/10.1111/rssc.12221,0,0,0,Application
+An instrumental variable procedure for estimating Cox models with non-proportional hazards in the presence of unmeasured confounding,https://doi.org/10.1111/rssc.12341,1,0,0,"Instrumental, unmeasured confounding"
+On the effect of obesity on employment in the presence of observed and unobserved confounding,https://doi.org/10.1111/stan.12016,0,0,0,Application
+Compensation of retinal nerve fibre layer thickness as assessed using optical coherence tomography based on anatomical confounders,https://doi.org/10.1136/bjophthalmol-2019-314086,0,0,0,Application
+Mortality in renal transplant recipients given erythropoietins to increase haemoglobin concentration: cohort study,https://doi.org/10.1136/bmj.b4018,0,0,0,Application
+Handling time varying confounding in observational research,https://doi.org/10.1136/bmj.j4587,1,0,0,Time-varying confounding
+Alternative approaches for confounding adjustment in observational studies using weighting based on the propensity score: a primer for practitioners,https://doi.org/10.1136/bmj.l5657,1,0,0,Basic concepts
+Statin adherence and risk of acute cardiovascular events among women: a cohort study accounting for time-dependent confounding affected by previous adherence,https://doi.org/10.1136/bmjopen-2016-011306,0,0,0,Application
+Survival models to support shared decision-making about advance care planning for people with advanced stage cystic fibrosis,https://doi.org/10.1136/bmjresp-2020-000794,0,0,0,Application
+Impact of parity on anthropometric measures of obesity controlling by multiple confounders: a cross-sectional study in Chilean women,https://doi.org/10.1136/jech.2007.062240,0,0,0,Application
+Controlling for socioeconomic confounding using regression methods,https://doi.org/10.1136/jech.49.Suppl_2.S15,0,0,0,"Old, specific use-case"
+A standardisation approach to the control of socioeconomic confounding in small area studies of environment and health,https://doi.org/10.1136/jech.49.Suppl_2.S9,0,0,0,Specific use-case
+"The prognostic value of depressive symptoms, fear-avoidance, and self-efficacy for duration of lost-time benefits in workers with musculoskeletal disorders",https://doi.org/10.1136/oem.2005.020420,0,0,0,Application
+"Selection, calibration, and validation of models of tumor growth",https://doi.org/10.1142/S021820251650055X,0,0,0,Application
+Treatment Effect Estimation via Differentiated Confounder Balancing and Regression,https://doi.org/10.1145/3365677,1,0,0,"Data-based, key"
+Choice Set Confounding in Discrete Choice,https://doi.org/10.1145/3447548.3467378,0,0,0,Specific use-case
+Causal Mediation Analysis with Hidden Confounders,https://doi.org/10.1145/3488560.3498407,1,0,0,
+Be Causal: De-Biasing Social Network Confounding in Recommendation,https://doi.org/10.1145/3533725,1,0,0,Missingness
+Statistical foundations for model-based adjustments,https://doi.org/10.1146/annurev-publhealth-031914-122559,1,0,0,Basic concepts
+Confounding in health research,https://doi.org/10.1146/annurev.publhealth.22.1.189,0,0,0,
+Chronic Periodontitis Case Definitions and Confounders in Periodontal Research: A Systematic Assessment,https://doi.org/10.1155/2018/4578782,0,0,0,Application
+Relationships between Loneliness and Occupational Dysfunction in Community-Dwelling Older Adults: A Cross-Sectional Study,https://doi.org/10.1155/2023/9505865,0,0,0,Application
+Assessing risk factors for dental caries: a statistical modeling approach,https://doi.org/10.1159/000369831,0,0,0,Application
+"A Bagged, Partially Linear, Tree-Based Regression Procedure for Prediction and Variable Selection",https://doi.org/10.1159/000380850,1,0,0,Key
+Propensity Score Methods for Confounding Control in Nonexperimental Research,https://doi.org/10.1161/CIRCOUTCOMES.113.000359,1,0,0,Basic concepts
+Disparate stroke rates on warfarin among contemporaneous cohorts with atrial fibrillation: potential insights into risk from a comparative analysis of SPORTIF III versus SPORTIF V,https://doi.org/10.1161/STROKEAHA.108.514935,0,0,0,Application
+Understanding logistic regression analysis,https://doi.org/10.11613/BM.2014.003,0,0,0,
+ParceLiNGAM: A Causal Ordering Method Robust Against Latent Confounders,https://doi.org/10.1162/NECO_a_00533,1,0,0,Latent confounding
+Neural Correlates of Causal Confounding,https://doi.org/10.1162/jocn_a_01479,0,0,0,Application
+Confounder Detection in High-Dimensional Linear Models Using First Moments of Spectral Measures,https://doi.org/10.1162/neco_a_01099,1,0,0,Identification
+Impact of a confounding variable on a regression coefficient,https://doi.org/10.1177/0049124100029002001,1,0,0,Basic concepts
+Omitted Variable Bias: Examining Management Research With the Impact Threshold of a Confounding Variable (ITCV),https://doi.org/10.1177/01492063211006458,0,0,0,Application
+Sensitivity Plots for Confounder Bias in the Single Mediator Model,https://doi.org/10.1177/0193841X14524576,1,0,0,"Mediation, sensitivity"
+On model selection and model misspecification in causal inference,https://doi.org/10.1177/0962280210387717,1,0,0,model misspecification
+Consistent causal effect estimation under dual misspecification and implications for confounder selection procedures,https://doi.org/10.1177/0962280212437451,1,0,0,model misspecification
+Estimating controlled direct effects in the presence of intermediate confounding of the mediator-outcome relationship: Comparison of five different methods,https://doi.org/10.1177/0962280212461194,1,0,1,Mediation
+Causal effect estimation strategies in a longitudinal study with complex time-varying confounders: A tutorial,https://doi.org/10.1177/0962280214545529,0,0,0,Application
+A two-stage model in a Bayesian framework to estimate a survival endpoint in the presence of confounding by indication,https://doi.org/10.1177/0962280216660127,1,0,0,Confounding by indication
+Comparison of statistical approaches dealing with time-dependent confounding in drug effectiveness studies,https://doi.org/10.1177/0962280216668554,1,0,0,"Time-varying confounding, CER"
+A graphical perspective of marginal structural models: An application for the estimation of the effect of physical activity on blood pressure,https://doi.org/10.1177/0962280216680834,0,0,0,Application
+Addressing geographic confounding through spatial propensity scores: a study of racial disparities in diabetes,https://doi.org/10.1177/0962280217735700,0,0,0,Application
+A stratification approach using logit-based models for confounder adjustment in the study of continuous outcomes,https://doi.org/10.1177/0962280217747309,1,0,0,Continuous outcome
+Adjustment for time-invariant and time-varying confounders in 'unexplained residuals' models for longitudinal data within a causal framework and associated challenges,https://doi.org/10.1177/0962280218756158,1,0,0,"Time-varying confounding, unexplained residuals"
+A Bayesian two-stage spatially dependent variable selection model for space-time health data,https://doi.org/10.1177/0962280218767980,1,0,0,Spatio-temporal
+Propensity score analysis for correlated subgroup effects,https://doi.org/10.1177/0962280219850595,0,0,0,
+How to obtain valid tests and confidence intervals after propensity score variable selection?,https://doi.org/10.1177/0962280219862005,0,0,0,
+The impact of unmeasured within- and between-cluster confounding on the bias of effect estimatorsof a continuous exposure,https://doi.org/10.1177/0962280219883323,1,0,0,"Clustering, continuous exposure"
+Variable selection and estimation in causal inference using Bayesian spike and slab priors,https://doi.org/10.1177/0962280219898497,1,0,0,
+Propensity score specification for optimal estimation of average treatment effect with binary response,https://doi.org/10.1177/0962280220934847,1,1,0,
+Unifying instrumental variable and inverse probability weighting approaches for inference of causal treatment effect and unmeasured confounding in observational studies,https://doi.org/10.1177/0962280220971835,1,0,0,"Unmeasured, instrumental"
+The change in estimate method for selecting confounders: A simulation study,https://doi.org/10.1177/09622802211034219,1,1,0,
+Bayesian variable selection in hierarchical difference-in-differences models,https://doi.org/10.1177/09622802211051087,1,0,0,
+Complete effect decomposition for an arbitrary number of multiple ordered mediators with time-varying confounders: A method for generalized causal multi-mediation analysis,https://doi.org/10.1177/09622802221130580,1,0,0,"Mediation, time-varying confounders"
+Estimation of the average treatment effect with variable selection and measurement error simultaneously addressed for potential confounders,https://doi.org/10.1177/09622802221146308,1,0,0,
+Robust weights that optimally balance confounders for estimating marginal hazard ratios,https://doi.org/10.1177/09622802221146310,0,0,0,
+Controlling for time-dependent confounding using marginal structural models,https://doi.org/10.1177/1536867X0400400403,1,0,0,"Time-varying confounding, MSMs"
+gformula: Estimating causal effects in the presence of time-varying confounding or mediation using the g-computation formula,https://doi.org/10.1177/1536867X1101100401,1,0,0,"Time-varying confounding, mediation, Rhian Daniel, Stata"
+Confounding due to changing background risk in adaptively randomized trials,https://doi.org/10.1177/1740774511406950,0,0,0,
+Adjusting for Baseline Measurements of the Mediators and Outcome as a First Step Toward Eliminating Confounding Biases in Mediation Analysis,https://doi.org/10.1177/17456916221134573,1,0,0,Mediation
+A Tutorial on Causal Inference in Longitudinal Data With Time-Varying Confounding Using G-Estimation,https://doi.org/10.1177/25152459231174029,0,0,0,Application
+Using the realized relationship matrix to disentangle confounding factors for the estimation of genetic variance components of complex traits,https://doi.org/10.1186/1297-9686-42-22,0,0,0,Application
+Detecting disease-associated genes with confounding variable adjustment and the impact on genomic meta-analysis: with application to major depressive disorder,https://doi.org/10.1186/1471-2105-13-52,0,0,0,Application
+Robust tests for matched case-control genetic association studies,https://doi.org/10.1186/1471-2156-11-91,0,0,0,
+"Relative importance of climatic, geographic and socio-economic determinants of malaria in Malawi",https://doi.org/10.1186/1475-2875-12-416,0,0,0,Application
+Developing a spatial-statistical model and map of historical malaria prevalence in Botswana using a staged variable selection procedure,https://doi.org/10.1186/1476-072X-6-44,0,0,0,Application
+Purposeful selection of variables in logistic regression,https://doi.org/10.1186/1751-0473-3-17,0,0,0,
+Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae,https://doi.org/10.1186/gb-2006-7-8-R70,0,0,0,Application
+Feature selection and causal analysis for microbiome studies in the presence of confounding using standardization,https://doi.org/10.1186/s12859-021-04232-2,0,0,0,Application
+Identification of confounder in epidemiologic data contaminated by measurement error in covariates,https://doi.org/10.1186/s12874-016-0159-6,1,0,0,Measurement error
+Noncollapsibility and its role in quantifying confounding bias in logistic regression,https://doi.org/10.1186/s12874-021-01316-8,1,0,0,
+"Methodological perspectives on the study of the health effects of unemployment - reviewing the mode of unemployment, the statistical analysis method and the role of confounding factors",https://doi.org/10.1186/s12874-022-01670-1,0,0,0,Application
+"Comparing g-computation, propensity score-based weighting, and targeted maximum likelihood estimation for analyzing externally controlled trials with both measured and unmeasured confounders: a simulation study",https://doi.org/10.1186/s12874-023-01835-6,1,1,1,Key
+Frameworks for estimating causal effects in observational settings: comparing confounder adjustment and instrumental variables,https://doi.org/10.1186/s12874-023-01936-2,1,0,0,Figure 6
+Association between ambient air pollutants and upper respiratory tract infection and pneumonia disease burden in Thailand from 2000 to 2022: a high frequency ecological analysis,https://doi.org/10.1186/s12879-023-08185-0,0,0,0,Application
+Perioperative blood transfusion does not affect recurrence-free and overall survivals after curative resection for intrahepatic cholangiocarcinoma: a propensity score matching analysis,https://doi.org/10.1186/s12885-017-3745-z,0,0,0,Application
+Assignment of unimodal probability distribution models for quantitative morphological phenotyping,https://doi.org/10.1186/s12915-022-01283-6,0,0,0,Application
+A geographic identifier assignment algorithm with Bayesian variable selection to identify neighborhood factors associated with emergency department visit disparities for asthma,https://doi.org/10.1186/s12942-020-00203-7,0,0,0,Application
+Confounding of linkage disequilibrium patterns in large scale DNA based gene-gene interaction studies,https://doi.org/10.1186/s13040-019-0199-7,0,0,0,Application
+"Model selection, confounder control, and marginal structural models: Review and new applications",https://doi.org/10.1198/000313004X5824,1,0,1,MSMs
+The impact of prior distributions for uncontrolled confounding and response bias: A case study of the relation of wire codes and magnetic fields to childhood leukemia,https://doi.org/10.1198/01621450338861905,0,0,0,Application
+"Bias, Confounding, and Interaction: Lions and Tigers, and Bears, Oh My!",https://doi.org/10.1213/ANE.0000000000002332,0,0,0,Basic concepts
+The Importance of Scale for Spatial-Confounding Bias and Precision of Spatial Regression Estimators,https://doi.org/10.1214/10-STS326,0,0,0,
+Standardization and Control for Confounding in Observational Studies: A Historical Perspective,https://doi.org/10.1214/13-STS453,0,0,0,
+Regularization and Confounding in Linear Regression for Treatment Effect Estimation,https://doi.org/10.1214/16-BA1044,0,0,1,"Standardization, weighting"
+EXTENDED SENSITIVITY ANALYSIS FOR HETEROGENEOUS UNMEASURED CONFOUNDING WITH AN APPLICATION TO SIBLING STUDIES OF RETURNS TO EDUCATION,https://doi.org/10.1214/18-AOAS1215,0,0,0,Specific use-case
+A ROBUST AND EFFICIENT APPROACH TO CAUSAL INFERENCE BASED ON SPARSE SUFFICIENT DIMENSION REDUCTION,https://doi.org/10.1214/18-AOS1722,1,0,0,"Robust, efficient"
+High-Dimensional Confounding Adjustment Using Continuous Spike and Slab Priors,https://doi.org/10.1214/18-BA1131,1,0,0,
+High-Dimensional Confounding Adjustment Using Continuous Spike and Slab Priors,https://doi.org/10.1214/18-ba1131,1,0,0,
+A CAUSAL EXPOSURE RESPONSE FUNCTION WITH LOCAL ADJUSTMENT FOR CONFOUNDING: ESTIMATING HEALTH EFFECTS OF EXPOSURE TO LOW LEVELS OF AMBIENT FINE PARTICULATE MATTER,https://doi.org/10.1214/20-AOAS1330,0,0,0,Application
+MITIGATING UNOBSERVED SPATIAL CONFOUNDING WHEN ESTIMATING THE EFFECT OF SUPERMARKET ACCESS ON CARDIOVASCULAR DISEASE DEATHS,https://doi.org/10.1214/20-AOAS1377,0,0,0,Application
+ESTIMATION OF THE MARGINAL EFFECT OF ANTIDEPRESSANTS ON BODY MASS INDEX UNDER CONFOUNDING AND ENDOGENOUS COVARIATE-DRIVEN MONITORING TIMES,https://doi.org/10.1214/21-AOAS1570,0,0,0,Application
+DOUBLY DEBIASED LASSO: HIGH-DIMENSIONAL INFERENCE UNDER HIDDEN CONFOUNDING,https://doi.org/10.1214/21-AOS2152,1,0,0,"Hidden confounding, doubly-debiased"
+BOUNDS ON THE CONDITIONAL AND AVERAGE TREATMENT EFFECT WITH UNOBSERVED CONFOUNDING FACTORS,https://doi.org/10.1214/22-AOS2195,1,0,0,Unobserved confounding
+Bias and Confounding: Pharmacoepidemiological Study Using Administrative Database,https://doi.org/10.1248/yakushi.15-00006,0,0,0,Application
+Confounding by Socioeconomic Status in Epidemiological Studies of Air Pollution and Health: Challenges and Opportunities,https://doi.org/10.1289/EHP7980,0,0,0,Application
+Interpreting population- and family-based genome-wide association studies in the presence of confounding,https://doi.org/10.1371/journal.pbio.3002511,1,0,0,GWAS
+Identification of key somatic oncogenic mutation based on a confounder-free causal inference model,https://doi.org/10.1371/journal.pcbi.1010529,0,0,0,Application
+Genetic sensitivity analysis: Adjusting for genetic confounding in epidemiological associations,https://doi.org/10.1371/journal.pgen.1009590,1,0,0,Genetic
+Estimating age-stratified influenza-associated invasive pneumococcal disease in England: A time-series model based on population surveillance data,https://doi.org/10.1371/journal.pmed.1002829,0,0,0,Application
+Model selection in time series studies of influenza-associated mortality,https://doi.org/10.1371/journal.pone.0039423,0,0,0,Application
+Confounding Effects of Phase Delays on Causality Estimation,https://doi.org/10.1371/journal.pone.0053588,0,0,0,Application
+Model selection approach suggests causal association between 25-hydroxyvitamin D and colorectal cancer,https://doi.org/10.1371/journal.pone.0063475,0,0,0,Application
+Selection of higher order regression models in the analysis of multi-factorial transcription data,https://doi.org/10.1371/journal.pone.0091840,0,0,0,Application
+Is Geo-Environmental Exposure a Risk Factor for Multiple Sclerosis? A Population-Based Cross-Sectional Study in South-Western Sardinia,https://doi.org/10.1371/journal.pone.0163313,0,0,0,Application
+Using Rich Data on Comorbidities in Case-Control Study Design with Electronic Health Record Data Improves Control of Confounding in the Detection of Adverse Drug Reactions,https://doi.org/10.1371/journal.pone.0164304,0,0,0,Specific use-case
+Prognosis impact of clinical characteristics in patients with inoperable esophageal squamous cell carcinoma,https://doi.org/10.1371/journal.pone.0182660,0,0,0,Application
+"Disentangling personalized treatment effects from ""time-of-the-day"" confounding in mobile health studies",https://doi.org/10.1371/journal.pone.0271766,0,0,0,Application
+Performance of modeling and balancing approach methods when using weights to estimate treatment effects in observational time-to-event settings,https://doi.org/10.1371/journal.pone.0289316,0,0,0,
+Double Bias: Estimation of Causal Effects from Length-Biased Samples in the Presence of Confounding,https://doi.org/10.1515/ijb-2014-0037,1,0,0,Double-bias
+"Variable Selection for Confounder Control, Flexible Modeling and Collaborative Targeted Minimum Loss-Based Estimation in Causal Inference",https://doi.org/10.1515/ijb-2015-0017,1,0,0,Ml-based
+Detecting Confounding in Multivariate Linear Models via Spectral Analysis,https://doi.org/10.1515/jci-2017-0013,1,0,0,Identification
+Double machine learning and automated confounder selection: A cautionary tale,https://doi.org/10.1515/jci-2022-0078,1,0,0,Ml-based
+Finding causative genes from high-dimensional data: an appraisal of statistical and machine learning approaches,https://doi.org/10.1515/sagmb-2015-0072,0,0,0,Specific use-case
+A Bayesian hierarchical model for identifying significant polygenic effects while controlling for confounding and repeated measures,https://doi.org/10.1515/sagmb-2017-0044,1,0,0,"Genetic, hierarchical"
+Likelihood-free inference of population structure and local adaptation in a Bayesian hierarchical model,https://doi.org/10.1534/genetics.109.112391,0,0,0,
+High-resolution genetic mapping of complex traits from a combined analysis of F2 and advanced intercross mice,https://doi.org/10.1534/genetics.114.167056,0,0,0,Application
+Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups Using Random Effect Interaction Models,https://doi.org/10.1534/genetics.119.301909,0,0,0,Application
+Use of causal diagrams in Epidemiology: application to a situation with confounding,https://doi.org/10.1590/0102-311X00103115,0,0,0,Basic concepts
+Robust Text Classification under Confounding Shift,https://doi.org/10.1613/jair.1.11248,0,0,0,Specific use-case
+Modeling and variable selection in epidemiologic analysis,https://doi.org/10.2105/ajph.79.3.340,1,0,0,Basic concepts
+Control of confounding in the analysis phase - an overview for clinicians,https://doi.org/10.2147/CLEP.S129886,0,0,0,Basic concepts
+Adjusting for confounding by indication in observational studies: a case study in traumatic brain injury,https://doi.org/10.2147/CLEP.S154500,0,0,0,Application
+Automated data-adaptive analytics for electronic healthcare data to study causal treatment effects,https://doi.org/10.2147/CLEP.S166545,1,0,0,"Data-based, EHR"
+Modeling determinants of satisfaction with health care in youth with inflammatory bowel disease part 2: semiparametric distributional regression,https://doi.org/10.2147/CLEP.S191458,0,0,0,Application
+Bayesian Model Averaging to Account for Model Uncertainty in Estimates of a Vaccine's Effectiveness,https://doi.org/10.2147/CLEP.S378039,0,0,0,Specific use-case
+Is a Cutoff of 10% Appropriate for the Change-in-Estimate Criterion of Confounder Identification?,https://doi.org/10.2188/jea.JE20130062,1,0,0,theory
+Effects of Omitting Non-confounding Predictors From General Relative-Risk Models for Binary Outcomes,https://doi.org/10.2188/jea.JE20170226,1,0,0,theory
+Causal Modeling to Mitigate Selection Bias and Unmeasured Confounding in Internet-Based Epidemiology of COVID-19: Model Development and Validation,https://doi.org/10.2196/31306,1,0,0,Relevant application
+Meta-Analysis of Observational Studies with Unmeasured Confounders,https://doi.org/10.2202/1557-4679.1350,1,0,1,Unmeasured
+How to Apply Multiple Imputation in Propensity Score Matching with Partially Observed Confounders: A Simulation Study and Practical Recommendations,https://doi.org/10.22237/jmasm/1608552120,1,1,0,Missingness
+Assessing the sensitivity of regression results to unmeasured confounders in observational studies,https://doi.org/10.2307/2533848,1,0,0,Unmeasured
+SELECTING CONFOUNDERS FROM COVARIATES,https://doi.org/10.2307/2983362,1,0,0,Basic concepts
+Methods for Variable Selection and Treatment Effect Estimation in Nonrandomized Studies with Few Outcome Events and Many Confounders,https://doi.org/10.25302/3.2018.ME.13035796,0,0,0,Not a paper
+Methods for Improving Confounding Control in Comparative Effectiveness Research Using Electronic Healthcare Databases,https://doi.org/10.25302/7.2019.ME.13035638,0,0,0,Not a paper
+Estimation of Indirect Effects in the Presence of Unmeasured Confounding for the Mediator-Outcome Relationship in a Multilevel 2-1-1 Mediation Model,https://doi.org/10.3102/1076998616636855,1,0,0,"Unmeasured, mediation"
+Effects of platelet and plasma transfusion on outcome in traumatic brain injury patients with moderate bleeding diatheses,https://doi.org/10.3171/2012.11.JNS12622,0,0,0,Application
+On Associative Confounder Bias,https://doi.org/10.3233/978-1-61499-589-0-157,1,0,0,Associative confounding
+OntoBioStat: Supporting Causal Diagram Design and Analysis,https://doi.org/10.3233/SHTI220463,0,0,0,Software
+SurvBoost: An R Package for High-Dimensional Variable Selection in the Stratified Proportional Hazards Model via Gradient Boosting,https://doi.org/10.32614/rj-2020-018,0,0,0,Software
+"Blood Hemoglobin Substantially Modulates the Impact of Gender, Morbid Obesity, and Hyperglycemia on COVID-19 Death Risk: A Multicenter Study in Italy and Spain",https://doi.org/10.3389/fendo.2021.741248,0,0,0,Application
+High-Dimensional Mediation Analysis With Confounders in Survival Models,https://doi.org/10.3389/fgene.2021.688871,1,0,0,Mediation
+Linear high-dimensional mediation models adjusting for confounders using propensity score method,https://doi.org/10.3389/fgene.2022.961148,1,0,0,Mediation
+"Confounding and Statistical Significance of Indirect Effects: Childhood Adversity, Education, Smoking, and Anxious and Depressive Symptomatology",https://doi.org/10.3389/fpsyg.2017.01317,0,0,0,Application
+Developmental Trajectories in Diagnostic Reasoning: Understanding Data Are Confounded Develops Independently of Choosing Informative Interventions to Resolve Confounded Data,https://doi.org/10.3389/fpsyg.2022.800226,0,0,0,Application
+Causal Model Building in the Context of Cardiac Rehabilitation: A Systematic Review,https://doi.org/10.3390/ijerph20043182,0,0,0,Application
+Food Sources of Animal Protein in Relation to Overall and Cause-Specific Mortality-Causal Associations or Confounding? An Analysis of the EPIC-Heidelberg Cohort,https://doi.org/10.3390/nu15153322,0,0,0,Application
+The Confounder-Mediator Dilemma: Should We Control for Obesity to Estimate the Effect of Perfluoroalkyl Substances on Health Outcomes?,https://doi.org/10.3390/toxics8040125,0,0,0,Application
+Direction dependence analysis: A framework to test the direction of effects in linear models with an implementation in SPSS,https://doi.org/10.3758/s13428-018-1031-x,1,0,0,Software
+Confounder detection in linear mediation models: Performance of kernel-based tests of independence,https://doi.org/10.3758/s13428-019-01230-4,1,0,0,Mediation
+[Matching in observational research: from the directed acyclic graph perspective],https://doi.org/10.3760/cma.j.cn112338-20200601-00793,0,0,0,Basic concepts
+Best (but oft-forgotten) practices: propensity score methods in clinical nutrition research,https://doi.org/10.3945/ajcn.115.125914,0,0,0,Application
+Determining the Probability Distribution and Evaluating Sensitivity and False Positive Rate of a Confounder Detection Method Applied To Logistic Regression,https://doi.org/10.4172/2155-6180.1000142,0,0,0,
+Covariate selection criteria for controlling confounding bias in a causal study,https://doi.org/10.5351/KJAS.2016.29.5.849,0,0,0,
+SENSITIVITY ANALYSIS FOR UNMEASURED CONFOUNDING IN COARSE STRUCTURAL NESTED MEAN MODELS,https://doi.org/10.5705/ss.202016.0133,1,0,0,
+SEMIPARAMETRIC INFERENCE OF CAUSAL EFFECT WITH NONIGNORABLE MISSING CONFOUNDERS,https://doi.org/10.5705/ss.202018.0466,1,0,0,Missingness
+SEMIPARAMETRIC CAUSAL MEDIATION ANALYSIS WITH UNMEASURED MEDIATOR-OUTCOME CONFOUNDING,https://doi.org/10.5705/ss.202021.0354,1,0,0,"Unmeasured, mediation"
+Reporting on statistical methods to adjust for confounding:: A cross-sectional survey,https://doi.org/10.7326/0003-4819-136-2-200201150-00009,0,0,0,
+Lipid Peroxidation With Implication of Organic Pollution in Autistic Behaviors,https://doi.org/10.7759/cureus.14188,0,0,0,Application
