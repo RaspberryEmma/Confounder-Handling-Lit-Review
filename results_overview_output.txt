@@ -1,0 +1,131 @@
+/usr/bin/python3.10 /home/aa22294/Desktop/PhD - Computational Statistics/All Reading/Confounder-Handling-Lit-Review-main/results_overview.py 
+
+
+*** All Papers ***
+                                                                                                                                         Title  ... relevancy
+0                   Familial Confounding of the Association Between Maternal Smoking During Pregnancy and Offspring Substance Use and Problems  ...         0
+1           Assessing seasonal confounding and model selection bias in air pollution epidemiology using positive and negative control analyses  ...         2
+2                                                               Confounding factors in determining causal soil moisture-precipitation feedback  ...         0
+3    Concerns Regarding P Value-Based Variable Selection of Exposure Variables and Confounding Factors: Comment on the Article by Hawker et al  ...         0
+4                                                  Risk factor adjustment in marginal structural model estimation of optimal treatment regimes  ...         2
+..                                                                                                                                         ...  ...       ...
+496                                                    SENSITIVITY ANALYSIS FOR UNMEASURED CONFOUNDING IN COARSE STRUCTURAL NESTED MEAN MODELS  ...         1
+497                                                            SEMIPARAMETRIC INFERENCE OF CAUSAL EFFECT WITH NONIGNORABLE MISSING CONFOUNDERS  ...         1
+498                                                      SEMIPARAMETRIC CAUSAL MEDIATION ANALYSIS WITH UNMEASURED MEDIATOR-OUTCOME CONFOUNDING  ...         1
+499                                                      Reporting on statistical methods to adjust for confounding:: A cross-sectional survey  ...         0
+500                                                             Lipid Peroxidation With Implication of Organic Pollution in Autistic Behaviors  ...         0
+
+[501 rows x 7 columns]
+
+
+*** Relevant Papers ***
+                                                                                                                                              Title  ... relevancy
+1                Assessing seasonal confounding and model selection bias in air pollution epidemiology using positive and negative control analyses  ...         2
+4                                                       Risk factor adjustment in marginal structural model estimation of optimal treatment regimes  ...         2
+5                                                                 Correction of confounding bias in non-randomized studies by appropriate weighting  ...         1
+6    Inverse-probability-of-treatment weighted estimation of causal parameters in the presence of error-contaminated and time-dependent confounders  ...         2
+7                                                                Covariate selection strategies for causal inference: Classification and comparison  ...         3
+..                                                                                                                                              ...  ...       ...
+490                     Direction dependence analysis: A framework to test the direction of effects in linear models with an implementation in SPSS  ...         1
+491                                              Confounder detection in linear mediation models: Performance of kernel-based tests of independence  ...         1
+496                                                         SENSITIVITY ANALYSIS FOR UNMEASURED CONFOUNDING IN COARSE STRUCTURAL NESTED MEAN MODELS  ...         1
+497                                                                 SEMIPARAMETRIC INFERENCE OF CAUSAL EFFECT WITH NONIGNORABLE MISSING CONFOUNDERS  ...         1
+498                                                           SEMIPARAMETRIC CAUSAL MEDIATION ANALYSIS WITH UNMEASURED MEDIATOR-OUTCOME CONFOUNDING  ...         1
+
+[261 rows x 7 columns]
+
+
+*** Relevant Methods Papers ***
+                                                                                                                                              Title  ... relevancy
+1                Assessing seasonal confounding and model selection bias in air pollution epidemiology using positive and negative control analyses  ...         2
+4                                                       Risk factor adjustment in marginal structural model estimation of optimal treatment regimes  ...         2
+5                                                                 Correction of confounding bias in non-randomized studies by appropriate weighting  ...         1
+6    Inverse-probability-of-treatment weighted estimation of causal parameters in the presence of error-contaminated and time-dependent confounders  ...         2
+7                                                                Covariate selection strategies for causal inference: Classification and comparison  ...         3
+..                                                                                                                                              ...  ...       ...
+490                     Direction dependence analysis: A framework to test the direction of effects in linear models with an implementation in SPSS  ...         1
+491                                              Confounder detection in linear mediation models: Performance of kernel-based tests of independence  ...         1
+496                                                         SENSITIVITY ANALYSIS FOR UNMEASURED CONFOUNDING IN COARSE STRUCTURAL NESTED MEAN MODELS  ...         1
+497                                                                 SEMIPARAMETRIC INFERENCE OF CAUSAL EFFECT WITH NONIGNORABLE MISSING CONFOUNDERS  ...         1
+498                                                           SEMIPARAMETRIC CAUSAL MEDIATION ANALYSIS WITH UNMEASURED MEDIATOR-OUTCOME CONFOUNDING  ...         1
+
+[254 rows x 7 columns]
+
+
+*** Relevant Simulation Papers ***
+                                                                                                                                                     Title  ... relevancy
+1                       Assessing seasonal confounding and model selection bias in air pollution epidemiology using positive and negative control analyses  ...         2
+4                                                              Risk factor adjustment in marginal structural model estimation of optimal treatment regimes  ...         2
+6           Inverse-probability-of-treatment weighted estimation of causal parameters in the presence of error-contaminated and time-dependent confounders  ...         2
+7                                                                       Covariate selection strategies for causal inference: Classification and comparison  ...         3
+8                                                                                          Propensity score methods for time-dependent cluster confounding  ...         2
+9    A comparison of full model specification and backward elimination of potential confounders when estimating marginal and conditional causal effects...  ...         2
+27                               Variable selection for propensity score models when estimating treatment effects on multiple outcomes: a simulation study  ...         2
+32                              A comparison of confounder selection and adjustment methods for estimating causal effects using large healthcare databases  ...         3
+34                     Controlling for confounding via propensity score methods can result in biased estimation of the conditional AUC: A simulation study  ...         1
+38                                    Improved estimation of controlled direct effects in the presence of unmeasured confounding of intermediate variables  ...         2
+43   Use of instrumental variables in the analysis of generalized linear models in the presence of unmeasured confounding with applications to epidemio...  ...         2
+63                                                                            Confounder selection strategies targeting stable treatment effect estimators  ...         2
+65                                                                        Practical recommendations on double score matching for estimating causal effects  ...         2
+66   Identification and robust estimation of swapped direct and indirect effects: Mediation analysis with unmeasured mediator-outcome confounding and i...  ...         2
+67             Consistent inverse probability of treatment weighted estimation of the average treatment effect with mismeasured time-dependent confounders  ...         2
+78                 Sensitivity analysis for unobserved confounding in causal mediation analysis allowing for effect modification, censoring and truncation  ...         2
+88                                                               Causal modelling of heavy-tailed variables and confounders with application to river flow  ...         2
+97   High-Dimensional Propensity Score-Adjusted Case-Crossover for Discovering Adverse Drug Reactions from Computerized Administrative Healthcare Datab...  ...         2
+108                                          Confounder selection in environmental epidemiology: Assessment of health effects of prenatal mercury exposure  ...         2
+136                                          Comparison of high-dimensional confounder summary scores in comparative studies of newly marketed medications  ...         2
+211                   Controlling for spatial confounding and spatial interference in causal inference: modelling insights from a computational experiment  ...         2
+219                          Comparison of logistic regression versus propensity score when the number of events is low and there are multiple confounders  ...         1
+228  Treatment Effects in the Presence of Unmeasured Confounding: Dealing With Observations in the Tails of the Propensity Score Distribution-A Simulat...  ...         2
+229                                                Covariate selection in high-dimensional propensity score analyses of treatment effects in small samples  ...         2
+254            Investigation of the structure and magnitude of time-varying uncontrolled confounding in simulated cohort data analyzed using g-computation  ...         2
+264                                                                                                    SIMULATION STUDY OF CONFOUNDER-SELECTION STRATEGIES  ...         2
+267                                                            Selection bias and confounding in case-crossover analyses of environmental time-series data  ...         1
+271  Studies with Many Covariates and Few Outcomes <i>Selecting Covariates and Implementing Propensity</i>-<i>Score</i>-<i>Based Confounding Adjustment...  ...         1
+276                                                        Using Super Learner Prediction Modeling to Improve High-dimensional Propensity Score Estimation  ...         2
+286                                    A Comparison of Methods to Estimate the Hazard Ratio Under Conditions of Time-varying Confounding and Nonpositivity  ...         2
+309                                                                                      Data-driven confounder selection via Markov and Bayesian networks  ...         2
+391                                                 Propensity score specification for optimal estimation of average treatment effect with binary response  ...         2
+393                                                                            The change in estimate method for selecting confounders: A simulation study  ...         2
+414  Comparing g-computation, propensity score-based weighting, and targeted maximum likelihood estimation for analyzing externally controlled trials w...  ...         3
+472    How to Apply Multiple Imputation in Propensity Score Matching with Partially Observed Confounders: A Simulation Study and Practical Recommendations  ...         2
+
+[35 rows x 7 columns]
+
+
+*** Relevant Review Papers ***
+                                                                                                                                                     Title  ... relevancy
+7                                                                       Covariate selection strategies for causal inference: Classification and comparison  ...         3
+28                                                                 A review of covariate selection for non-experimental comparative effectiveness research  ...         2
+31                                                                                 Addressing unmeasured confounding in comparative observational research  ...         2
+32                              A comparison of confounder selection and adjustment methods for estimating causal effects using large healthcare databases  ...         3
+33       Machine learning for improving high-dimensional proxy confounder adjustment in healthcare database studies: An overview of the current literature  ...         2
+79                                                                                         Variable selection: current practice in epidemiological studies  ...         2
+84                                                                                                                      Principles of confounder selection  ...         2
+85                                  A descriptive review of variable selection methods in four epidemiologic journals: there is still room for improvement  ...         2
+92                                                   Low-dimensional confounder adjustment and high-dimensional penalized estimation for survival analysis  ...         2
+94          A Review of the Techniques Used to Control Confounding Bias and How Spatiotemporal Variation Can Be Controlled in Environmental Impact Studies  ...         2
+106                          Confounding, causality, and confusion: the role of intermediate variables in interpreting observational studies in obstetrics  ...         2
+134                                Reporting of covariate selection and balance assessment in propensity score analysis is suboptimal: a systematic review  ...         2
+138                                                    Adjusting for unmeasured confounding in nonrandomized longitudinal studies: a methodological review  ...         2
+146                                Nonlinear association criterion, nonlinear Granger causality and related issues with applications to neuroimage studies  ...         1
+217                                                              Recent Methodological Trends in Epidemiology: No Need for Data-Driven Variable Selection?  ...         2
+286                                    A Comparison of Methods to Estimate the Hazard Ratio Under Conditions of Time-varying Confounding and Nonpositivity  ...         2
+378  Estimating controlled direct effects in the presence of intermediate confounding of the mediator-outcome relationship: Comparison of five differen...  ...         2
+414  Comparing g-computation, propensity score-based weighting, and targeted maximum likelihood estimation for analyzing externally controlled trials w...  ...         3
+421                                                       Model selection, confounder control, and marginal structural models: Review and new applications  ...         2
+426                                                                    Regularization and Confounding in Linear Regression for Treatment Effect Estimation  ...         1
+471                                                                                     Meta-Analysis of Observational Studies with Unmeasured Confounders  ...         2
+
+[21 rows x 7 columns]
+
+
+*** Relevant Best Papers ***
+                                                                                                                                                     Title  ... relevancy
+7                                                                       Covariate selection strategies for causal inference: Classification and comparison  ...         3
+32                              A comparison of confounder selection and adjustment methods for estimating causal effects using large healthcare databases  ...         3
+414  Comparing g-computation, propensity score-based weighting, and targeted maximum likelihood estimation for analyzing externally controlled trials w...  ...         3
+
+[3 rows x 7 columns]
+
+Process finished with exit code 0

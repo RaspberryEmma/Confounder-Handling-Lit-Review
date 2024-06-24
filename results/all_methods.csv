@@ -1,116 +1,116 @@
-Method_name,Method_name_long,Source,Domain,Based_off,Fits_predictive_model,Model_type,Identifies_explicit_adj_set,Determines_unconfoudnedness,Uses_DAG,Requires_complete_DAG,Uses_embedding,Embedding_type,Doubly-robust
-Positive Control Analysis,Positive Control Analysis,,,,,,,,,,,,
-Negative Control Analysis,Negative Control Analysis,,,,,,,,,,,,
-MSM,Marginal Structural Models,,,,,,,,,,,,
-Risk Scores,Risk Scores,,,,,,,,,,,,
-Propensity Scores (standard),Propensity Scores (standard),,,,,,,,,,,,
-Propensity Scores (clusters),Propensity Scores (clusters),,,,,,,,,,,,
-Propensity Scores (c statistic),Propensity Scores (c statistic),,,,,,,,,,,,
-"Propensity Scores (high dimensional, typical)","Propensity Scores (high dimensional, typical)",,,,,,,,,,,,
-"Propensity Scores (high dimensional, adjusted)","Propensity Scores (high dimensional, adjusted)",,,,,,,,,,,,
-"Propensity Scores (high dimensional, large scale) (LSPS)","Propensity Scores (high dimensional, large scale) (LSPS)",,,,,,,,,,,,
-C-Bias Analysis,,,,,,,,,,,,,
-IV Analysis,Instrumental variable analysis,,,,,,,,,,,,
-IPTW (naive),Inverse probability of treatment weighting (naive),,,,,,,,,,,,
-IPTW (corrected),Inverse probability of treatment weighting (corrected),,,,,,,,,,,,
-Correction-based,Correction-based,,,,,,,,,,,,
-AIC,Akaike information criterion,,,,,,,,,,,,
-BIC,Bayesian information criterion,,,,,,,,,,,,
-LDSC,Linkage disequilibrium score regression,,Genetic,,,,,,,,,,
-LASSO (standard),Least absolute shrinkage and selection operator (standard),,,,,,,,,,,,
-LASSO (outcome-adaptive),Least absolute shrinkage and selection operator (outcome-adaptive),,,,,,,,,,,,
-LASSO (LSKM),Least absolute shrinkage and selection operator (least squares kernel machine),,,,,,,,,,,,
-LASSO (group),Least absolute shrinkage and selection operator (group),,,,,,,,,,,,
-LASSO (least-angle),Least absolute shrinkage and selection operator (least-angle),,,,,,,,,,,,
-LASSO (infinitesimal stagewise),Least absolute shrinkage and selection operator (infinitesimal stagewise),,,,,,,,,,,,
-Forward Selection,Forward Selection,,,,,,,,,,,,
-Backward Selection,Backward Selection,,,,,,,,,,,,
-Stepwise Selection,Stepwise Selection,,,,,,,,,,,,
-Pseudo-treatment,,,,,,,,,,,,,
-Manski’s partial,,,,,,,,,,,,,
-Sensitivity Analysis,,,,,,,,,,,,,
-Sensitivity Analysis (R-R),,,,,,,,,,,,,
-Sensitivity Analysis ( R ),,,,,,,,,,,,,
-MI (standard),Multiple imputation,,,,,,,,,,,,
-MI (Chained equations),Multiple imputation by chained equations,,,,,,,,,,,,
-PSC,,,,,,,,,,,,,
-Bayesian Twin,,,,,,,,,,,,,
-Empirical distribution,,,,,,,,,,,,,
-Reg Discontinuity,,,,,,,,,,,,,
-Difference-in-difference,,,,,,,,,,,,,
-Missing cause,,,,,,,,,,,,,
-T-in-T,,,,,,,,,,,,,
-PV,,,,,,,,,,,,,
-BAC,Bayesian adjustment for confounding,,,,,,,,,,,,
-BCEE,Bayesian causal effect estimation,,,,,,,,,,,,
-GBCEE,Generalized Bayesian causal effect estimation,,,,,,,,,,,,
-Doubly-robust estimation,,,,,,,,,,,,,
-TMLE (max),Targeted maximum likelihood estimation,,,,,,,,,,,,
-TMLE (min),Targeted minimum loss estimation,,,,,,,,,,,,
-TMLE (Collaborative),Collaborative targeted minimum loss estimation,,,,,,,,,,,,
-Kernel-based ML,,,,,,,,,,,,,
-ACDE estimator,Average causal direct effect,,,,,,,,,,,,
-Bayes (empirical),Bayes (empirical),,,,,,,,,,,,
-Bayes (full),Bayes (full),,,,,,,,,,,,
-IVA,Instrumental variable analysis,,,,,,,,,,,,
-AIPW estimators,Augmented inverse probability weighting,,,,,,,,,,,,
-G-computation,G-computation,,,,,,,,,,,,
-G-estimation of SNM,G-estimation of structured nested models,,,,,,,,,,,,
-SA (semi-parametric),Sensitivity analysis (semi-parametric),,,,,,,,,,,,
-SA (Bayesian),Sensitivity analysis (Bayesian),,,,,,,,,,,,
-SA (MC),Sensitivity analysis (Monte Carlo),,,,,,,,,,,,
-Double-score estimation,,,,,,,,,,,,,
-SIMEX,Simulation extrapolation method,,,,,,,,,,,,
-RCM,Rubin causal model,,,,,,,,,,,,
-BMA,Bayesian model averaging,,,,,,,,,,,,
-Invariant rise minimisation,Invariant rise minimisation,,,,,,,,,,,,
-CS*,,,,,,,,,,,,,
-FCI (standard),Fast Causal Inference (standard),,,,,,,,,,,,
-FCI (augmented),Fast Causal Inference (augmented),,,,,,,,,,,,
-FCI ( R ),Fast Causal Inference (,,,,,,,,,,,,
-Mediation analysis,Mediation analysis,,,,,,,,,,,,
-Case control matching,Case control matching,,,,,,,,,,,,
-Extremal (heavy-tail),Extremal (heavy-tail),,,,,,,,,,,,
-BN,Bayesian Networks,,,,,,,,,,,,
-BN (Markov),Markov Bayesian Networks,,,,,,,,,,,,
-SEM,Structural equation modelling,,,,,,,,,,,,
-Stratification by multivariate confounding score,Stratification by multivariate confounding score,,,,,,,,,,,,
-Semantic vector-based confounding search,Semantic vector-based confounding search,,,,,,,,,,,,
-String-based confounding search,String-based confounding search,,,,,,,,,,,,
-DDA,Direct-dependence analysis,,,,,,,,,,,,
-Random forests,Random forests,,,,,,,,,,,,
-External validation via Bayesian procedure,External validation via Bayesian procedure,,,,,,,,,,,,
-Hdi,Hazard-distance estimator,,,,,,,,,,,,
-Proximal CI,Proximal causal inference,,,,,,,,,,,,
-DeFUSE,Deconfounded Functional Structure Estimation,,,,,,,,,,,,
-GrIVET,Graphical Instrumental Variable Estimation and Testing,,,,,,,,,,,,
-Moran-form Multiple Regression,Moran-form Multiple Regression,,,,,,,,,,,,
-DRS,Disease-risk score,,,,,,,,,,,,
-TSC,Two-stage calibration,,,,,,,,,,,,
-SCMM,Sequential conditional mean model,,,,,,,,,,,,
-DRCGEE,doubly robust conditional generalized estimating equation,,,,,,,,,,,,
-Matching methods,Matching methods,,,,,,,,,,,,
-Simultaneous multi-bias analysis,Simultaneous multi-bias analysis,,,,,,,,,,,,
-QBA,Quantitative bias analysis,,,,,,,,,,,,
-Penalised credible regions,Penalised credible regions,,,,,,,,,,,,
-SNCSTM,Structured nested cumulative survival-time models,,,,,,,,,,,,
-AFTM,Accelerated failure-time models,,,,,,,,,,,,
-BAC,Bayesian adjustment for confounding,,,,,,,,,,,,
-BAC (T),Bayesian adjustment for confounding (two-stage),,,,,,,,,,,,
-2SLS,2-Stage Least Squares,,,,,,,,,,,,
-2SRI,2-Stage Residual Inclusion,,,,,,,,,,,,
-DCB,Differentiated Confounder Balancing,,,,,,,,,,,,
-DCB (RA),Differentiated Confounder Balancing (Regression Adjusted),,,,,,,,,,,,
-CMA,Causal Mediation Analysis,,,,,,,,,,,,
-CMA (modified),Causal Mediation Analysis (modified),,,,,,,,,,,,
-DENC,De-Bias Network Confounding in Recommendation,,,,,,,,,,,,
-GPLTR (standard),Generalized Partially Linear Tree-based Regression (standard),,,,,,,,,,,,
-GPLTR (bagged),Generalized Partially Linear Tree-based Regression (bagged),,,,,,,,,,,,
-LiNGAM,Linear Non-Gaussian Acyclic Models,,,,,,,,,,,,
-First moments of spectral measure,First moments of spectral measure,,,,,,,,,,,,
-BSSCE,Bi-level spike and slab causal estimator,,,,,,,,,,,,
-CIE,Change in estimate,,,,,,,,,,,,
-CIE (simulation informed),Change in estimate (simulation informed),,,,,,,,,,,,
-Sparse sufficient dimension-reduction method,Sparse sufficient dimension-reduction method,,,,,,,,,,,,
-DML,double/debiased machine learning,,,,,,,,,,,,
-IGE,Iterative Graph Expansion,,,,,,,,,,,,
+Method_name,Method_name_long
+Positive Control Analysis,Positive Control Analysis
+Negative Control Analysis,Negative Control Analysis
+MSM,Marginal Structural Models
+Risk Scores,Risk Scores
+Propensity Scores (standard),Propensity Scores (standard)
+Propensity Scores (clusters),Propensity Scores (clusters)
+Propensity Scores (c statistic),Propensity Scores (c statistic)
+"Propensity Scores (high dimensional, typical)","Propensity Scores (high dimensional, typical)"
+"Propensity Scores (high dimensional, adjusted)","Propensity Scores (high dimensional, adjusted)"
+"Propensity Scores (high dimensional, large scale) (LSPS)","Propensity Scores (high dimensional, large scale) (LSPS)"
+C-Bias Analysis,
+IV Analysis,Instrumental variable analysis
+IPTW (naive),Inverse probability of treatment weighting (naive)
+IPTW (corrected),Inverse probability of treatment weighting (corrected)
+Correction-based,Correction-based
+AIC,Akaike information criterion
+BIC,Bayesian information criterion
+LDSC,Linkage disequilibrium score regression
+LASSO (standard),Least absolute shrinkage and selection operator (standard)
+LASSO (outcome-adaptive),Least absolute shrinkage and selection operator (outcome-adaptive)
+LASSO (LSKM),Least absolute shrinkage and selection operator (least squares kernel machine)
+LASSO (group),Least absolute shrinkage and selection operator (group)
+LASSO (least-angle),Least absolute shrinkage and selection operator (least-angle)
+LASSO (infinitesimal stagewise),Least absolute shrinkage and selection operator (infinitesimal stagewise)
+Forward Selection,Forward Selection
+Backward Selection,Backward Selection
+Stepwise Selection,Stepwise Selection
+Pseudo-treatment,
+Manski’s partial,
+Sensitivity Analysis,
+Sensitivity Analysis (R-R),
+Sensitivity Analysis ( R ),
+MI (standard),Multiple imputation
+MI (Chained equations),Multiple imputation by chained equations
+PSC,
+Bayesian Twin,
+Empirical distribution,
+Reg Discontinuity,
+Difference-in-difference,
+Missing cause,
+T-in-T,Treatment-in-treatment
+PV,
+BAC,Bayesian adjustment for confounding
+BCEE,Bayesian causal effect estimation
+GBCEE,Generalized Bayesian causal effect estimation
+Doubly-robust estimation,
+TMLE (max),Targeted maximum likelihood estimation
+TMLE (min),Targeted minimum loss estimation
+TMLE (Collaborative),Collaborative targeted minimum loss estimation
+Kernel-based ML,
+ACDE estimator,Average causal direct effect
+Bayes (empirical),Bayes (empirical)
+Bayes (full),Bayes (full)
+IVA,Instrumental variable analysis
+AIPW estimators,Augmented inverse probability weighting
+G-computation,G-computation
+G-estimation of SNM,G-estimation of structured nested models
+SA (semi-parametric),Sensitivity analysis (semi-parametric)
+SA (Bayesian),Sensitivity analysis (Bayesian)
+SA (MC),Sensitivity analysis (Monte Carlo)
+Double-score estimation,
+SIMEX,Simulation extrapolation method
+RCM,Rubin causal model
+BMA,Bayesian model averaging
+Invariant rise minimisation,Invariant rise minimisation
+CS*,
+FCI (standard),Fast Causal Inference (standard)
+FCI (augmented),Fast Causal Inference (augmented)
+FCI ( R ),Fast Causal Inference (
+Mediation analysis,Mediation analysis
+Case control matching,Case control matching
+Extremal (heavy-tail),Extremal (heavy-tail)
+BN,Bayesian Networks
+BN (Markov),Markov Bayesian Networks
+SEM,Structural equation modelling
+Stratification by multivariate confounding score,Stratification by multivariate confounding score
+Semantic vector-based confounding search,Semantic vector-based confounding search
+String-based confounding search,String-based confounding search
+DDA,Direct-dependence analysis
+Random forests,Random forests
+External validation via Bayesian procedure,External validation via Bayesian procedure
+Hdi,Hazard-distance estimator
+Proximal CI,Proximal causal inference
+DeFUSE,Deconfounded Functional Structure Estimation
+GrIVET,Graphical Instrumental Variable Estimation and Testing
+Moran-form Multiple Regression,Moran-form Multiple Regression
+DRS,Disease-risk score
+TSC,Two-stage calibration
+SCMM,Sequential conditional mean model
+DRCGEE,doubly robust conditional generalized estimating equation
+Matching methods,Matching methods
+Simultaneous multi-bias analysis,Simultaneous multi-bias analysis
+QBA,Quantitative bias analysis
+Penalised credible regions,Penalised credible regions
+SNCSTM,Structured nested cumulative survival-time models
+AFTM,Accelerated failure-time models
+BAC,Bayesian adjustment for confounding
+BAC (T),Bayesian adjustment for confounding (two-stage)
+2SLS,2-Stage Least Squares
+2SRI,2-Stage Residual Inclusion
+DCB,Differentiated Confounder Balancing
+DCB (RA),Differentiated Confounder Balancing (Regression Adjusted)
+CMA,Causal Mediation Analysis
+CMA (modified),Causal Mediation Analysis (modified)
+DENC,De-Bias Network Confounding in Recommendation
+GPLTR (standard),Generalized Partially Linear Tree-based Regression (standard)
+GPLTR (bagged),Generalized Partially Linear Tree-based Regression (bagged)
+LiNGAM,Linear Non-Gaussian Acyclic Models
+First moments of spectral measure,First moments of spectral measure
+BSSCE,Bi-level spike and slab causal estimator
+CIE,Change in estimate
+CIE (simulation informed),Change in estimate (simulation informed)
+Sparse sufficient dimension-reduction method,Sparse sufficient dimension-reduction method
+DML,double/debiased machine learning
+IGE,Iterative Graph Expansion
