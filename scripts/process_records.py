@@ -54,8 +54,13 @@ for i in range(0, num_papers):
             union.at[i, 'Author'] = union.at[i, 'Author_x']
         elif (isinstance(union.at[i, 'Author_y'], str)):
             union.at[i, 'Author'] = union.at[i, 'Author_y']
-
 union = union[["Title", "DOI", "Author"]]
+
+doi_start = "https://doi.org/"
+doi_links = doi_start + union['DOI'].astype(str)
+print(doi_links)
+union['DOI'] = doi_links
+
 union.to_csv('../results/all_sources.csv', index=False)
 
 
@@ -97,3 +102,4 @@ for i in range(0, num_papers):
 
     print("  *", paper, ":", found)
 print("  * Total Found: ", total, "/", num_papers)
+
