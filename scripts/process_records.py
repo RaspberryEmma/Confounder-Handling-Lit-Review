@@ -6,7 +6,7 @@
 # Emma Tarmey
 #
 # Started:          07/05/2024
-# Most Recent Edit: 16/05/2024
+# Most Recent Edit: 28/05/2024
 # ****************************************
 
 
@@ -22,8 +22,8 @@ key_papers_filename     = "../results/key_papers.csv"
 
 print("\n\n*** Web of Science ***")
 web_of_science_df = pd.read_csv(web_of_science_filename, delimiter='\t')
-web_of_science_df = web_of_science_df[["TI", "DI"]]
-web_of_science_df.rename(columns={'TI':'Title', 'DI':'DOI'}, inplace=True)
+web_of_science_df = web_of_science_df[["TI", "DI", "AU"]]
+web_of_science_df.rename(columns={'TI':'Title', 'DI':'DOI', 'AU':'Author'}, inplace=True)
 web_of_science_df = web_of_science_df.replace('NaN', np.nan)
 web_of_science_df = web_of_science_df.dropna()
 print(web_of_science_df)
@@ -31,7 +31,8 @@ print(web_of_science_df)
 
 print("\n\n*** PubMed ***")
 pubmed_df = pd.read_csv(pubmed_filename)
-pubmed_df = pubmed_df[["Title", "DOI"]]
+pubmed_df = pubmed_df[["Title", "DOI", "Authors"]]
+pubmed_df.rename(columns={'Authors':'Author'}, inplace=True)
 pubmed_df = pubmed_df.replace('NaN', np.nan)
 pubmed_df = pubmed_df.dropna()
 print(pubmed_df)
@@ -42,12 +43,19 @@ union = pd.merge(web_of_science_df, pubmed_df, how = "outer", on='DOI')
 num_papers = len(union.index)
 union['Title'] = ["" for x in range(num_papers)]
 for i in range(0, num_papers):
+    # resolve title merge
     if (isinstance( union.at[i, 'Title_x'], str)):
         union.at[i, 'Title'] = union.at[i, 'Title_x']
     elif (isinstance( union.at[i, 'Title_y'], str)):
         union.at[i, 'Title'] = union.at[i, 'Title_y']
-union = union[["Title", "DOI"]]
-print(union)
+    # resolve author merge
+    for i in range(0, num_papers):
+        if (isinstance(union.at[i, 'Author_x'], str)):
+            union.at[i, 'Author'] = union.at[i, 'Author_x']
+        elif (isinstance(union.at[i, 'Author_y'], str)):
+            union.at[i, 'Author'] = union.at[i, 'Author_y']
+
+union = union[["Title", "DOI", "Author"]]
 union.to_csv('../results/all_sources.csv', index=False)
 
 
